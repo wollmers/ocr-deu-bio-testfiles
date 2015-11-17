@@ -1,0 +1,36 @@
+used dicts: 
+   authors:    49987
+   deu_10K:    10000
+   deu_18*:      199
+   deu__1M:  1732929
+   eng_10K:    10000
+   fra_10K:    10000
+   lat_10K:     9110
+   lat__1M:     9110
+
+*** file: dieschmetterl01hofm.abby.txt
+tokens:        795
+crap:           71 (0.09)
+    sim .7:     13 (0.02)
+words:         724 (0.91)
+in dicts:      422 (0.53)
+    sim .7:    208 (0.26)
+   authors:     46 (0.06)
+   deu_10K:    303 (0.38)
+   deu__1M:     68 (0.09)
+   eng_10K:      1 (0.00)
+   fra_10K:      2 (0.00)
+   lat_10K:      2 (0.00)
+
+*** file: dieschmetterling01hofm_0195.txt
+tokens:        826
+crap:          120 (0.15)
+    sim .7:     21 (0.03)
+words:         706 (0.85)
+in dicts:      397 (0.48)
+    sim .7:    218 (0.26)
+   authors:     38 (0.05)
+   deu_10K:    302 (0.37)
+   deu__1M:     51 (0.06)
+   eng_10K:      5 (0.01)
+   lat_10K:      1 (0.00)
