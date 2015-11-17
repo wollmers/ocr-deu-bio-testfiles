@@ -1,0 +1,247 @@
+../../ocr-measures/ocr_compare.pl Version 0.02
+
+Compare OCR text output against ground truth (GRT):
+File 1 (OCR): naturgeschichte00gt_0014.txt
+File 2 (GRT): naturgeschichte00gt_0014.corr.round_s.txt
+
+Vorbericht.¶ 1.000
+
+ben, müssen eet öfters mehr dem Zufall als ihrer¶
+|||||||||||||=+|||||||||||||||||||||||||||||||||| 0.959
+ben, müssen es_ öfters mehr dem Zufall als ihrer¶
+
+Geschickiichkeit verdanken. Aber schon genannte¶
+||||||||=||||||||||||||||||||||||||||||||||||||| 0.979
+Geschicklichkeit verdanken. Aber schon genannte¶
+
+Naturalien genauer zu beschreiben und zu be-¶ 1.000
+
+stimmen, als bisher geschehen , dazu ist mehr¶
+|||||||||||||||||||||||||||||+|||||||||||||||| 0.978
+stimmen, als bisher geschehen_, dazu ist mehr¶
+
+Gelegenheit vorhanden, und auch diese Bemü-¶ 1.000
+
+hung ist nützlich und verdienstlich.,, —- Dieß¶
+||||||||||||||||||||||||||||||||||||=+||||||||| 0.957
+hung ist nützlich und verdienstlich.„_ —- Dieß¶
+
+hat mich bewogen , auf diejenigen meiner Auf-¶
+||||||||||||||||+||||||||||||||||||||||||||||| 0.978
+hat mich bewogen_, auf diejenigen meiner Auf-¶
+
+fätze im Hanauischen Magazin, welche¶
+=|||||||||||||||||||||||||||||||||||| 0.973
+sätze im Hanauischen Magazin, welche¶
+
+die Naturgeschichte einiger Vögel betreffen,¶ 1.000
+
+mehrere Aufmerksamkeit zu Verwenden- und sie¶
+||||||||||||||||||||||||||=||||||||=||||||||| 0.956
+mehrere Aufmerksamkeit zu verwenden, und sie¶
+
+bisher mit allein Fleisse gröstentheile ganz aus-¶
+|||||||||||||||=+|||||||||||||||||||||=||||||||||| 0.940
+bisher mit allem_ Fleisse gröstentheils ganz aus-¶
+
+znarbeiten. Die seltensten unter den hier be-¶
+|=|||||||||||||||||||||||||||||||||||||||||||| 0.978
+zuarbeiten. Die seltensten unter den hier be-¶
+
+schriebenen Vögeln befinden sich in der,hiesigen¶
+|||||||||||||||||||||||||||||||||||||||=||||||||| 0.980
+schriebenen Vögeln befinden sich in der hiesigen¶
+
+Fins_tL Phasanerie, wo ich sie nach Gefallen¶
+|==|-==|||||||||||||||||||||||||||||||||||||| 0.889
+Fürstl. Phasanerie, wo ich sie nach Gefallen¶
+
+beobachten und die Beobachtungen des Phasen¶
+|||||||||||||||||||||||||||||||||||||||||==| 0.955
+beobachten und die Beobachtungen des Phasa-¶
+
+ncnwcirteeei benutzen konnte; zugleich besinden¶
+|=||=+|||==+|||||||||||||||||||||||||||||=|||||| 0.854
+nenwä_rters_ benutzen konnte; zugleich befinden¶
+
+sech von diesen und den übrigen wohl erhaltene¶
+|=||||||||||||||||||||||||||||||||||||||||||||| 0.979
+sich von diesen und den übrigen wohl erhaltene¶
+
+Exemplare in dem von mir angelegten und unter¶ 1.000
+
+meiner Aufsicht stehenden Naturalienkabinete¶ 1.000
+
+der Durchlauchtigsten Prinzess_m Marie¶
+||||||||||||||||||||||||||||||-=||||||| 0.949
+der Durchlauchtigsten Prinzessin Marie¶
+
+- Friederike zu Hess_m_ Die Schriftsteller¶
+++||||||||||||||||||-=-|||||||||||||||||||| 0.884
+__Friederike zu Hessen. Die Schriftsteller¶
+
+die ich dabei zu Rathe zu ziehen und zu vergleichen¶ 1.000
+
+Gelegenheit hatte, und deren eine ziemliche An-¶ 1.000
+
+i is zahl ist- hier alle zu nennen, würde zn we_ist-austi-¶
++++++||||||||=|||||||||||||||||||||||||||||=|||-=+==+|=||=| 0.746
+_____zahl ist, hier alle zu nennen, würde zu weit_lä_uftig¶
+
+)____¶
+=----| 0.167
+sein;¶
+
+
+Word mismatches:
+"Fürstl."     1
+  "FinstL"     1 (1.0000)
+"Geschicklichkeit"     1
+  "Geschickiichkeit"     1 (1.0000)
+"Hessen."     1
+  "Hessm"     1 (1.0000)
+"Phasa-"     1
+  "Phasen"     1 (1.0000)
+"Prinzessin"     1
+  "Prinzessm"     1 (1.0000)
+"allem"     1
+  "allein"     1 (1.0000)
+"befinden"     2
+  "befinden"     1 (0.5000)
+  "besinden"     1 (0.5000)
+"der"     2
+  "der"     1 (0.5000)
+  "der,hiesigen"     1 (0.5000)
+"es"     1
+  "eet"     1 (1.0000)
+"gröstentheils"     1
+  "gröstentheile"     1 (1.0000)
+"ist"     3
+  "ist"     2 (0.6667)
+  "ist-"     1 (0.3333)
+"nenwärters"     1
+  "ncnwcirteeei"     1 (1.0000)
+"sich"     2
+  "sech"     1 (0.5000)
+  "sich"     1 (0.5000)
+"sätze"     1
+  "fätze"     1 (1.0000)
+"verdienstlich.„"     1
+  "verdienstlich."     1 (1.0000)
+"verwenden"     1
+  "Verwenden-"     1 (1.0000)
+"weitläuftig"     1
+  "weist-austi-"     1 (1.0000)
+"zu"     9
+  "zn"     1 (0.1111)
+  "zu"     8 (0.8889)
+"zuarbeiten."     1
+  "znarbeiten."     1 (1.0000)
+
+Character mismatches:
+" "   134
+  " "   133 (0.9925)
+  ","     1 (0.0075)
+","    12
+  ","    10 (0.8333)
+  "-"     2 (0.1667)
+"-"     8
+  "-"     7 (0.8750)
+  "n"     1 (0.1250)
+"."     5
+  "."     4 (0.8000)
+  "L"     1 (0.2000)
+"a"    44
+  "a"    43 (0.9773)
+  "e"     1 (0.0227)
+"e"   170
+  "c"     1 (0.0059)
+  "e"   169 (0.9941)
+"f"    13
+  "f"    11 (0.8462)
+  "s"     2 (0.1538)
+"g"    24
+  "-"     1 (0.0417)
+  "g"    23 (0.9583)
+"i"    77
+  "e"     1 (0.0130)
+  "i"    76 (0.9870)
+"l"    36
+  "i"     1 (0.0278)
+  "l"    33 (0.9167)
+  "t"     2 (0.0556)
+"m"    20
+  "i"     1 (0.0500)
+  "m"    19 (0.9500)
+"n"    96
+  "m"     2 (0.0208)
+  "n"    94 (0.9792)
+"r"    53
+  "e"     1 (0.0189)
+  "n"     1 (0.0189)
+  "r"    51 (0.9623)
+"s"    50
+  ")"     1 (0.0200)
+  "e"     3 (0.0600)
+  "f"     1 (0.0200)
+  "s"    45 (0.9000)
+"t"    47
+  "i"     1 (0.0213)
+  "t"    46 (0.9787)
+"u"    41
+  "n"     2 (0.0488)
+  "u"    39 (0.9512)
+"v"     7
+  "V"     1 (0.1429)
+  "v"     6 (0.8571)
+"ä"     3
+  "-"     1 (0.3333)
+  "c"     1 (0.3333)
+  "ä"     1 (0.3333)
+"ü"     6
+  "i"     1 (0.1667)
+  "ü"     5 (0.8333)
+"„"     1
+  ","     1 (1.0000)
+
+Character match (confusion) table:
+  , 0.0075
+, - 0.1667
+- n 0.1250
+. L 0.2000
+a e 0.0227
+e c 0.0059
+f s 0.1538
+g - 0.0417
+i e 0.0130
+l i 0.0278
+l t 0.0556
+m i 0.0500
+n m 0.0208
+r e 0.0189
+r n 0.0189
+s ) 0.0200
+s e 0.0600
+s f 0.0200
+t i 0.0213
+u n 0.0488
+v V 0.1429
+ä - 0.3333
+ä c 0.3333
+ü i 0.1667
+„ , 1.0000
+
+Summary:
+
+             lines  words  chars
+items ocr:      26    164   1122 
+items grt:      26    160   1115 
+matches:         8    137   1074 
+edits:          18     28     57 
+ subss:         18     22     32 
+ inserts:        0      5     16 
+ deletions:      0      1      9 
+precision:  0.3077 0.8354 0.9572 
+recall:     0.3077 0.8562 0.9632 
+accuracy:   0.3077 0.8303 0.9496 
+f-score:    0.3077 0.8457 0.9602 
