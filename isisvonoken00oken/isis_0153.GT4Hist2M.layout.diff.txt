@@ -1,0 +1,384 @@
+../../ocr-measures/scripts/ocr-compare.pl Version 0.04
+
+Compare ground truth (GRT) against OCR text output:
+File 1 (GRT): isisvonoken00oken_0153.corr.orig.txt
+File 2 (OCR): isis_0153.GT4Hist2M.layout.txt
+
+249¶ 1.000
+
+3) G. Valentin, uͤber den Verlauf und die letzten¶
+~|||||||||||||||||||||||||||||||||||||||||||||||| 0.980
+8) G. Valentin, uͤber den Verlauf und die letzten¶
+
+Enden der Nerven, S. 51 mit 8 Tafeln.¶ 1.000
+
+Ein ſehr großer Aufſatz mit feinen Beobachtungen und¶ 1.000
+
+vielſeitigen Betrachtungen, welcher viele neue_ Aufſc_hluͤſſe uͤber¶
+||||||||||||||||||||||||||||||||||~|||||||||||+||||||+~~-||||||||| 0.909
+vielſeitigen Betrachtungen, welchet viele neue, Aufſchlü_ſſe uͤber¶
+
+den Bau und die Bedeutung der Nerven enthaͤlt. Die micro⸗¶
+|||||~||||||||||||||||||||||||||~|||||||||||||||||||||||| 0.965
+den Baͤu und die Bedeutung der Neiven enthaͤlt. Die micro⸗¶
+
+ſcopiſchen Abbildungen ſind ſo zahlreich, daß wir nicht im Stan⸗¶
+||||||||||||||||||||||||||||~|||||||||||||||||||~|||||||||||||||| 0.969
+ſcopiſchen Abbildungen ſind fo zahlreich, daß wit nicht im Stan⸗¶
+
+de ſind, den Jnnhalt derſelben anzuzeigen. Sie erreichen die¶
+|||||||||||||||~|||||||||||~|||||||||||||||||||||~||||||||||| 0.951
+de ſind, den Jnyhalt derſelden anzuzeigen. Sie erteichen die¶
+
+Zahl von 86 und ſind vom Verfaſſer ſelbſt gezeichnet.¶ 1.000
+
+4) J. F. Brandt, uͤber den Bau der ſogenannten¶
+|-|||||||||||||||||||||||||||||||||||||||~|||| 0.957
+4_ J. F. Brandt, uͤber den Bau der ſogenangten¶
+
+Moſchusdruͤſen des Sorex moschatus, S. 241, mit einer Taf.¶
+||||||~||||||||||||||||||||||||||||||||||||||||||||||||||| 0.983
+Moſchuoͤdruͤſen des Sorex moschatus, S. 241, mit einer Taf.¶
+
+Man kannte zwar ſchon dieſe Druͤſen durch die Unterſu⸗¶
+||||||||||||||||||||||||||||||||||||||||||||||||||~||| 0.981
+Man kannte zwar ſchon dieſe Druͤſen durch die Unterfu⸗¶
+
+chungen von Pallas, welche jedoch nicht ſo ins Einzelne gien⸗¶ 1.000
+
+gen und uͤberhaupt nicht ihre Bedeutung gehoͤrig entwickelten,¶
+|||||||||||~||||||||||||||||||||||||||||||||||||||||||||||||| 0.984
+gen und uͤbechaupt nicht ihre Bedeutung gehoͤrig entwickelten,¶
+
+auch von keinen ſo einzelnen Abbildungen begleitet waren wie¶ 1.000
+
+hier. Der Verfaſſer ſtellt ſie in die Bedeutung der Afterdruͤ⸗¶ 1.000
+
+ſen, obſchon ſie hinter dem After im Schwanze liegen. Er bil⸗¶
+~||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| 0.984
+fen, obſchon ſie hinter dem After im Schwanze liegen. Er bil⸗¶
+
+det die einzelnen Baͤlge und ihre Oeffnungen ab.¶ 1.000
+
+5) H. von Meyer, Beytraͤge zu Eryon, einem Ge⸗¶
+|||||||||||||||||||~|||||||||~|||||||||||||||| 0.957
+5) H. von Meyer, Beptraͤge zu Bryon, einem Ge⸗¶
+
+ſchlechte foſſiler langſchwaͤnziger Krebſe, S. 261, mit zwey¶ 1.000
+
+Tafeln.¶ 1.000
+
+Abgebildet ſind E. hartmanni, ſehr vollſtaͤndig, et schu-¶ 1.000
+
+berti; beyde umſtaͤndlich beſchrieben. E. cuvieri, sch_lotheimii.¶
+||||||||||||||||||||||||||||||||||||||~||||||||||||||+||||||||||| 0.969
+berti; beyde umſtaͤndlich beſchrieben. B. cuvieri, schilotheimii.¶
+
+6) H. von Meyer, Abweichungen von der Fuͤnfzahl¶
+||||||||||~|||||||||||||||||||||||||||||||||||| 0.979
+6) H. von Neyer, Abweichungen von der Fuͤnfzahl¶
+
+bey Echinideen, (nachgewieſen durch einen vierzaͤhligen Cidariten¶
+||||||||||||||||-~||||||||||||||||||||||||||||||||||||||||||||||| 0.969
+bey Echinideen, _machgewieſen durch einen vierzaͤhligen Cidariten¶
+
+und 6zaͤhligen Galeriten, S. 285, mit einer Tafel;¶ 1.000
+
+ein intereſſanter Aufſatz uͤber die von Agaſſiz angeregte¶ 1.000
+
+Symmetrie dieſer Thiere.¶ 1.000
+
+7) A. J. Corda, Anatome Hydrae fuscae pag. 297¶ 1.000
+
+cum tabulis tribus.¶ 1.000
+
+Der Verfaſſer bildet das Thier und ſeine einzelnen Theile¶
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||~|| 0.983
+Der Verfaſſer bildet das Thier und ſeine einzelnen Theite¶
+
+in ungeheurer Groͤße ab, und hat auch Dinge daran und darinn¶ 1.000
+
+gefunden, denen man bisher vergebens nachgegangen iſt; zuerſt¶ 1.000
+
+einen After, uͤber den man ſich ſeit laͤngerer Zeit geſtritten hat.¶ 1.000
+
+Der Leib ſchwillt an gewiſſen Stellen in Warzen an, welche¶ 1.000
+
+ſpiralfoͤrmig liegen und zum Taſten dienen; innwendig je 4¶
+|||||||~|||||||||||||||||||||||||||||||||||||||||||||||||| 0.983
+ſpiralförmig liegen und zum Taſten dienen; innwendig je 4¶
+
+gelbliche Muſkelfaſern nach der Laͤnge, welche die Extensores¶ 1.000
+
+tentaculi zu ſeyn ſcheinen; auch Adductores tentaculi ſind¶
+||||||||||||||||||||||||||||||||||||~|||||||||||||||||||||| 0.983
+tentaculi zu ſeyn ſcheinen; auch Addnctores tentaculi ſind¶
+
+vorhanden. Die Fuͤhlfaͤden ſind hohl, ſtehen aber nicht mit der¶
+||||||||||||||||||||||||||||||||||||||||||||~||||||||||||||||| 0.984
+vorhanden. Die Fuͤhlfaͤden ſind hohl, ſtehen ader nicht mit der¶
+
+Leibeshoͤhle in Verbindung; in ihrer eyweißartigen Maſſe liegen¶ 1.000
+
+braune Koͤrner zerſtreut. Die Warzen auf den Extensores¶
+||||||||||||||||||||||||||||||||||||||||||||||~|||||||| 0.982
+braune Koͤrner zerſtreut. Die Warzen auf den Exiensores¶
+
+tentaculi ſind merkwuͤrdig gebaut. Sie ſtecken in einem Saͤck⸗¶
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||~| 0.984
+tentaculi ſind merkwuͤrdig gebaut. Sie ſtecken in einem Saͤck—¶
+
+chen und endigen in eine Wimper. Dabey ſind noch andere¶ 1.000
+
+Organe, welche der Verfaſſer Hasta et Sagitta nennt und de⸗¶ 1.000
+
+ren Verhaͤltniß ſich ohne Abbildung nicht begreiflich machen laͤßt.¶ 1.000
+
+Sie dienen zum Anfaſſen und ſcheinen ein Gift zu enthalten:¶ 1.000
+
+denn die gefangenen Thierchen ſterben ſogleich. Zwiſchen je 2¶ 1.000
+
+Fuͤhlfaͤden ſteht eine Lippe. Der Leib beſteht aus 2 zelligen¶
+|||||||||||||||||||||||||||||||||||||~|||||||||||||||||||||| 0.983
+Fuͤhlfaͤden ſteht eine Lippe. Der Leib veſteht aus 2 zelligen¶
+
+Hautſchichten; in der innern hat er Germina gefunden; in der¶ 1.000
+
+Darmhaut Zotten mit Oeffnungen. Sie verdauen außerordent⸗¶ 1.000
+
+lich ſchnell, eine Kerflarve in 4 Minuten; Koͤrner von Vauche-¶ 1.000
+
+ria globata gehen unverdaut fort.¶
+|||||||~|||||||||||||||||||||||||| 0.971
+ria glohata gehen unverdaut fort.¶
+
+Die Abbildungen ſind ſehr ſchoͤn.¶ 1.000
+
+8) Dieſing, helminthologiſche Beytraͤge, S. 805, mit¶ 1.000
+
+einer Tafel.¶ 1.000
+
+Jſis 1838. Heft 4.¶
+|||||||~||||||||||| 0.947
+Jſis 1828. Heft 4.¶
+
+250¶ 1.000
+
+Eine neue Axine, welches Wort der Verfaſſer in He-¶
+|||||||||||~|||||||||||||||||||||||||||||||||||||~| 0.961
+Eine neue Azine, welches Wort der Verfaſſer in He—¶
+
+teracanthus verwandelt. Es fand ſich auf den Kiemen von¶ 1.000
+
+Esox belone. Er ſtellt das Thier zu den Trematoden, und¶ 1.000
+
+nennt es Heteracanthus sagittatus, die fruͤhere Axine aber¶ 1.000
+
+H_. pedatus. Er hat gefunden einen Darm, weibliche Theile,¶
+~+||||||||||||||||||||||||||||||||||||||||||||||||||||||||| 0.966
+IJ. pedatus. Er hat gefunden einen Darm, weibliche Theile,¶
+
+Eyerſtock, maͤnnliche Theile zwitterhaft; Haͤkchen und Stacheln¶
+|||||~|||||||||||||||||||||||||||||||||||~|||||||||||||||||-|| 0.952
+Eyerſlock, maͤnnliche Theile zwitterhaft; Baͤkchen und Stache_n¶
+
+am Schwanzende.¶ 1.000
+
+Ferner wird beſchrieben Tristoma papillosum und ab⸗¶ 1.000
+
+gebildet.¶ 1.000
+
+9) Walker⸗Arnott, Pugillus plantarum Indiae ori-¶ 1.000
+
+entalis p. 319 t. 1.¶
+|||||||||||~||||||||| 0.952
+entalis p. 819 t. 1.¶
+
+enthaͤlt Charactere von 126 Gattungen, und zwar dicoty⸗¶ 1.000
+
+ledoniſcher 30 Familien. Neue Sippen ſind: Rissoa (Limo-¶
+|||||||||||||||||||||||||||||||||||||~||||||||||||||||||| 0.982
+ledoniſcher 30 Familien. Neue Sippen find: Rissoa (Limo-¶
+
+nia); Moonia (similis Bidenti); Sykesia (Psychotria vagi-¶
+||||||||||||||~|||||||||||||||||||~||||||-|||||||||||||||| 0.948
+nia); Moonia (Similis Bidenti); Syhesia (_sychotria vagi-¶
+
+nans etc.) 357 Zuſatz von Nees de Solano wigh_tii fig.¶
+||||||||-||~|||||||||||||||||||||||||||||~||~+||||||||| 0.909
+nans etc_) 857 Zuſatz von Nees de Solano Viglitii fig.¶
+
+10) Lindenberg, Monographie der Riccieen 361 mit¶
+||-|~|||||||||||||||||||||||||||||||||||||||||||| 0.959
+10_ Tindenberg, Monographie der Riccieen 361 mit¶
+
+19 ill. Tafeln.¶ 1.000
+
+Ein ganzes Buch mit einer großen Einleitung uͤber den¶ 1.000
+
+Bau dieſer merkwuͤrdigen Pflanzen, ſowie uͤber ihr Wachsthum¶
+||||||||||||||||||||||||||||||||||~|||||||||||||||||||||||| 0.983
+Bau dieſer merkwuͤrdigen Pflanzen, fowie uͤber ihr Wachsthum¶
+
+und ihre Fortpflanzung, reich an eigenen Beobachtungen. Die¶ 1.000
+
+Familie enthaͤlt folgende Sippen: Riccia, Corsinia, Oxymi-¶
+|||||||||||||||||||||||||||||||||~||||~||||||||||~|||||||| 0.948
+Familie enthaͤlt folgende Sippen: Kiccis, Corsinia. Oxymi-¶
+
+tra, Sphaerocarpus. Von den Riccien werden 21 Gattungen¶ 1.000
+
+beſchrieben und abgebildet; von Corſinien 1; von Oxymitren¶
+~|||||||||||||||||||~||||||||||||||||||||||||||||||||||~||| 0.949
+deſchrieben und abgedildet; von Corſinien 1; von Oxymitten¶
+
+1; von Sphaͤrocarpen 1.¶
+|~||||||||||||||||||||| 0.957
+13 von Sphaͤrocarpen 1.¶
+
+11) Meyen, Beytraͤge zur Kenntniß der Azollen, S.¶
+|-||||||||||||||||||||||||||||||||||||||||||||||| 0.980
+1_) Meyen, Beytraͤge zur Kenntniß der Azollen, S.¶
+
+505, mit 1 Taf.¶ 1.000
+
+Ebenfalls eine ſehr genaue und microſcopiſche Unterſu⸗¶ 1.000
+
+chung dieſer merkwuͤrdigen Pflanzen, mit deutlichen Abbildun⸗¶ 1.000
+
+gen der ſo vielfach beſtrittenen Fruchttheile.¶ 1.000
+
+12) A. Henry, Beytrag zur Kenntniß der Laubknoſpen,¶
+||-||||~|||||||||||||||||||||||||||||||||||||||||||| 0.962
+12_ A. Senry, Beytrag zur Kenntniß der Laubknoſpen,¶
+
+S. 525, mit 2 Taf.¶
+|||~|~||||||||||||| 0.895
+S. 626, mit 2 Taf.¶
+
+Sehr genaue Zeichnungen der Blaͤtterlage von Knoſpen¶ 1.000
+
+unſers Laubholzes.¶ 1.000
+
+Dem Band iſt angehaͤngt das meteorologiſche Jahrbuch¶ 1.000
+
+der Sternwarte zu Jena von Prof. Schroͤn.¶
+|||||||||||||||||||||||||||||||||||||~||| 0.976
+der Sternwarte zu Jena von Prof. Schron.¶
+
+Sehr zahlreiche, muͤhſeelige, genaue und muſterhafte¶
+|||||||||||||||||||||~|||||||||||||||||||||||||||||| 0.981
+Sehr zahlreiche, muͤhſcelige, genaue und muſterhafte¶
+
+Beobachtungen.¶ 1.000
+
+Waltl, Beytraͤge¶
+||||||||||||~||| 0.938
+Waltl, Beytrage¶
+
+zur naͤhern naturhiſtoriſchen Kenntniß des Unterdonaukreiſes¶ 1.000
+
+in Bayern.¶ 1.000
+
+(Erſte Fortſetzung von 1837. S. 860.)_¶
+||||||||||||||-||||||||||~|||||||||||+| 0.923
+(Erſte Fortſet_ung von 1887. S. 860.).¶
+
+Wir naͤhern uns nun auf dem Wege nach Kirchdorf, ei⸗¶ 1.000
+
+nem Dorfe, welches 2½_ Stunden vom Regen und 15 von¶
+||||||||||||||||||||~+|||||||||||||||||||||||||||||| 0.962
+nem Dorfe, welches 244 Stunden vom Regen und 15 von¶
+
+Paſſau entfernt iſt, einer der erſten mineralogiſchen Merkwuͤr⸗¶ 1.000
+
+digkeiten, dem ſogenannten Pfahl. Dieſes maͤchtige Quarzla⸗¶ 1.000
+
+ger erſtreckt ſich von Oſten gegen Nordweſten, von Kirchdorf¶ 1.000
+
+uͤber acht Stunden weit, nach der Behauptung anderer kann¶ 1.000
+
+16*¶ 1.000
+
+_
++ 0.000
+¶
+
+
+Character match (confusion) table:
+GRT => OCR  ratio  errors   count
+---    --- ------ ------- -------
+'(' => '_' 0.2000       1       5
+')' => '_' 0.2143       3      14
+',' => '.' 0.0156       1      64
+'-' => '—' 0.1429       1       7
+'.' => '_' 0.0135       1      74
+'1' => '_' 0.0476       1      21
+'3' => '2' 0.1429       1       7
+'3' => '8' 0.5714       4       7
+'5' => '6' 0.1818       2      11
+';' => '3' 0.0667       1      15
+'E' => 'B' 0.1000       2      20
+'H' => 'B' 0.0909       1      11
+'H' => 'I' 0.0909       1      11
+'H' => 'S' 0.0909       1      11
+'L' => 'T' 0.1111       1       9
+'M' => 'N' 0.0909       1      11
+'P' => '_' 0.1250       1       8
+'R' => 'K' 0.2000       1       5
+'_' => ',' 0.1250       1       8
+'_' => '.' 0.1250       1       8
+'_' => '4' 0.1250       1       8
+'_' => 'J' 0.1250       1       8
+'_' => 'h' 0.1250       1       8
+'_' => 'i' 0.2500       2       8
+'_' => '¶' 0.1250       1       8
+'a' => 'aͤ' 0.0048       1     207
+'a' => 's' 0.0048       1     207
+'aͤ' => 'a' 0.0357       1      28
+'b' => 'd' 0.0548       4      73
+'b' => 'h' 0.0137       1      73
+'b' => 'v' 0.0137       1      73
+'e' => 'c' 0.0015       1     649
+'h' => 'l' 0.0114       2     175
+'k' => 'h' 0.0526       1      19
+'l' => '_' 0.0072       1     139
+'l' => 't' 0.0072       1     139
+'l' => 'ü' 0.0072       1     139
+'n' => 'g' 0.0022       1     461
+'n' => 'm' 0.0022       1     461
+'n' => 'y' 0.0022       1     461
+'oͤ' => 'o' 0.1250       1       8
+'oͤ' => 'ö' 0.1250       1       8
+'r' => 'c' 0.0038       1     263
+'r' => 'i' 0.0038       1     263
+'r' => 't' 0.0152       4     263
+'s' => 'S' 0.0172       1      58
+'s' => 'oͤ' 0.0172       1      58
+'t' => 'i' 0.0045       1     223
+'t' => 'l' 0.0045       1     223
+'u' => 'n' 0.0068       1     146
+'uͤ' => '_' 0.0455       1      22
+'w' => 'V' 0.0263       1      38
+'x' => 'z' 0.1250       1       8
+'y' => 'p' 0.0400       1      25
+'z' => '_' 0.0213       1      47
+'½' => '4' 1.0000       1       1
+'ſ' => 'f' 0.0362       5     138
+'⸗' => '—' 0.0556       1      18
+
+Summary:
+
+              lines   words   chars
+items ocr:      106     765    5075 matches + inserts + substitutions
+items grt:      105     764    5077 matches + deletions + substitutions
+matches:         62     698    5008 matches
+edits:           44      67      77 inserts + deletions + substitutions
+ subss:          43      66      59 substitutions
+ inserts:         1       1       8 inserts
+ deletions:       0       0      10 deletions
+precision:   0.5849  0.9124  0.9868 matches / (matches + substitutions + inserts)
+recall:      0.5905  0.9136  0.9864 matches / (matches + substitutions + deletions)
+accuracy:    0.5849  0.9124  0.9849 matches / (matches + substitutions + inserts + deletions)
+f-score:     0.5877  0.9130  0.9866 ( 2 * recall * precision ) / ( recall + precision )
+error:       0.4190  0.0877  0.0152 ( inserts + deletions + substitutions ) / (items grt )

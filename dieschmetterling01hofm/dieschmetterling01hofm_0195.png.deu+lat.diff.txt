@@ -1,0 +1,750 @@
+../../ocr-measures/scripts/ocr-compare.pl Version 0.04
+
+Compare ground truth (GRT) against OCR text output:
+File 1 (GRT): dieschmetterling01hofm_0195.orig.txt
+File 2 (OCR): dieschmetterling01hofm_0195.png.deu+lat.txt
+
+V. Familie.¶ 1.000
+
+und. wie oben erwähnt, ein gutes Unterscheidungsmerk—¶
+|||~|||||||||||||||||||||-||||||||||||||||||||||||||~| 0.944
+und, wie oben erwähnt, ei_ gutes Unterscheidungsmerk-¶
+
+mal von acáciae bildet_; gleichfarbige Schrägstriche stehen¶
+||||||||||||~|||||||||+||||||||~|||||||||||||||||||||||||||| 0.950
+mal von acác?ae bildet ; gleichtarbige Schrägstriche stehen¶
+
+an den Seiten, über den Füßen eine gelbliche Sei_ten—¶
+||||||||||||||||||||||||||||||||||||||||||||||||+|||~| 0.963
+an den Seiten, über den Füßen eine gelbliche Seilten-¶
+
+linie._ Kopf braun. 2,7 cm. Sie lebt im Mai, Juni a_n¶
+||||||+|||||||||||||||||~||||||||||||||||||||||||||+~| 0.926
+linie.. Kopf braun. 2,7 em. Sie lebt im Mai, Juni anu¶
+
+Schlehen und Pflaumenbäumen und wird vor der Ver-¶
+|~||||||||||||-||||||||||||||||||||||||||||||||||| 0.960
+Sehlehen und P_laumenbäumen und wird vor der Ver-¶
+
+wandlung rotbraun. Die Puppe ist stumpf, mit_ ab—¶
+|~|||||||||||||||||||||||||||||||||||||~||||+|||~| 0.920
+windlung rotbraun. Die Puppe ist stumpf. mit. ab-¶
+
+gerund_etem glattem Afterstücke, braun, heller und dunk-¶
+~|||||+|||||||~||||||||||||||||~||||||~|||||||||||||~|||| 0.895
+serundletem glittem Afterstücke. braun. heller und dnnk-¶
+
+ler gelblich gestrichelt und schattiert und liegt unbe-__¶
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||++| 0.966
+ler gelblich gestrichelt und schattiert und liegt unbe- -¶
+
+festigt, Wie quércus, an der Erde. — O. 1_. 2. 113. —¶
+|||||~|||~|||||||||||||||||||||||||||~||~+|||||||||||| 0.907
+festiet, wie quércus, an der Erde. — ©. lt. 2. 113. —¶
+
+Rsl. 1. 3. 37, Taf. 6. — Hb. 1. 40. — St. e. Z. 14. 333.¶
+-~~||||-||-~||||||||||||||||||||||||||||~||||||||||||~||| 0.860
+_SL. 1._3._87, Taf. 6. — Hb. 1. 40. — St, e. Z. 14. 3:3.¶
+
+Sepp. III, p. 45. 1. 12. — Dup. p. 77, pl. VII. Fig. 27. —¶
+||||||||-|||||||||~||~||||||||||||||||||||||~~~|||||||||||| 0.898
+Sepp. II_, p. 45. t. £2. — Dup. p. 77, pl. Vll, Fig. 27. —¶
+
+Wild. 51. — Pr. Taf. 2, Fig. 22. — Buck. p. 181. Taf. XII,¶
+||||||||||||||||||~|||||||||||||||||||||||||~~~~|||~||~--|| 0.847
+Wild. 51. — Pr. Tal. 2, Fig. 22. — Buck. p. Ist, Tat. N__,¶
+
+Fig. 4.¶
+~|~||||| 0.750
+Pie. 4.¶
+
+3. Gattung. Leosópis R_amb.¶
+||||||||||||||||~||||~+||||| 0.893
+3. Gattung. Leosöpis /ramb.¶
+
+(Von λεὶος glatt und ὦψ, ὠπός das Auge; wegen der¶
+|||||~~~~-|||||||||||~~||~~~~||||||||||||||||||||| 0.780
+(Von Asos_ glatt und op, mmös das Auge; wegen der¶
+
+nackten Augen, oder von λαιός links, linkisch, und ὠπή¶
+||||||||||||||||||||||||~~~~~||||||||||||||||||||||~~~| 0.855
+nackten Augen, oder von A«sos links, linkisch, und ern¶
+
+Aussehen, die linkisch Aussehende?, dann wäre Laeo—¶
+|||||~||||||||||||||||||||||||||||||||||||||||||||~| 0.962
+Ausselen, die linkisch Aussehende?, dann wäre Laeo-¶
+
+sópis zu schreiben.)¶
+|~||||||||||||||||||| 0.952
+sopis zu schreiben.)¶
+
+Der abweichende Habitus der einzigen Art¶ 1.000
+
+dieses Genus, die lange Endgabel, welehe die Adern¶
+||||||||||||~|||||||||||||||||||||||||||||||||||||| 0.980
+dieses Genus. die lange Endgabel, welehe die Adern¶
+
+II₄ und II₅‚ bilden.¶
+|~-|||||||~-||||||||| 0.810
+I,_ und II,_ bilden.¶
+
+ferner die nackten¶ 1.000
+
+Augen rechtfertigen¶ 1.000
+
+die Abtrennung der-¶ 1.000
+
+selben als eigenes¶ 1.000
+
+Genus, das von Ram—¶
+||||||||||||||||||~| 0.950
+Genus, das von Ram-¶
+
+bur außerdem durch¶ 1.000
+
+den nicht ausgebuch—¶
+|||||||||||||||||||~| 0.952
+den nicht ausgebuch-¶
+
+teten Innenrand der¶ 1.000
+
+ungeschwänzten, am¶ 1.000
+
+Analwinkel nicht vor-¶ 1.000
+
+Springenden Hfl. ge-¶
+~|||||||||||||||||||| 0.952
+springenden Hfl. ge-¶
+
+_____________________________________kennzeichnet__ ward.¶
++++++++++++++++++++++++++++++++++++++||||||||||||++||||||| 0.328
+Fig. 38.*) Leosópis röboris Es». C^- kennzeichnet — ward.¶
+
+Der schräge________ Verlauf¶
+-|---~~---|++++++++|~------| 0.143
+_e___dl___e » DAP » .______¶
+
+_________________________________________________________
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 0.000
+a Flügelgeäder, auf ls Néligróssert, Der schrüge Verlauf¶
+
+______________________________________
+++++++++++++++++++++++++++++++++++++++ 0.000
+^ Palpe, c männlicher, d weiblicher .¶
+
+_er Mittel- und Un—¶
++|||||||||||||||||~| 0.900
+der Mittel- und Un-¶
+
+_________________________________
++++++++++++++++++++++++++++++++++ 0.000
+Vorderfuss, stärker vergrössert.¶
+
+terdiscocellularadern,¶ 1.000
+
+besonders auf den Hfln. verweisen es zu den¶ 1.000
+
+Theclen mehr als zu den Lycaenen.¶ 1.000
+
+Fig. 38.* Leósópis róboris Esp. ♂.¶
+----------------------------------- 0.000
+___________________________________
+
+a Flügelgeäder, auf 3/4 vergrössert,¶
+------------------------------------- 0.000
+_____________________________________
+
+b Palpe, c männlicher, d weiblicher¶
+------------------------------------ 0.000
+____________________________________
+
+Vorderfuss, stärker vergrössert.¶
+--------------------------------- 0.000
+_________________________________
+
+I. róboris Esp. (Robur, Steineiche). Taf. 15. Fig. 9 ♂.¶
+~||||||||||||||||||||||||||||||||||||||||||||||||||||~|| 0.964
+1. róboris Esp. (Robur, Steineiche). Taf. 15. Fig. 9 c.¶
+
+Beim ♀ ist nur ein Streifen am Innenrand der Vfl. violett-¶
+|||||~||||||||||||||||||||||||||||||||||||||||||||||||||||| 0.983
+Beim 9 ist nur ein Streifen am Innenrand der Vfl. violett-¶
+
+blau. In Südfrankreich und auf der iberiscben Halbinsel,¶
+||||||||||||||||||||~|||||||||||||||||||||~|||||||||||||| 0.965
+blau. In Südfrankreieh und auf der iberischen Halbinsel,¶
+
+nicht in Italien; im Juli: bei Bozen, wo sie nach Stentz¶ 1.000
+
+früher gefunden wurde, ist sie seit vielen Jahren nie¶
+~||||||||||||||||||||||||||||||||||||||||||||||||||||| 0.981
+Ürüher gefunden wurde, ist sie seit vielen Jahren nie¶
+
+mehr beobachteèt worden, diüirfteé also dort gegenwürtig¶
+||||||||||||||-|||||||||||--~|||-~|||||||||||||||||~||||| 0.877
+mehr beobachte_t worden, d__ürft_e also dort gegenwärtig¶
+
+nieht vorkommen.¶ 1.000
+
+a) v. lusitunica Stgr. (die Portugiesische). Der vio—¶
+|||~|||||||~|||||||||||||||||||||||||||~||||||||||||~| 0.926
+a) e. lusitánica Stgr. (die Portugiesisehe). Der vio-¶
+
+lette_ Schiller dieser stüdportugiesischen Form ist in—¶
+|||||+||~|||||||||||||||-|||||||||||||||||||||||||||||~| 0.929
+lette. Sehiller dieser s_üdportugiesischen Form ist in-¶
+
+tensiver, die Unterseite mehr gelbgrau, die innen weiß—¶
+||||||||||||||||||||||||||||||||||||||~|||||||||||||||~| 0.964
+tensiver, die Unterseite mehr gelbgrau. die innen weiß-¶
+
+begrenzten schwarzen Randkeile der Hfl. mehr oder¶
+~|||||||||||~||||||||~||||||||||||||||-||||||||||| 0.920
+hegrenzten sehwarzen Handkeile der Hfl_ mehr oder¶
+
+weniger fehlend, ihre Saumbinde breit, orangegelb.¶ 1.000
+
+Die Raupe ist bräunliehgelb, auf dem Rückem dichter,¶
+|||~~||||||||||||||||||||||||||~||||||||||~|||||||||| 0.925
+Dieltaupe ist bräunliehgelb, aut dem Rücken dichter,¶
+
+an den Seiten spärlicher kurz, Schwarz behaart; auf den¶
+|||||||||||||||||||||||||||||||~|||||||||||||||||||||||| 0.982
+an den Seiten spärlicher kurz, schwarz behaart; auf den¶
+
+Segmenten steht eine schwarze Zeichnung, welche eine¶
+|||||||||||||||||||||||||||||||||~||||||||||||||||||| 0.981
+Segmenten steht eine schwarze Zeiehnung, welche eine¶
+
+unterbrochene Rückenlinie und auf dem ersten Ring¶
+||||||||||||||||||||||||||~||||||||||||||||||||||| 0.980
+unterbrochene Rückenlinie nnd auf dem ersten Ring¶
+
+_
++ 0.000
+¶
+
+*) Verkleinert und modifiziert nach E. Schatz und¶
+|||||||||||||||||||||||~|||||||||||||||||||||||||| 0.980
+*) Verkleinert und moditiziert nach E. Schatz und¶
+
+J. Röber l. c. Taf. 48.¶
+|||||||||~||~||||~|||||| 0.875
+J. Röber |. e. Tat. 48.¶
+
+_
++ 0.000
+¶
+
+_
++ 0.000
+¶
+
+Lycaenidae. 55¶ 1.000
+
+einen größeren Fleck bildet. Kopf und Brustfüße Schwarz.¶
+|||||||||||||||||||||||||||||||||||||||||||||~||~|||||||| 0.965
+einen größeren Fleck bildet. Kopf und Brustfübe schwarz.¶
+
+Bauchfüße von der Körperfarbe. 2.2 - 2.5 cm. Nach¶
+||~|||||||||||||||||||||||||||||-|-|-|-||||||||||| 0.900
+Banchfüße von der Körperfarbe. 2_2_-_2_5 cm. Nach¶
+
+Ronast, p. 7 auf Fr_axinus excélsior.¶
+~|~||||||||||||||~|+||||~|||||~||||||| 0.842
+Houast, p. 7 auf Präaxinns excelsior.¶
+
+4. Gattung. Théstor Ilb.¶
+||||||||||||||~|||||~~|~| 0.840
+4. Gattung. Thestor //b,¶
+
+(Griech. Name.)¶
+|||||~|||||||||| 0.938
+(Grieeh. Name.)¶
+
+Die Augen sind lang behaart, die Palpen sehr¶ 1.000
+
+klein und unten ebenfalls lang behaart, die Fühler¶
+||||||||||||||||||||||||||||||||||||||~|||||||||||| 0.980
+klein und unten ebenfalls lang behaart. die Fühler¶
+
+mit länglicher, wohl abge—¶
+|||||||||||||||||||||||||~| 0.963
+mit länglicher, wohl abge-¶
+
+________
+++++++++ 0.000
+- . . I¶
+
+_etzter Kolbé. Dié Ader III₁_______¶
++|||||||||||~||||~||||||||~~+++++++| 0.667
+setzter Kolbe. Die Ader IIT, Ebo lm¶
+
+________________
+++++++++++++++++ 0.000
+en " N " = 1 A,¶
+
+(der Vfl. ist auf eine _längere________¶
+-|||||||~||||||||||||||+~-|||||++++++++| 0.675
+_der Vfl, ist auf eine lü_ngere = 1 tis¶
+
+_________
++++++++++ 0.000
+, . = Im¶
+
+Strecke mit II₄__,₅ verwachsen.__¶
+|||||||||||||~~++|-||||||||||||++| 0.794
+Strecke mit IL, ,,_ verwachsen. I¶
+
+Die Beine, namentlich die_____¶
+|||||||||||||||||||||||||+++++| 0.839
+Die Beine, namentlich die a ER¶
+
+vorderen, besitzen, was sonst___¶
+||||||||||||||||||~||||||||||+++| 0.879
+vorderen, besitzen. was sonst MR¶
+
+___
++++ 0.000
+1d¶
+
+bei Lycaeniden sich nicht___¶
+|||||||||||||||||||||||||+++| 0.897
+bei Lycaeniden sich nicht mA¶
+
+findèt, einen wechselnd langen¶
+||||~|~||||||-|||||||||-||||||| 0.871
+findet. einen_wechselnd_langen¶
+
+Dorn am Ende der Tibia.¶
+||-~|||||||||||||||||||| 0.917
+Do_m am Ende der Tibia.¶
+
+Dies eigenartige paläark-__________________________¶
+|||||||||||||||||||||||||++++++++++++++++++++++++++| 0.500
+Dies eigenartige paläark-  Fi&39.» Thestor báilus r¶
+
+________________________________
+++++++++++++++++++++++++++++++++ 0.000
+. . a Flügelgeäder, auf %3 ver-¶
+
+tische Genus hat außer in____________________________¶
+|||||||||||||||||||||||||++++++++++++++++++++++++++++| 0.481
+tische Genus hat außer in  gróssert, » Palpe, c minn-¶
+
+der Beinbildung (nach E.______¶
+||||||||||||||||||||||||++++++| 0.806
+der Beinbildung (nach E. pM AE¶
+
+Schatz) auch in der Zeich—¶
+|||||||||||||-~||||||||||~| 0.889
+Schatz) auch _m der Zeich-¶
+
+nung (der Unterseite) Verwandtschaft mit den Ery—¶
+||||||||||||||||||||||||||||||||||||||||||||||||~| 0.980
+nung (der Unterseite) Verwandtschaft mit den Ery-¶
+
+ciniden; eine genauere anatomische Untersuchung¶
+|||||||||||||||||||||||||||||||~|||||||||||||||| 0.979
+ciniden; eine genauere anatomisehe Untersuchung¶
+
+scheint nötig, um eine Entscheidung über ihre¶
+||||||||||||||||||||||||||||||||||||||||||~-|| 0.957
+scheint nötig, um eine Entscheidung über il_e¶
+
+systematische Stellung zu treffen.¶ 1.000
+
+Fig. 39.*) Théstor bállus F.¶
+----------------------------- 0.000
+_____________________________
+
+a Flügelgeäder, auf 4/3 ver-¶
+----------------------------- 0.000
+_____________________________
+
+grössert, b Palpe, c männ-¶
+--------------------------- 0.000
+___________________________
+
+licher, d weiblicher Vorder-¶
+----------------------------- 0.000
+_____________________________
+
+fuss, stärker vergrössert.¶
+--------------------------- 0.000
+___________________________
+
+Die Raupen sind gestreckter, weniger schild-¶
+||||||~|||||||||||||||||||||||||||||||||||||| 0.978
+Die Ranpen sind gestreckter, weniger schild-¶
+
+förmig, ihre einzelnen Segmente schärfer abgesetzt,¶ 1.000
+
+behaart, und haben einen sehr kleinen Kopf.¶ 1.000
+
+__
+++ 0.000
+o¶
+
+___
++++ 0.000
+^w¶
+
+__
+++ 0.000
+=¶
+
+___
++++ 0.000
+R.¶
+
+1. bállus F. (wird gewöhnlich von dem griechischen¶
+||||||||||||||||||||||||||||||||||||||||||||||~|||| 0.980
+1. bállus F. (wird gewöhnlich von dem griechisehen¶
+
+βαλιός, scheckig, abgeleitet). Taf. 15, Fig. 8 ♀. Der ♂_¶
+~~~~~~|||||||||||||||||||||||||||~|||||||||||||~||||||~+| 0.825
+B«lióe, scheckig, abgeleitet). Tat. 15, Fig. 8 €. Der c?¶
+
+ist auf der Oberseite einfarbig graubraun, mit Spuren¶
+|||||||||||||||||||||||||||||||||||~|||||||||||||||||| 0.981
+ist auf der Oberseite einfarbig granbraun, mit Spuren¶
+
+einer Randbinde auf den Hfln. In Südfrankreich, der¶
+||||||~||||||||||||||||||~||||||||||||||||||||~||||| 0.942
+einer Handbinde auf den Hiln. In Südfrankreich. der¶
+
+iberischen Halbinsel (und Nordafrika); im März, April.¶
+|||||||||||||||||||||||~||||||||||||||||||||||||||||||| 0.982
+iberischen Halbinsel (umd Nordafrika); im März, April.¶
+
+Die Raupe, Taf. 2. Fig. 10, ist gelblichweiß _mit¶
+|||||||||||||||||||||||||||||||||||||||||||||+~||| 0.960
+Die Raupe, Taf. 2. Fig. 10, ist gelblichweiß init¶
+
+einem bläulichen Rückenstreifen und roten, rotbraun¶
+||||||||||||||||||||||||||||||||||||||||||||||||-|~| 0.962
+einem bläulichen Rückenstreifen und roten, rotbr_um¶
+
+gerundeten Längsstreifen an beiden Seiten, von welchen¶
+|||~||||||||||||||||||||||||||||||||||||||||||||||||||| 0.982
+gerandeten Längsstreifen an beiden Seiten, von welchen¶
+
+auf jedem Segment eine ähnlich gefärbtée Schräglinie,¶
+|||||||||||||||||||||||||||||||~||||||-|||||||||||||~| 0.944
+auf jedem Segment eine ähnlich wefärbt_e Schräglinie.¶
+
+innen weiß ausgefüllt, verläuft. Kopf schwärzlich. 1,8¶
+||||||||||||||||||||||||||||||||||||~||||||||||||||~||| 0.964
+innen weiß ausgefüllt, verläuft. Kopt schwärzlich. 4,8¶
+
+bis 2 cm. Sie lebt Ende Mai in den Samenkapseln von¶
+||||||~||||||||||||||||||||||||||||||||||||||||||||| 0.981
+bis 2 em. Sie lebt Ende Mai in den Samenkapseln von¶
+
+Lótus hispidus und verwandelt sich dicht unter der¶ 1.000
+
+Erdoberfläche in eine Kastanienbraume, b_raune Puppe.¶
+|||||||~||||||||||||||~||||||||||||||||~+|~--||||||||| 0.870
+Erdoberlläche in eine kastanienbraume, kurz__e Puppe.¶
+
+Dup. p. 223, pl. 23, Fig. 95.¶ 1.000
+
+2. Callimachus Ev. (gr. Dichter). Taf. 15, Fig. 21♀.¶
+|||~|||||||||||~~|||||||||||||||||||||||||||||||||~|| 0.925
+2. callimachus £r. (gr. Dichter). Taf. 15, Fig. 219.¶
+
+Das ♂_ mit eckigeren Flügeln, die dunkle Bestäubung¶
+||||~+|||||||||||||||||||||||||||||||||||||||||||||| 0.962
+Das c? mit eckigeren Flügeln, die dunkle Bestäubung¶
+
+der Adern_ auf der Vfl.-Unterseite mehr vortretend. Von¶
+|||||||||+|||||||||||||||||||||||||||||||||||||||||||||| 0.982
+der Adern. auf der Vfl.-Unterseite mehr vortretend. Von¶
+
+Südrußland (bis Kurdistan und Centralasien); im April.¶ 1.000
+
+Die Raupe, Nachtr.-Taf. I. Fig. 23, ist hell rotbraun¶
+|||||||||||||~||||||||||~||||||||||||||||||||||||||||| 0.963
+Die Raupe, Naehtr.-Taf. l. Fig. 23, ist hell rotbraun¶
+
+mit dunklen Schrägstrichen auf dem Rücken und weißen¶
+||||~~|||||||~||~|||||~||||||~||||||||||||||||||||||| 0.887
+mit Annklen Sehrügstriehen aut dem Rücken und weißen¶
+
+Seitenstreifen. Sie lebt in den Schoten von Astrágalus¶
+||||||||||||||||||||||||||||||||||||||||||||||||~||~~|| 0.945
+Seitenstreifen. Sie lebt in den Schoten von Asträgahıs¶
+
+Physódes.__ Mill. Ent. 1878, pl. 158, Fig. 6—8.¶
+~|||~||||++||||||||||||||||||||||||||||||||||||| 0.917
+physödes. — Mill. Ent. 1878, pl. 158, Fig. 6—8.¶
+
+3. (nogélli HS. [Noge_ll]. Taf. 15, Fig. 14. Die¶
+|||-~||~|||||||||||||+||-||||~||||||||||||||||||| 0.878
+3. _mogelli HS. [Nogelll_. Tat. 15, Fig. 14. Die¶
+
+Oberseite von rotoranger Grundfarbe, bei asiatischen¶
+||||||||||||||||||||||||||~|||||||||||||||||||||||||| 0.981
+Oberseite von rotoranger Giundfarbe, bei asiatischen¶
+
+Formen auch ganz verdunkelt. Die U__nterseite schim—¶
+|||||||||||||||||||||||||||||||||~++|||||||||||||||~| 0.925
+Formen auch ganz verdunkelt. Die -Iinterseite schim-¶
+
+melgrau, die H_fl. mit 3 Reihen mennigroter Flecken, d_ie¶
+|||||||||||||~+||||||||||||||||||||||||||||||||||||~|~+||| 0.914
+melgrau, die 11fl. mit 3 Reihen mennigroter Flecken. (lie¶
+
+__
+++ 0.000
+E¶
+
+*) Verkleinert und _modifiziert nach E. Schatz uml¶
+|||||||||||||||||||+||||~|||||||||||||||||||||||~~| 0.922
+*) Verkleinert und imoditiziert nach E. Schatz und¶
+
+J. Röber l. c. Taf. 48.¶
+|||||||||~||~||||~|||||| 0.875
+J. Röber |. e. Tat. 48.¶
+
+¶ 1.000
+
+
+Character match (confusion) table:
+GRT => OCR  ratio  errors   count
+---    --- ------ ------- -------
+' ' => '_' 0.0609      40     657
+' ' => 'l' 0.0015       1     657
+'(' => '_' 0.1667       2      12
+')' => '_' 0.0714       1      14
+'*' => '_' 0.5000       2       4
+',' => '.' 0.1250      11      88
+',' => '_' 0.1136      10      88
+'-' => '_' 0.1875       3      16
+'.' => ',' 0.0368       6     163
+'.' => '_' 0.0736      12     163
+'/' => '_' 1.0000       2       2
+'1' => '4' 0.0455       1      22
+'1' => 'I' 0.0455       1      22
+'1' => 'l' 0.0455       1      22
+'1' => 't' 0.0909       2      22
+'1' => '£' 0.0455       1      22
+'3' => '8' 0.0625       1      16
+'3' => ':' 0.0625       1      16
+'3' => '_' 0.2500       4      16
+'4' => '_' 0.2000       2      10
+'8' => '_' 0.1000       1      10
+'8' => 's' 0.1000       1      10
+'9' => '_' 0.3333       1       3
+'C' => 'c' 0.5000       1       2
+'D' => '_' 0.0500       1      20
+'E' => '_' 0.0714       1      14
+'E' => '£' 0.0714       1      14
+'F' => 'P' 0.0769       2      26
+'F' => '_' 0.1923       5      26
+'H' => '1' 0.1000       1      10
+'I' => ',' 0.0417       1      24
+'I' => '/' 0.0417       1      24
+'I' => '1' 0.0417       1      24
+'I' => 'L' 0.0417       1      24
+'I' => 'T' 0.0417       1      24
+'I' => '_' 0.1250       3      24
+'I' => 'l' 0.1250       3      24
+'K' => 'k' 0.1250       1       8
+'L' => '_' 0.1250       1       8
+'O' => '©' 0.3333       1       3
+'P' => '_' 0.2222       2       9
+'P' => 'p' 0.1111       1       9
+'R' => '/' 0.0526       1      19
+'R' => 'H' 0.1579       3      19
+'R' => '_' 0.0526       1      19
+'R' => 't' 0.0526       1      19
+'S' => 's' 0.0789       3      38
+'T' => '_' 0.0667       1      15
+'U' => '-' 0.1429       1       7
+'V' => '.' 0.0714       1      14
+'V' => '_' 0.1429       2      14
+'W' => 'w' 0.5000       1       2
+'X' => 'N' 1.0000       1       1
+']' => '_' 1.0000       1       1
+'_' => ' ' 0.1862      70     376
+'_' => '"' 0.0053       2     376
+'_' => '%' 0.0027       1     376
+'_' => '&' 0.0027       1     376
+'_' => ')' 0.0027       1     376
+'_' => '*' 0.0027       1     376
+'_' => ',' 0.0293      11     376
+'_' => '-' 0.0133       5     376
+'_' => '.' 0.0426      16     376
+'_' => '1' 0.0106       4     376
+'_' => '3' 0.0080       3     376
+'_' => '8' 0.0027       1     376
+'_' => '9' 0.0027       1     376
+'_' => '=' 0.0106       4     376
+'_' => '?' 0.0053       2     376
+'_' => 'A' 0.0106       4     376
+'_' => 'C' 0.0027       1     376
+'_' => 'D' 0.0053       2     376
+'_' => 'E' 0.0133       5     376
+'_' => 'F' 0.0106       4     376
+'_' => 'I' 0.0106       4     376
+'_' => 'L' 0.0027       1     376
+'_' => 'M' 0.0053       2     376
+'_' => 'N' 0.0053       2     376
+'_' => 'P' 0.0080       3     376
+'_' => 'R' 0.0080       3     376
+'_' => 'T' 0.0027       1     376
+'_' => 'V' 0.0053       2     376
+'_' => '^' 0.0080       3     376
+'_' => 'a' 0.0213       8     376
+'_' => 'b' 0.0106       4     376
+'_' => 'c' 0.0133       5     376
+'_' => 'd' 0.0160       6     376
+'_' => 'e' 0.0638      24     376
+'_' => 'f' 0.0106       4     376
+'_' => 'g' 0.0239       9     376
+'_' => 'h' 0.0106       4     376
+'_' => 'i' 0.0372      14     376
+'_' => 'k' 0.0027       1     376
+'_' => 'l' 0.0479      18     376
+'_' => 'm' 0.0133       5     376
+'_' => 'n' 0.0160       6     376
+'_' => 'o' 0.0160       6     376
+'_' => 'p' 0.0106       4     376
+'_' => 'r' 0.0638      24     376
+'_' => 's' 0.0505      19     376
+'_' => 't' 0.0186       7     376
+'_' => 'u' 0.0160       6     376
+'_' => 'v' 0.0053       2     376
+'_' => 'w' 0.0053       2     376
+'_' => '¶' 0.0426      16     376
+'_' => '»' 0.0133       5     376
+'_' => 'á' 0.0027       1     376
+'_' => 'ä' 0.0133       5     376
+'_' => 'é' 0.0027       1     376
+'_' => 'ó' 0.0080       3     376
+'_' => 'ö' 0.0053       2     376
+'_' => 'ü' 0.0080       3     376
+'_' => '—' 0.0053       2     376
+'a' => '_' 0.0437       8     183
+'a' => 'i' 0.0109       2     183
+'a' => 'z' 0.0055       1     183
+'b' => '_' 0.0652       6      92
+'b' => 'h' 0.0217       2      92
+'b' => 'k' 0.0109       1      92
+'c' => '_' 0.0472       6     127
+'c' => 'd' 0.0079       1     127
+'c' => 'e' 0.1260      16     127
+'d' => '(' 0.0063       1     159
+'d' => 'A' 0.0063       1     159
+'d' => '_' 0.0377       6     159
+'e' => '_' 0.0515      29     563
+'f' => '_' 0.0789       6      76
+'f' => 'i' 0.0132       1      76
+'f' => 'l' 0.0263       2      76
+'f' => 't' 0.1447      11      76
+'f' => 'Ü' 0.0132       1      76
+'g' => '_' 0.0948      11     116
+'g' => 'e' 0.0172       2     116
+'g' => 's' 0.0086       1     116
+'g' => 'w' 0.0086       1     116
+'h' => '_' 0.0376       5     133
+'h' => 'l' 0.0226       3     133
+'i' => '?' 0.0034       1     296
+'i' => '_' 0.0405      12     296
+'i' => 'ü' 0.0034       1     296
+'k' => '_' 0.0526       2      38
+'l' => '/' 0.0063       1     159
+'l' => 'L' 0.0063       1     159
+'l' => '_' 0.0818      13     159
+'l' => 'd' 0.0063       1     159
+'l' => 'h' 0.0063       1     159
+'l' => '|' 0.0126       2     159
+'l' => 'ü' 0.0063       1     159
+'m' => '_' 0.0294       2      68
+'m' => 'n' 0.0441       3      68
+'n' => '_' 0.0172       6     349
+'n' => 'm' 0.0143       5     349
+'n' => 'u' 0.0057       2     349
+'o' => '_' 0.0571       4      70
+'p' => '_' 0.0930       4      43
+'r' => '_' 0.1288      34     264
+'r' => 'i' 0.0038       1     264
+'s' => 'S' 0.0061       1     163
+'s' => '_' 0.1288      21     163
+'t' => '_' 0.0412       8     194
+'u' => '_' 0.0476       7     147
+'u' => 'a' 0.0068       1     147
+'u' => 'n' 0.0476       7     147
+'u' => 'á' 0.0068       1     147
+'u' => 'ı' 0.0068       1     147
+'v' => '_' 0.1379       4      29
+'v' => 'e' 0.0345       1      29
+'v' => 'r' 0.0345       1      29
+'w' => '_' 0.0513       2      39
+'¶' => '_' 0.0732       9     123
+'ß' => 'b' 0.0909       1      11
+'á' => '_' 0.2500       1       4
+'á' => 'ä' 0.2500       1       4
+'ä' => '_' 0.2759       8      29
+'ä' => 'ü' 0.0345       1      29
+'è' => '_' 0.5000       1       2
+'è' => 'e' 0.5000       1       2
+'é' => '_' 0.2222       2       9
+'é' => 'e' 0.6667       6       9
+'ó' => '_' 0.3750       3       8
+'ó' => 'o' 0.1250       1       8
+'ó' => 'ö' 0.2500       2       8
+'ö' => '_' 0.3636       4      11
+'ü' => '_' 0.1364       3      22
+'ü' => 'ä' 0.0455       1      22
+'ή' => 'n' 1.0000       1       1
+'α' => '«' 1.0000       2       2
+'β' => 'B' 1.0000       1       1
+'ε' => 's' 1.0000       1       1
+'ι' => 'i' 0.5000       1       2
+'ι' => 's' 0.5000       1       2
+'λ' => 'A' 0.6667       2       3
+'λ' => 'l' 0.3333       1       3
+'ο' => 's' 1.0000       1       1
+'π' => 'm' 0.5000       1       2
+'π' => 'r' 0.5000       1       2
+'ς' => '_' 0.2500       1       4
+'ς' => 'e' 0.2500       1       4
+'ς' => 's' 0.5000       2       4
+'ψ' => 'p' 1.0000       1       1
+'ό' => 'o' 0.3333       1       3
+'ό' => 'ó' 0.3333       1       3
+'ό' => 'ö' 0.3333       1       3
+'ὠ' => 'e' 0.5000       1       2
+'ὠ' => 'm' 0.5000       1       2
+'ὦ' => 'o' 1.0000       1       1
+'ὶ' => 'o' 1.0000       1       1
+'—' => '-' 0.6087      14      23
+'‚' => '_' 1.0000       1       1
+'₁' => ',' 1.0000       1       1
+'₄' => ',' 0.5000       1       2
+'₄' => '_' 0.5000       1       2
+'₅' => ',' 0.5000       1       2
+'₅' => '_' 0.5000       1       2
+'♀' => '9' 0.6667       2       3
+'♀' => '€' 0.3333       1       3
+'♂' => '_' 0.2500       1       4
+'♂' => 'c' 0.7500       3       4
+
+Summary:
+
+              lines   words   chars
+items ocr:      130     814    5008 matches + inserts + substitutions
+items grt:      123     780    4962 matches + deletions + substitutions
+matches:         25     554    4436 matches
+edits:          114     309     902 inserts + deletions + substitutions
+ subss:          89     177     196 substitutions
+ inserts:        16      83     376 inserts
+ deletions:       9      49     330 deletions
+precision:   0.1923  0.6806  0.8858 matches / (matches + substitutions + inserts)
+recall:      0.2033  0.7103  0.8940 matches / (matches + substitutions + deletions)
+accuracy:    0.1799  0.6419  0.8310 matches / (matches + substitutions + inserts + deletions)
+f-score:     0.1976  0.6951  0.8899 ( 2 * recall * precision ) / ( recall + precision )
+error:       0.9268  0.3962  0.1818 ( inserts + deletions + substitutions ) / (items grt )

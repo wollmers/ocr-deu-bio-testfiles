@@ -1,0 +1,28 @@
+Isis von Oken
+by Oken, Lorenz, 1779-1851
+
+Publication date 1838
+Topics Natural history
+Publisher Jena : Expedition der Isis ; Leipzig : bey Brockhaus
+Collection biodiversity; americanmuseumnaturalhistory; americana
+Digitizing sponsor American Museum of Natural History Library
+Contributor American Museum of Natural History Library
+Language German
+Volume v.31 1838
+Imprint varies
+Addeddate 2009-10-28 12:23:28
+Call number QH5 .I8
+Camera Canon 5D
+External-identifier urn:oclc:record:1047460640[WorldCat (this item)]
+Foldoutcount 6
+Identifier isisvonoken00oken
+Identifier-ark ark:/13960/t25b0p15g
+Ocr ABBYY FineReader 8.0
+Openlibrary_edition OL25452014M
+Openlibrary_work OL16825089W
+Page-progression lr
+Pages 734
+Ppi 300
+Scandate 20091029170937
+Scanner scribe8.nyc.archive.org
+Scanningcenter nyc

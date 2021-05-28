@@ -1,0 +1,100 @@
+../../ocr-measures/scripts/ocr-compare.pl Version 0.04
+
+Compare ground truth (GRT) against OCR text output:
+File 1 (GRT): 00008_600.orig.txt
+File 2 (OCR): 00008_600.png.GT4Hist2M.txt
+
+Vorrede.__¶
+||||||||++| 0.818
+Vorrede. 2¶
+
+ſanter, die beſondre Geſchichte des Men⸗¶ 1.000
+
+ſchen, des Elephanten, der Polypen‚ die¶
+||||||||||||||||||||||||||||||~|||-||||| 0.950
+ſchen, des Elephanten, der Polhpen_ die¶
+
+Oekononie eines Bienenſtocks u. ſ. w. zu¶
+||~|||||-|||||||||||||||||||||||||||||||| 0.951
+Oetononi_ eines Bienenſtocks u. ſ. w. zu¶
+
+wiſſen, als ſich mit den abſtracten Leh⸗¶
+||||||-|||||||||||||||||||||||||||||||||| 0.976
+wiſſen_ als ſich mit den abſtracten Leh⸗¶
+
+ren von den allgemeinen Eigenſchaften¶ 1.000
+
+der Naturalien allein zu begnuͤgen. Nur¶ 1.000
+
+muß man unter ſpecieller Geſchichte keine¶ 1.000
+
+bloſe trockne Regiſtratur der Gattungen¶
+||||||||||||||||~||||||||||||||||||||||| 0.975
+bloſe trockne Resiſtratur der Gattungen¶
+
+und ihrer Charaktere verſtehen. Das Lin⸗¶
+|||||||||||||||~||||||||||||||||||||||||| 0.976
+und ihrer Charattere verſtehen. Das Lin⸗¶
+
+neiſche Syſtema Naturae und aͤnliche__ Jn⸗¶
+||||||||||||~|~||||||||||||||||||||++||||| 0.905
+neiſche Syſtom⸗ Naturae und aͤnliche J Jn⸗¶
+
+ventarien unſrer neuen Fauniſten und__¶
+||||||||||||||||||||||||||||||||||||++| 0.949
+ventarien unſrer neuen Fauniſten und 8¶
+
+Floriſten haben ihre großen Verdienſte,¶ 1.000
+
+aber wol ſchwerlich Reiz genug, einen¶ 1.000
+
+jungen Menſchen aufzumuntern, ſich mit¶ 1.000
+
+der Natur und der K_entniß ihrer Ge⸗¶
+|||||||||||||||||||+||||||||||||||~~| 0.919
+der Natur und der K entniß ihrer Goo¶
+
+ſchoͤpfe in etwas vertraut zu machen. Es¶
+|||~~~-||||||||||||||||||||||||||||||||| 0.900
+ſchori_ in etwas vertraut zu machen. Es¶
+
+iſt¶ 1.000
+
+¶ 1.000
+
+
+Character match (confusion) table:
+GRT => OCR  ratio  errors   count
+---    --- ------ ------- -------
+',' => '_' 0.1429       1       7
+'_' => ' ' 0.5714       4       7
+'_' => '2' 0.1429       1       7
+'_' => '8' 0.1429       1       7
+'_' => 'J' 0.1429       1       7
+'a' => '⸗' 0.0357       1      28
+'e' => '_' 0.0211       2      95
+'e' => 'o' 0.0211       2      95
+'f' => 'i' 0.3333       1       3
+'g' => 's' 0.1000       1      10
+'k' => 't' 0.4000       2       5
+'oͤ' => 'o' 1.0000       1       1
+'p' => 'r' 0.2500       1       4
+'y' => 'h' 0.5000       1       2
+'‚' => '_' 1.0000       1       1
+'⸗' => 'o' 0.2000       1       5
+
+Summary:
+
+              lines   words   chars
+items ocr:       19     102     650 matches + inserts + substitutions
+items grt:       19      98     647 matches + deletions + substitutions
+matches:          9      87     632 matches
+edits:           10      15      22 inserts + deletions + substitutions
+ subss:          10      11      11 substitutions
+ inserts:         0       4       7 inserts
+ deletions:       0       0       4 deletions
+precision:   0.4737  0.8529  0.9723 matches / (matches + substitutions + inserts)
+recall:      0.4737  0.8878  0.9768 matches / (matches + substitutions + deletions)
+accuracy:    0.4737  0.8529  0.9664 matches / (matches + substitutions + inserts + deletions)
+f-score:     0.4737  0.8700  0.9746 ( 2 * recall * precision ) / ( recall + precision )
+error:       0.5263  0.1531  0.0340 ( inserts + deletions + substitutions ) / (items grt )

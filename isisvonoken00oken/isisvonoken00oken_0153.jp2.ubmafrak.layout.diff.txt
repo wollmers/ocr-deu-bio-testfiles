@@ -1,0 +1,298 @@
+../../ocr-measures/scripts/ocr-compare.pl Version 0.04
+
+Compare ground truth (GRT) against OCR text output:
+File 1 (GRT): isisvonoken00oken_0153.corr.orig.txt
+File 2 (OCR): isisvonoken00oken_0153.jp2.ubmafrak.layout.txt
+
+249¶ 1.000
+
+3) G. Valentin, uͤber den Verlauf und die letzten¶
+~|||||||||||||||||||||||||||||||||||||||||||||||| 0.980
+8) G. Valentin, uͤber den Verlauf und die letzten¶
+
+Enden der Nerven, S. 51 mit 8 Tafeln.¶ 1.000
+
+Ein ſehr großer Aufſatz mit feinen Beobachtungen und¶ 1.000
+
+vielſeitigen Betrachtungen, welcher viele neue Aufſchluͤſſe uͤber¶ 1.000
+
+den Bau und die Bedeutung der Nerven enthaͤlt. Die micro⸗¶
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||~| 0.982
+den Bau und die Bedeutung der Nerven enthaͤlt. Die micro—¶
+
+ſcopiſchen Abbildungen ſind ſo zahlreich, daß wir nicht im Stan⸗¶ 1.000
+
+de ſind, den Jnnhalt derſelben anzuzeigen. Sie erreichen die¶
+|||||||||||||~||||||||||||||||||||||||||||||||||||||||||||||| 0.984
+de ſind, den Innhalt derſelben anzuzeigen. Sie erreichen die¶
+
+Zahl von 86 und ſind vom Verfaſſer ſelbſt gezeichnet.¶ 1.000
+
+4) J. F. Brandt, uͤber den Bau der ſogenannten¶ 1.000
+
+Moſchusdruͤſen des Sorex moschatus, S. 241, mit einer Taf.¶ 1.000
+
+Man kannte zwar ſchon dieſe Druͤſen durch die Unterſu⸗¶ 1.000
+
+chungen von Pallas, welche jedoch nicht ſo ins Einzelne gien⸗¶ 1.000
+
+gen und uͤberhaupt nicht ihre Bedeutung gehoͤrig entwickelten,¶ 1.000
+
+auch von keinen ſo einzelnen Abbildungen begleitet waren wie¶ 1.000
+
+hier. Der Verfaſſer ſtellt ſie in die Bedeutung der Afterdruͤ⸗¶ 1.000
+
+ſen, obſchon ſie hinter dem After im Schwanze liegen. Er bil⸗¶ 1.000
+
+det die einzelnen Baͤlge und ihre Oeffnungen ab.¶ 1.000
+
+5) H. von Meyer, Beytraͤge zu Eryon, einem Ge⸗¶ 1.000
+
+ſchlechte foſſiler langſchwaͤnziger Krebſe, S. 261, mit zwey¶ 1.000
+
+Tafeln.¶ 1.000
+
+Abgebildet ſind E. hartmanni, ſehr vollſtaͤndig, et schu-¶ 1.000
+
+berti; beyde umſtaͤndlich beſchrieben. E. cuvieri, schlotheimii.¶ 1.000
+
+6) H. von Meyer, Abweichungen von der Fuͤnfzahl¶ 1.000
+
+bey Echinideen, (nachgewieſen durch einen vierzaͤhligen Cidariten¶
+||||||||||||||||~|||||||||||||||||||||||||||||||||||||||||||||||| 0.985
+bey Echinideen, inachgewieſen durch einen vierzaͤhligen Cidariten¶
+
+und 6zaͤhligen Galeriten, S. 285, mit einer Tafel;¶ 1.000
+
+ein intereſſanter Aufſatz uͤber die von Agaſſiz angeregte¶ 1.000
+
+Symmetrie dieſer Thiere.__¶
+||||||||||||||||||||||||++| 0.926
+Symmetrie dieſer Thiere. „¶
+
+7) A. J. Corda, Anatome Hydrae fuscae pag. 297¶ 1.000
+
+cum tabulis tribus.¶ 1.000
+
+Der Verfaſſer bildet das Thier und ſeine einzelnen Theile¶ 1.000
+
+in ungeheurer Groͤße ab, und hat auch Dinge daran und darinn¶ 1.000
+
+gefunden, denen man bisher vergebens nachgegangen iſt; zuerſt¶ 1.000
+
+einen After, uͤber den man ſich ſeit laͤngerer Zeit geſtritten hat.¶ 1.000
+
+Der Leib ſchwillt an gewiſſen Stellen in Warzen an, welche¶ 1.000
+
+ſpiralfoͤrmig liegen und zum Taſten dienen; innwendig je 4¶
+|||||||~|||||||||||||||||||||||||||||||||||||||||||||||||| 0.983
+ſpiralförmig liegen und zum Taſten dienen; innwendig je 4¶
+
+gelbliche Muſkelfaſern nach der Laͤnge, welche die Extensores¶ 1.000
+
+tentaculi zu ſeyn ſcheinen; auch Adductores tentaculi ſind¶ 1.000
+
+vorhanden. Die Fuͤhlfaͤden ſind hohl, ſtehen aber nicht mit der¶ 1.000
+
+Leibeshoͤhle in Verbindung; in ihrer eyweißartigen Maſſe liegen¶ 1.000
+
+braune Koͤrner zerſtreu_t. Die Warzen auf den Extensores¶
+||||||||||||||||||||||+||||||||||||||||||||||||||||||||| 0.982
+braune Koͤrner zerſtreuDt. Die Warzen auf den Extensores¶
+
+tentaculi ſind merkwuͤrdig gebaut. Sie ſtecken in einem Saͤck⸗¶ 1.000
+
+chen und endigen in eine Wimper. Dabey ſind noch andere¶ 1.000
+
+Organe, welche der Verfaſſer Hasta et Sagitta nennt und de⸗¶ 1.000
+
+ren Verhaͤltniß ſich ohne Abbildung nicht begreiflich machen laͤßt.¶ 1.000
+
+Sie dienen zum Anfaſſen und ſcheinen ein Gift zu enthalten:¶ 1.000
+
+denn die gefangenen Thierchen ſterben ſogleich. Zwiſchen je 2¶ 1.000
+
+Fuͤhlfaͤden ſteht eine Lippe. Der Leib beſteht aus 2 zelligen¶ 1.000
+
+Hautſchichten; in der innern hat er Germina gefunden; in der¶ 1.000
+
+Darmhaut Zotten mit Oeffnungen. Sie verdauen außerordent⸗¶ 1.000
+
+lich ſchnell, eine Kerflarve in 4 Minuten; Koͤrner von Vauche-¶ 1.000
+
+ria globata gehen unverdaut fort.¶ 1.000
+
+Die Abbildungen ſind ſehr ſchoͤn.¶ 1.000
+
+8) Dieſing, helminthologiſche Beytraͤge, S. 805, mit¶
+|||||||||||||||||||||||||||||||||||||||||||~|||||||| 0.981
+8) Dieſing, helminthologiſche Beytraͤge, S. 305, mit¶
+
+einer Tafel.¶ 1.000
+
+Jſis 1838. Heft 4.¶
+~|||||||||||||||||| 0.947
+Iſis 1838. Heft 4.¶
+
+_
++ 0.000
+¶
+
+250¶ 1.000
+
+Eine neu_e Axine, welches Wort der Verfaſſer in He-¶
+||||||||+||||||||||||||||||||||||||||||||||||||||||| 0.981
+Eine neule Axine, welches Wort der Verfaſſer in He-¶
+
+teracanthus verwandelt. Es fand ſich auf den Kiemen von¶ 1.000
+
+Esox belone. Er ſtellt das Thier zu den Trematoden, und¶ 1.000
+
+nennt es Heteracanthus sagittatus, die fruͤhere Axine aber¶
+|||||||||||||||||||||||||||||||||||||||||~|||||||||||||||| 0.983
+nennt es Heteracanthus sagittatus, die frühere Axine aber¶
+
+_H. pedatus. Er hat gefunden einen Darm, weibliche Theile,¶
++~||||||||||||||||||||||||||||||||||||||||||||||||||||||||| 0.966
+II. pedatus. Er hat gefunden einen Darm, weibliche Theile,¶
+
+Eyerſtock, maͤnnliche Theile zwitterhaft; Haͤkchen und Stacheln¶ 1.000
+
+am Schwanzende.¶ 1.000
+
+Ferner wird beſchrieben Tristoma papillosum und ab⸗¶ 1.000
+
+gebildet.¶ 1.000
+
+9) Walker⸗Arnott, Pugillus plantarum Indiae ori-¶ 1.000
+
+entalis p. 319 t. 1.¶ 1.000
+
+enthaͤlt Charactere von 126 Gattungen, und zwar dicoty⸗¶ 1.000
+
+ledoniſcher 30 Familien. Neue Sippen ſind: Rissoa (Limo-¶ 1.000
+
+nia); Moonia (similis Bidenti); Sykesia (Psychotria vagi-¶ 1.000
+
+nans etc.) 357 Zuſatz von Nees de Solano w_igh_tii fig.¶
+||||||||||||||||||||||||||~|||||||||||||||+|||+||||||||| 0.946
+nans etc.) 357 Zuſatz von Wees de Solano wWighitii fig.¶
+
+10) Lindenberg, Monographie der Riccieen 361 mit¶ 1.000
+
+19 ill. Tafeln.¶ 1.000
+
+Ein ganzes Buch mit einer großen Einleitung uͤber den¶ 1.000
+
+Bau dieſer merkwuͤrdigen Pflanzen, ſowie uͤber ihr Wachsthum¶ 1.000
+
+und ihre Fortpflanzung, reich an eigenen Beobachtungen. Die¶ 1.000
+
+Familie enthaͤlt folgende Sippen: Riccia, Corsinia, Oxymi-¶ 1.000
+
+tra, Sphaerocarpus. Von den Riccien werden 21 Gattungen¶ 1.000
+
+beſchrieben und abgebildet; von Corſinien 1; von Oxymitren¶
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||~||| 0.983
+beſchrieben und abgebildet; von Corſinien 1; von Oxymitten¶
+
+1; von Sphaͤrocarpen 1.¶ 1.000
+
+11) Meyen, Beytraͤge zur Kenntniß der Azollen, S.¶ 1.000
+
+505, mit 1 Taf.¶ 1.000
+
+Ebenfalls eine ſehr genaue und microſcopiſche Unterſu⸗¶ 1.000
+
+chung dieſer merkwuͤrdigen Pflanzen, mit deutlichen Abbildun⸗¶ 1.000
+
+gen der ſo vielfach beſtrittenen Fruchttheile.¶ 1.000
+
+12) A. Henry, Beytrag zur Kenntniß der Laubknoſpen,¶ 1.000
+
+S. 525, mit 2 Taf.¶ 1.000
+
+Sehr genaue Zeichnungen der Blaͤtterlage von Knoſpen¶ 1.000
+
+unſers Laubholzes.¶ 1.000
+
+Dem Band iſt angehaͤngt das meteorologiſche Jahrbuch¶
+|||||||||||||||||||||||||||||||||||||||||||||||||--| 0.962
+Dem Band iſt angehaͤngt das meteorologiſche Jahrbu__¶
+
+der Sternwarte zu Jena von Prof. Schroͤn.__¶
+|||||||||||||||||||||||||||||||||||||~||++| 0.930
+der Sternwarte zu Jena von Prof. Schrön. „¶
+
+Sehr zahlreiche, muͤhſeelige, genaue und muſterhafte¶ 1.000
+
+Beobachtungen.¶ 1.000
+
+Waltl, Beytraͤge¶ 1.000
+
+zur naͤhern naturhiſtoriſchen Kenntniß des Unterdonaukreiſes¶
+|||||~|||||||||||||||||||||||||||||||||||||||||||||||||||||| 0.983
+zur nähern naturhiſtoriſchen Kenntniß des Unterdonaukreiſes¶
+
+in Bayern.¶ 1.000
+
+(Erſte Fortſetzung von 1837. S. 860.)¶ 1.000
+
+Wir naͤhern uns nun auf dem Wege nach Kirchdorf, ei⸗¶ 1.000
+
+nem Dorfe, welches 2½ Stunden vom Regen und 15 von¶ 1.000
+
+Paſſau entfernt iſt, einer der erſten mineralogiſchen Merkwuͤr⸗¶ 1.000
+
+digkeiten, dem ſogenannten Pfahl. Dieſes maͤchtige Quarzla⸗¶ 1.000
+
+ger erſtreckt ſich von Oſten gegen Nordweſten, von Kirchdorf¶ 1.000
+
+uͤber acht Stunden weit, nach der Behauptung anderer kann¶ 1.000
+
+16*¶
+||-| 0.750
+16_¶
+
+
+Character match (confusion) table:
+GRT => OCR  ratio  errors   count
+---    --- ------ ------- -------
+'(' => 'i' 0.2000       1       5
+'*' => '_' 1.0000       1       1
+'3' => '8' 0.1429       1       7
+'8' => '3' 0.1111       1       9
+'H' => 'I' 0.0909       1      11
+'J' => 'I' 0.3333       2       6
+'N' => 'W' 0.2000       1       5
+'_' => ' ' 0.2000       2      10
+'_' => 'D' 0.1000       1      10
+'_' => 'I' 0.1000       1      10
+'_' => 'W' 0.1000       1      10
+'_' => 'i' 0.1000       1      10
+'_' => 'l' 0.1000       1      10
+'_' => '¶' 0.1000       1      10
+'_' => '„' 0.2000       2      10
+'aͤ' => 'ä' 0.0357       1      28
+'c' => '_' 0.0079       1     126
+'h' => '_' 0.0057       1     175
+'oͤ' => 'ö' 0.2500       2       8
+'r' => 't' 0.0038       1     263
+'uͤ' => 'ü' 0.0455       1      22
+'⸗' => '—' 0.0556       1      18
+
+Summary:
+
+              lines   words   chars
+items ocr:      106     767    5084 matches + inserts + substitutions
+items grt:      105     764    5077 matches + deletions + substitutions
+matches:         87     745    5061 matches
+edits:           19      22      26 inserts + deletions + substitutions
+ subss:          18      19      13 substitutions
+ inserts:         1       3      10 inserts
+ deletions:       0       0       3 deletions
+precision:   0.8208  0.9713  0.9955 matches / (matches + substitutions + inserts)
+recall:      0.8286  0.9751  0.9968 matches / (matches + substitutions + deletions)
+accuracy:    0.8208  0.9713  0.9949 matches / (matches + substitutions + inserts + deletions)
+f-score:     0.8246  0.9732  0.9962 ( 2 * recall * precision ) / ( recall + precision )
+error:       0.1810  0.0288  0.0051 ( inserts + deletions + substitutions ) / (items grt )

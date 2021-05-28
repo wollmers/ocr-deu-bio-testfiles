@@ -1,0 +1,111 @@
+/Users/helmut/github/ocr-hw/ocr-measures/scripts/ocr-compare.pl Version 0.04
+
+Compare ground truth (GRT) against OCR text output:
+File 1 (GRT): kInteligenz_0000.png.gt.txt
+File 2 (OCR): kInteligenz_0000.png.txt
+
+Vorrede zur zweiten Auflage.¶
+~|||||||||||||||||||~|||||||| 0.931
+Porrede zur zweiten Äuflage.¶
+
+Mit vorliegender, nahezu um die Hälfte des Inhalts der erſten Aus⸗¶ 1.000
+
+gabe bereicherten zweiten Auflage des „Deutſchen Wortſchatzes“ erſcheint das¶ 1.000
+
+zwölfte Tauſend dieſes Werkes. Ein erfreulicher Beweis, daß die mühſelige¶ 1.000
+
+Arbeit des Verfaſſers keine vergebliche war, daß das Werk ſich Bahn ge⸗¶ 1.000
+
+brochen und deſſen Verwendbarkeit Anklang bei dem Publikum gefunden hat.¶ 1.000
+
+Wie natürlich, verdanke ich dieſen günſtigen und verhältnismäßig raſchen¶ 1.000
+
+Erfolg, zum großen Teile der wohlwollenden Beurteilung, welche dem¶ 1.000
+
+„Deutſchen Wortſchatz“ ſeitens der Kritik allgemein entgegengebracht wurde.¶ 1.000
+
+Indem ich hierfür meinen aufrichtigen Dank ausſpreche, glaube ich einige¶ 1.000
+
+Worte der Erklärung beifügen zu ſollen, bezüglich der hier und dort aufge⸗¶ 1.000
+
+tauchten Anſicht, daß behufs „Purifizierung“ der deutſchen Sprache die Fremd⸗¶ 1.000
+
+wörter von der Aufnahme in dieſem Werke ausgeſchloſſen ſein ſollten.¶ 1.000
+
+Es iſt eine auf Erfahrung beruhende, wohlbekannte Tatſache, daß die¶ 1.000
+
+meiſten Menſchen gewöhnlich nur eine ſehr beſchränkte Anzahl Wörter be⸗¶ 1.000
+
+nützen, um ihre Gedanken in Worte einzukleiden. Dieſe Beobachtung er⸗¶ 1.000
+
+läutert den Zweck des vorliegenden Werkes, dem Benützer die leichte Auf⸗¶ 1.000
+
+findung des ihm paſſenden Ausdruckes zu ermöglichen. — Das Werk iſt für¶ 1.000
+
+den Gebrauch ſowohl der Deutſchen als der Ausländer beſtimmt. Der letztere¶ 1.000
+
+befindet ſich nicht ſelten in der Lage, ein ihm geläufiges Fremdwort nachzu⸗¶ 1.000
+
+ſchlagen, um den entſprechenden deutſchen Ausdruck aufzufinden.¶ 1.000
+
+Bei der Herſtellung des Werkes bin ich von der Anſicht ausgegangen,¶ 1.000
+
+daß der Benützer desſelben eine Erklärung der vorkommenden Ausdrücke nicht¶ 1.000
+
+bedürfe. Aber die Faſſung des Werkes erforderte, daß den aufgenommenen¶ 1.000
+
+Fremdwörtern der entſprechende deutſche Ausdruck immer unmittelbar vorher⸗¶ 1.000
+
+gehe oder nachfolge; und gerade hiedurch iſt die Möglichkeit geboten, den¶ 1.000
+
+Gebrauch vieler, ſo häufig benützter Fremdwörter zu vermeiden und den¶ 1.000
+
+„paſſenden Ausdruck“ in deutſcher Sprache zu verwenden. Dieſer Grund¶ 1.000
+
+allein ſchon ſollte die Aufnahme von Fremdwörtern in dem „Deutſchen Wort⸗¶ 1.000
+
+ſchatz“ vollkommen berechtigt erſcheinen laſſen.¶ 1.000
+
+Indem ich nun auch für dieſe zweite Auflage eine wohlwollende Auf⸗¶ 1.000
+
+nahme ſeitens der geehrten Kritik erhoffe, erübrigt mir noch auch jenen zahl⸗¶ 1.000
+
+reichen Benützern meines Werkes, welche mit ihren freundlichen Andeutungen¶ 1.000
+
+mir behilflich an die Hand gegangen ſind, meinen Dank abzuſtatten und ihre¶ 1.000
+
+fernere Teilnahme für das Werk zu erbitten.¶ 1.000
+
+Wien im Mai 1892.¶ 1.000
+
+Der Verfaſſer.¶
+~|||~|||||||||| 0.867
+Per Perfaſſer.¶
+
+¶ 1.000
+
+¶ 1.000
+
+
+Character match (confusion) table:
+GRT => OCR  ratio  errors   count
+---    --- ------ ------- -------
+'A' => 'Ä' 0.0476       1      21
+'D' => 'P' 0.0909       1      11
+'V' => 'P' 0.5000       2       4
+
+Summary:
+
+              lines   words   chars
+items ocr:       39     351    2473 matches + inserts + substitutions
+items grt:       39     351    2473 matches + deletions + substitutions
+matches:         37     347    2469 matches
+edits:            2       4       4 inserts + deletions + substitutions
+ subss:           2       4       4 substitutions
+ inserts:         0       0       0 inserts
+ deletions:       0       0       0 deletions
+precision:   0.9487  0.9886  0.9984 matches / (matches + substitutions + inserts)
+recall:      0.9487  0.9886  0.9984 matches / (matches + substitutions + deletions)
+accuracy:    0.9487  0.9886  0.9984 matches / (matches + substitutions + inserts + deletions)
+f-score:     0.9487  0.9886  0.9984 ( 2 * recall * precision ) / ( recall + precision )
+error:       0.0513  0.0114  0.0016 ( inserts + deletions + substitutions ) / (items grt )

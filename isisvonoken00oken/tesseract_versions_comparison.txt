@@ -1,0 +1,9 @@
+F-scores of Tesseract versions
+
+                                lines  words  chars
+3.04.00_deu_frak+deu           0.5446 0.8988 0.9751
+3.04.01_deu_frak+deu           0.5352 0.8988 0.9751
+3.05.01_deu_frak+deu           0.5540 0.9014 0.9755
+4.0.0-beta.1_best_Fraktur+deu  0.2066 0.7218 0.9401
+4.0.0-beta.1_fast_Fraktur+deu  0.1690 0.7208 0.9388
+4.0.0-beta.1_fast_frk+deu      0.1878 0.7163 0.9380

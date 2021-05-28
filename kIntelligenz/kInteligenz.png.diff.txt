@@ -1,0 +1,335 @@
+/Users/helmut/github/ocr-hw/ocr-measures/scripts/ocr-compare.pl Version 0.04
+
+Compare ground truth (GRT) against OCR text output:
+File 1 (GRT): kInteligenz_0000.png.gt.txt
+File 2 (OCR): kInteligenz.png.txt
+
+Vorrede zur zweiten Auflage.¶
+~|||||||~|||||||||||~|||||||| 0.897
+Porrede jur zweiten Kuflage.¶
+
+Mit vorliegender, nahezu um die Hälfte des Inhalts der erſten Aus⸗¶
+~|~|||||||||||||||||||||||~||||||||~||||||||~||||||||||||||||||||-| 0.910
+Wir vorliegender, nahezu un die Hälſte des Irhalts der erſten Aus_¶
+
+gabe bereicherten zweiten Auflage des „Deutſchen Wortſchatzes“ erſcheint das¶
+~|||||||||||||||||~|||||||||||||||||||-|||~|||||||||~|-||~-||-||-|||-|||||||| 0.857
+babe bereicherten Iweiten Auflage des _Deulſchen Woriſ_haß_es_ e_ſch_int das¶
+
+zwölfte Tauſend dieſes Werkes. Ein erfreulicher Beweis, daß die mühſelige¶
+||||~|||||~|||||||||||||||~|||||||||||||||||||||||~||~||||||||||~~|||||||| 0.905
+zwölſte Tanſend dieſes Werles. Ein erfreulicher Bemeie, daß die nahſelige¶
+
+Arbeit des Verfaſſers keine vergebliche war, daß das We_rk ſich Bahn ge⸗¶
+||||||||||||||||-|-||||-|||||||||~|||||||||||||||||||||+~-||||-||||||||~| 0.877
+Arbeit des Verfa_ſ_rs k_ine vergetliche war, daß das Wert_ ſic_ Bahn ge.¶
+
+brochen und deſſen Verwendbarkeit Anklang bei dem Publikum gefunden hat.¶
+|||||||||||||||||||~|-||||||||||||||~|||||||||||~||||||||||||~||||||||||| 0.932
+brochen und deſſen Be_wendbarkeit Antlang bei den Publikum gejunden hat.¶
+
+Wie natürlich, verdanke ich dieſen günſtigen und verhältnismäßig raſchen¶
+~|||||~~||||||||||||||~|||-|||~|-|||~|-~|||||||||||||~||||~|~|||||~|-|||| 0.795
+wie nallrlich, verdankæ ic_ digſ_n gun_figen und verheltniemoßig roſ_hen¶
+
+Erfolg, zum großen Teile der wohlwollenden Beurteilung, welche dem¶
+~|~|||||||||||~||||||||||||||||||||-|||||||||||||||||||||||||||||~| 0.925
+Crjolg, zum größen Teile der wohlwo_lenden Beurteilung, welche den¶
+
+„Deutſchen Wortſchatz“ ſeitens der K_ritik allgemein entgegengebracht w_urde.¶
+||||~||||||||||||||~~-||||||||||||||+~~~~-|||~||||||||||~||||||||||||||+~-||-| 0.795
+„Deulſchen Wortſchaß'_ ſeitens der Kritit_ alggemein enthegengebracht wun_de_¶
+
+Indem ich hierfür meinen au_frichtigen Dank ausſprec_he, glaube ich einige¶
+~~|||||||||||||||||||||||||+|-||||||||||||~|||||||-|+||||~||||||||||||||~|| 0.880
+Fudem ich hierfür meinen auff_ichtigen Dant ausſpr_chhe, claube ich einihe¶
+
+Worte der E_rklärung beifügen zu ſollen, bezüglich der hier und dort au_fge⸗¶
+|||||||||||+~-|~|||||||-|~|||||||||||||||||~~||||-|||||||||||||||||||||+~-||| 0.844
+Worte der Eri_lirung be_fagen zu ſollen, benuglic_ der hier und dort auft_e⸗¶
+
+tauchten Anſicht, daß behufs „Purifizierung“ der deutſchen Sprache die Fremd⸗¶
+~~|||||||~-|||-||||||||||||||~|||||-|||||||-||||||||||||||||||||||||||||||~||| 0.885
+wuuchten Uͤ_ſic_t, daß behufs -Purif_zierung_ der deutſchen Sprache die Frend⸗¶
+
+wörter von der Aufnahme in dieſem We_rke ausgeſchloſſen ſein ſollten.¶
+||||||||||||||||||||||||||||||||~|||+~-|||||||||-|~-|||||||||||-||||-| 0.871
+wörter von der Aufnahme in dieſen Wert_e ausgeſc_la_ſen ſein ſo_lten_¶
+
+Es iſt eine auf Erfahrung beruhende, wohlbekannte Tatſache, daß die¶
+||||||||||||||||||||~||||||||||||||||||~|||~||||||||~|~||||||||||||| 0.926
+Es iſt eine auf Erfabrung beruhende, woblbetannte Talſuche, daß die¶
+
+meiſten Menſchen gewöhnlich nur eine ſehr beſchränkte Anzahl Wörter be⸗¶
+~|||||||~|||||||||||||||||||||||||||||||||||||||~|~||||~|||||||||||||||| 0.931
+neiſten Wenſchen gewöhnlich nur eine ſehr beſchrüntte Arzahl Wörter be⸗¶
+
+nützen, um ihre Gedanken in Worte einzukleiden. Dieſe Beobachtung er⸗¶
+~~~-||||||||||||||~||~|||||||||||||||~|~|~-||||||||||||||||||||||||||| 0.857
+muh_en, um ihre Gebanten in Worte einhullä_den. Dieſe Beobachtung er⸗¶
+
+läutert den Zweck des vorliegenden Werkes, dem Benützer die leichte Auf⸗¶
+||||||||||||||||-|||||||||||||||||||||~||||||||||~|~-|||||||||||||||||||| 0.932
+läutert den Zwec_ des vorliegenden Werles, dem Berüb_er die leichte Auf⸗¶
+
+findung des ihm paſſenden Ausd_ruckes zu ermöglichen. — Das We_rk iſt für¶
+-~~||||||||||||||||||-||||||-~+|~|-|||||||-|||||-||||-||||||||+~-|||-||||| 0.784
+_ſudung des ihm paſſe_den Au_chrnc_es zu e_mögli_hen._— Das Wert_ iſ_ für¶
+
+den Gebrauch ſowohl der Deutſchen als der Ausländer beſtimmt. Der letztere¶
+||||||||||||||||||||||||~||~||||||~|||||||~~-|~||||||||-~~||||||||||~-||||| 0.840
+den Gebrauch ſowohl der Heulſchen ols der ie_lender beſ_ünmt. Der leh_tere¶
+
+befindet ſich nicht ſelten in der Lage, ein ihm geläu_figes Fremdwort nac_hzu⸗¶
+|||-||||||||||||||-||||||||||||||||||||||||||||||||~|+|-|||||||~|||||||||+|-||| 0.899
+bef_ndet ſich nich_ ſelten in der Lage, ein ihm gelkuff_ges Frendwort nachh_u⸗¶
+
+ſchlagen, um den entſprechenden deutſchen Ausdruck aufzufinden.¶
+|-||||||~||||||||||||||||||||||||||~|-||||||~|~||-||||~~-~|||||| 0.828
+ſ_hlagen. um den entſprechenden deuiſ_hen Auedtuc_ aufmi_ſnden.¶
+
+Bei der Herſtellung des We_rkes bin ich von der Anſicht ausgegangen,¶
+~|~|||||||||||-|||||||||||+~-|||||||||||||||||||||-~||||||||||||||||| 0.884
+Ver der Herſte_lung des Wert_es bin ich von der An_ſcht ausgegangen,¶
+
+daß der Benützer desſelben eine Er__klärung der vo_rkommenden Ausdrücke nicht¶
+||||||||~||||-|||~||||||||||||||~|++|--|||||||||||+~~-~||||||||||||~||-||||||| 0.808
+daß der Venüt_er besſelben eine Grllk__rung der vorty_nmenden Ausdräck_ nicht¶
+
+bedürfe. Aber die Faſſung des We_rkes erforderte, daß den aufgenommenen¶
+||~~||||||||||||||||||||||||||||+~-|||||~||||~|||||||||||||||||||~|||||| 0.889
+bepurfe. Aber die Faſſung des Wert_es erſordente, daß den aufgenonmenen¶
+
+Fremdwörtern der entſprechende deutſche Ausdruck immer unmittelbar vorher⸗¶
+|||~||||||-~||||||||||||||||||||||~|-||||||||||-||~~|||||~||~|||||||||||||| 0.867
+Frendwörte_m der entſprechende deulſ_he Ausdruc_ inner unnitlelbar vorher⸗¶
+
+gehe oder nachfolge; und gerade hiedurch iſt die Möglichkeit geboten, den¶
+||||||||||||||~||||||||||||||||||||||-~||||||||||~||||||~-|||||||||||||||| 0.919
+gehe oder nachſolge; und gerade hiedu_rh iſt die Wöglicht_it geboten, den¶
+
+Gebrauch vie_ler, ſo häufig benützter Fremdwörter zu vermeiden und den¶
+~|||||||||||+~-|||||||~||||||||~|-|||||||~|||||||||||||-||||||||||||||| 0.873
+Cebrauch vielt_r, ſo houfig benat_ter Frendwörter zu ve_meiden und den¶
+
+„paſſenden Ausdruck“ in deutſcher Sprache zu verwenden. Dieſer Grund¶
+-|~||||||||||||||||~|||||||||||||||||||||||||||~-||||||||||||||~||||| 0.913
+_poſſenden Ausdruck- in deutſcher Sprache zu vem_enden. Dieſer Orund¶
+
+allein ſchon ſollte die Aufnahme von Fremdwörtern in dem_ „Deutſchen Wort⸗¶
+|||-|||||||||||~--||||||||||||||||||||||~|||||||~|||||||+|-|||~|-|||||||||| 0.867
+all_in ſchon ſoc__e die Aufnahme von Frendwörterm in dem. _Deulſ_hen Wort⸗¶
+
+ſchatz“ vollkommen berechtigt erſcheinen laſſen.¶
+||||~--|||-|||~|||||||||||||||~~~-------||||||||| 0.694
+ſchah__ vo_lkonmen berechtigt 11—_______ laſſen.¶
+
+Indem ich nun auch für dieſe zweite Auflage eine wohlwollende Auf⸗¶
+||||~||||||||||||||||---~---|-|------|~|-||||-|||||||~|-||||||||~|| 0.687
+Inden ich nun auch fü___r___ _w______uſl_ge e_ne wohlvo_lende Auſ⸗¶
+
+nahme ſeitens der geehrten Kritik erhoffe__, erübrigt mir __noch auch jenen zahl⸗¶
+~~|~|||-|~-|||~|-||-||~-||||~~-~-||-|---|++|||-~||~~-|~|||++~---|-|~~|~-|||||~---| 0.476
+wohne ſ_ih_ns be_ g_ehn_en Kun_t_ e_h___eſk, e_ibrhk_ vir vng___ _urg ſ_nen z.___¶
+
+reichen Benützern meines Werkes, welche mit ihren freundlichen Andeutungen¶
+|-|||||||||~~-|-~|||||||||||~||||||||||||||||||||||||||||||~||||||||||||||| 0.893
+r_ichen Benub_e_m meines Werles, welche mit ihren freundlicken Andeutungen¶
+
+mir be_hilflich an die Hand gegangen ſind, meinen Dank abzuſtatten und ihre¶
+||||||+~-|~|-|||~||||||||||||||||||||||||||||||||||||~|||||~|||||||||||||||| 0.895
+mir behl_lſl_ch on die Hand gegangen ſind, meinen Dant abzuftatten und ihre¶
+
+fernere Teilnahme für das We_rk zu erbitten.¶
+~|~|||||||||||||||||||||||||+~-|||||||||||||| 0.889
+‚emnere Teilnahme für das Wert_ zu erbitten.¶
+
+Wien im Mai 1892.¶ 1.000
+
+_
++ 0.000
+¶
+
+_
++ 0.000
+¶
+
+_
++ 0.000
+¶
+
+_
++ 0.000
+¶
+
+_
++ 0.000
+¶
+
+Der Verfaſſer.¶
+~|||~|||||||||| 0.867
+Per Perfaſſer.¶
+
+¶ 1.000
+
+¶ 1.000
+
+
+Character match (confusion) table:
+GRT => OCR  ratio  errors   count
+---    --- ------ ------- -------
+' ' => '_' 0.0096       3     312
+',' => '.' 0.0455       1      22
+'.' => '_' 0.1333       2      15
+'A' => 'K' 0.0476       1      21
+'A' => 'Uͤ' 0.0476       1      21
+'A' => '_' 0.0476       1      21
+'A' => 'i' 0.0476       1      21
+'B' => 'V' 0.2500       2       8
+'D' => 'H' 0.0909       1      11
+'D' => 'P' 0.0909       1      11
+'E' => 'C' 0.1667       1       6
+'E' => 'G' 0.1667       1       6
+'G' => 'C' 0.2500       1       4
+'G' => 'O' 0.2500       1       4
+'I' => 'F' 0.3333       1       3
+'M' => 'W' 0.7500       3       4
+'V' => 'B' 0.2500       1       4
+'V' => 'P' 0.5000       2       4
+'W' => 'w' 0.0588       1      17
+'_' => '.' 0.0333       1      30
+'_' => 'f' 0.1000       3      30
+'_' => 'h' 0.1333       4      30
+'_' => 'k' 0.0333       1      30
+'_' => 'l' 0.1000       3      30
+'_' => 'n' 0.0333       1      30
+'_' => 'r' 0.3000       9      30
+'_' => 'u' 0.0333       1      30
+'_' => 'v' 0.0333       1      30
+'_' => '¶' 0.1667       5      30
+'_' => 'ſ' 0.0333       1      30
+'a' => '.' 0.0123       1      81
+'a' => '_' 0.0247       2      81
+'a' => 'o' 0.0617       5      81
+'a' => 'u' 0.0247       2      81
+'b' => 't' 0.0294       1      34
+'c' => '_' 0.1286       9      70
+'c' => 'r' 0.0286       2      70
+'d' => '_' 0.0088       1     114
+'d' => 'b' 0.0263       3     114
+'d' => 'c' 0.0088       1     114
+'d' => 'p' 0.0088       1     114
+'e' => '1' 0.0027       1     374
+'e' => '_' 0.0535      20     374
+'e' => 'g' 0.0027       1     374
+'e' => 'ä' 0.0027       1     374
+'e' => 'æ' 0.0027       1     374
+'f' => '_' 0.1000       4      40
+'f' => 'j' 0.0500       2      40
+'f' => 't' 0.0250       1      40
+'f' => 'ſ' 0.1750       7      40
+'f' => '‚' 0.0250       1      40
+'g' => '_' 0.0169       1      59
+'g' => 'b' 0.0169       1      59
+'g' => 'c' 0.0169       1      59
+'g' => 'h' 0.0339       2      59
+'g' => 'k' 0.0169       1      59
+'h' => '_' 0.0808       8      99
+'h' => 'b' 0.0202       2      99
+'h' => 'g' 0.0101       1      99
+'h' => 'k' 0.0101       1      99
+'h' => 'l' 0.0101       1      99
+'i' => '_' 0.0775      10     129
+'i' => 'h' 0.0078       1     129
+'i' => 'n' 0.0078       1     129
+'i' => 'r' 0.0155       2     129
+'i' => 't' 0.0233       3     129
+'i' => 'ü' 0.0078       1     129
+'i' => 'ſ' 0.0233       3     129
+'j' => 'ſ' 1.0000       1       1
+'k' => '_' 0.3939      13      33
+'k' => 'l' 0.1212       4      33
+'k' => 't' 0.2121       7      33
+'k' => 'y' 0.0303       1      33
+'l' => '_' 0.1143       8      70
+'l' => 'c' 0.0143       1      70
+'l' => 'g' 0.0143       1      70
+'l' => 't' 0.0143       1      70
+'m' => 'n' 0.4255      20      47
+'m' => 'v' 0.0213       1      47
+'n' => '_' 0.0214       4     187
+'n' => 'g' 0.0053       1     187
+'n' => 'm' 0.0214       4     187
+'n' => 'r' 0.0160       3     187
+'n' => 'u' 0.0107       2     187
+'n' => 'w' 0.0053       1     187
+'o' => '_' 0.0714       3      42
+'o' => 'a' 0.0238       1      42
+'o' => 'ö' 0.0238       1      42
+'r' => '1' 0.0063       1     159
+'r' => '_' 0.0818      13     159
+'r' => 'i' 0.0126       2     159
+'r' => 'm' 0.0126       2     159
+'r' => 'n' 0.0126       2     159
+'r' => 't' 0.0503       8     159
+'r' => 'u' 0.0063       1     159
+'s' => '_' 0.0488       2      41
+'s' => 'e' 0.0732       3      41
+'t' => '_' 0.0825       8      97
+'t' => 'b' 0.0206       2      97
+'t' => 'f' 0.0103       1      97
+'t' => 'h' 0.0412       4      97
+'t' => 'i' 0.0309       3      97
+'t' => 'l' 0.0825       8      97
+'t' => 'r' 0.0103       1      97
+'t' => 'w' 0.0103       1      97
+'t' => 'ß' 0.0206       2      97
+'u' => 'e' 0.0110       1      91
+'u' => 'i' 0.0110       1      91
+'u' => 'n' 0.0330       3      91
+'w' => '_' 0.0417       1      24
+'w' => 'm' 0.0417       1      24
+'w' => 'v' 0.0417       1      24
+'z' => ''' 0.0345       1      29
+'z' => 'I' 0.0345       1      29
+'z' => '_' 0.3448      10      29
+'z' => 'h' 0.0345       1      29
+'z' => 'j' 0.0345       1      29
+'z' => 'm' 0.0345       1      29
+'z' => 'n' 0.0345       1      29
+'ä' => '_' 0.1000       1      10
+'ä' => 'e' 0.2000       2      10
+'ä' => 'i' 0.1000       1      10
+'ä' => 'k' 0.1000       1      10
+'ä' => 'o' 0.2000       2      10
+'ä' => 'ü' 0.1000       1      10
+'ü' => 'a' 0.1765       3      17
+'ü' => 'i' 0.0588       1      17
+'ü' => 'l' 0.0588       1      17
+'ü' => 'u' 0.2941       5      17
+'ü' => 'ä' 0.0588       1      17
+'ſ' => '_' 0.0694       5      72
+'ſ' => 'f' 0.0139       1      72
+'ſ' => '—' 0.0139       1      72
+'“' => '-' 0.2000       1       5
+'“' => '_' 0.8000       4       5
+'„' => '-' 0.2000       1       5
+'„' => '_' 0.6000       3       5
+'⸗' => '.' 0.0833       1      12
+'⸗' => '_' 0.1667       2      12
+
+Summary:
+
+              lines   words   chars
+items ocr:       44     353    2365 matches + inserts + substitutions
+items grt:       39     351    2473 matches + deletions + substitutions
+matches:          3     183    2136 matches
+edits:           41     173     367 inserts + deletions + substitutions
+ subss:          36     165     199 substitutions
+ inserts:         5       5      30 inserts
+ deletions:       0       3     138 deletions
+precision:   0.0682  0.5184  0.9032 matches / (matches + substitutions + inserts)
+recall:      0.0769  0.5214  0.8637 matches / (matches + substitutions + deletions)
+accuracy:    0.0682  0.5140  0.8534 matches / (matches + substitutions + inserts + deletions)
+f-score:     0.0723  0.5199  0.8830 ( 2 * recall * precision ) / ( recall + precision )
+error:       1.0513  0.4929  0.1484 ( inserts + deletions + substitutions ) / (items grt )

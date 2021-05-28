@@ -1,0 +1,21 @@
+/Users/helmut/github/ocr/ocr-measures/ocr_compare.pl Version 0.02
+
+Compare OCR text output against ground truth (GRT):
+File 1 (OCR): isis_153_v3.04.01_deu_frak+deu.txt
+File 2 (GRT): isisvonoken00oken_0153.corr.round_s.txt
+
+
+Summary:
+
+             lines  words  chars
+items ocr:     108    766   5093 
+items grt:     105    765   5080 
+matches:        57    688   4960 
+edits:          51     86    185 
+ subss:         48     69     68 
+ inserts:        3      9     65 
+ deletions:      0      8     52 
+precision:  0.5278 0.8982 0.9739 
+recall:     0.5429 0.8993 0.9764 
+accuracy:   0.5278 0.8889 0.9640 
+f-score:    0.5352 0.8988 0.9751 

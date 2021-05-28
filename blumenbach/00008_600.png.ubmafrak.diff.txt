@@ -1,0 +1,94 @@
+../../ocr-measures/scripts/ocr-compare.pl Version 0.04
+
+Compare ground truth (GRT) against OCR text output:
+File 1 (GRT): 00008_600.orig.txt
+File 2 (OCR): 00008_600.png.ubmafrak.txt
+
+Vorrede.__¶
+||||||||++| 0.818
+Vorrede. *¶
+
+ſanter, die beſondre Geſchichte des Men⸗¶ 1.000
+
+ſchen, des Elephanten, der Polypen__‚ die¶
+||||||||||||||||||||||||||||||~|||++||||-| 0.905
+ſchen, des Elephanten, der Polhpen x‚ di_¶
+
+Oekononie eines Bienenſtocks u. ſ. w. zu¶ 1.000
+
+wiſſen, als ſich mit den abſtracten Leh⸗¶
+||||-||||||||||||||||||||~||||||||||||||| 0.951
+wiſſ_n, als ſich mit den obſtracten Leh⸗¶
+
+ren von den allgemeinen Eigenſchaften¶ 1.000
+
+der Naturalien allein zu begnuͤgen. Nur¶ 1.000
+
+muß man unter ſpecieller Geſchichte keine¶ 1.000
+
+bloſe trockne Regiſtratur der Gattungen¶ 1.000
+
+und ihrer Charaktere verſtehen. Das Lin⸗¶
+|||||||||||||||||||||~||||||||||||||||||| 0.976
+und ihrer Charaktere derſtehen. Das Lin⸗¶
+
+neiſche Syſtema Naturae und aͤnliche J__n⸗¶
+|||||||||||||||||||||||||||||||||||||++||| 0.952
+neiſche Syſtema Naturae und aͤnliche J In⸗¶
+
+ventarien unſrer neuen Fauniſten und__¶
+||||||||||||||||||||||||||||||||||||++| 0.949
+ventarien unſrer neuen Fauniſten und U¶
+
+Floriſten haben ihre großen Verdienſte,¶ 1.000
+
+aber wol ſchwerlich Reiz genug, einen¶ 1.000
+
+jungen Menſchen aufzumuntern, ſich mit¶ 1.000
+
+der Natur und der K_entniß ihrer G_e⸗¶
+|||||||||||||||||||+||||||||||||||+|-| 0.921
+der Natur und der K entniß ihrer GOe_¶
+
+ſchoͤpfe in etwas vertraut zu machen. Es¶
+||-~~||||||||||||||||||||||||||||||||||| 0.925
+ſc_oyfe in etwas vertraut zu machen. Es¶
+
+iſt¶ 1.000
+
+¶ 1.000
+
+
+Character match (confusion) table:
+GRT => OCR  ratio  errors   count
+---    --- ------ ------- -------
+'_' => ' ' 0.5000       5      10
+'_' => '*' 0.1000       1      10
+'_' => 'I' 0.1000       1      10
+'_' => 'O' 0.1000       1      10
+'_' => 'U' 0.1000       1      10
+'_' => 'x' 0.1000       1      10
+'a' => 'o' 0.0357       1      28
+'e' => '_' 0.0211       2      95
+'h' => '_' 0.0435       1      23
+'oͤ' => 'o' 1.0000       1       1
+'p' => 'y' 0.2500       1       4
+'v' => 'd' 0.2500       1       4
+'y' => 'h' 0.5000       1       2
+'⸗' => '_' 0.2000       1       5
+
+Summary:
+
+              lines   words   chars
+items ocr:       19     103     653 matches + inserts + substitutions
+items grt:       19      98     647 matches + deletions + substitutions
+matches:         11      87     638 matches
+edits:            8      16      19 inserts + deletions + substitutions
+ subss:           8      11       5 substitutions
+ inserts:         0       5      10 inserts
+ deletions:       0       0       4 deletions
+precision:   0.5789  0.8447  0.9770 matches / (matches + substitutions + inserts)
+recall:      0.5789  0.8878  0.9861 matches / (matches + substitutions + deletions)
+accuracy:    0.5789  0.8447  0.9711 matches / (matches + substitutions + inserts + deletions)
+f-score:     0.5789  0.8657  0.9815 ( 2 * recall * precision ) / ( recall + precision )
+error:       0.4211  0.1633  0.0294 ( inserts + deletions + substitutions ) / (items grt )

@@ -1,0 +1,381 @@
+Punctuation
+
+GRT => OCR  ratio  errors   count
+---    --- ------ ------- -------
+' ' => '_' 0.0015       1     660 DEL
+'(' => '_' 0.2000       1       5 DEL
+')' => '_' 0.2143       3      14 DEL
+',' => '.' 0.0154       1      65
+',' => '4' 0.0154       1      65
+'-' => '—' 0.0833       2      24
+'.' => '_' 0.0135       1      74
+'/' => '_' 1.0000       1       1
+';' => '3' 0.0667       1      15
+'_' => ',' 0.1111       1       9
+'_' => '.' 0.1111       1       9
+'—' => '-' 1.0000       1       1
+---        ------ ------- -------
+Sum        0.0171      15     877
+           0.0029            5074
+
+Numbers
+
+Character match (confusion) table:
+GRT => OCR  ratio  errors   count
+---    --- ------ ------- -------
+'1' => '_' 0.0909       2      22
+'2' => '_' 0.0667       1      15
+'3' => '2' 0.1429       1       7
+'3' => '8' 0.5714       4       7
+'5' => '6' 0.1818       2      11
+'_' => '4' 0.1111       1       9
+---        ------ ------- -------
+Sum        0.1718      11      64
+           0.0022            5074
+
+Letters
+
+Character match (confusion) table:
+GRT => OCR  ratio  errors   count
+---    --- ------ ------- -------
+'E' => 'B' 0.0952       2      21 Antiqua
+'E' => 'C' 0.0476       1      21 sic!
+'H' => 'B' 0.0909       1      11 Fraktur
+'H' => 'I' 0.0909       1      11 Antiqua, degraded, H. -> IJ.
+'H' => 'S' 0.0909       1      11 Schwabacher
+'L' => 'T' 0.1111       1       9 Schwabacher
+'M' => 'N' 0.0909       1      11 Schwabacher
+'P' => '_' 0.1250       1       8 Antiqua, (Psy -> (sy
+'R' => 'K' 0.2000       1       5 Antiqua, Ric -> Kic
+'_' => 'J' 0.1111       1       9 Antiqua, degraded, H. -> IJ.
+'_' => 'g' 0.1111       1       9 Fraktur, nt -> ngt
+'_' => 'i' 0.2222       2       9 Antiqua, hlo -> hilo; ht -> lit
+'_' => 't' 0.1111       1       9 Fraktur
+'_' => 'y' 0.1111       1       9 Fraktur, nh -> nyh 
+'a' => 's' 0.0048       1     207 Antiqua
+'a' => 'ä' 0.0048       1     207 Fraktur
+'b' => 'd' 0.0548       4      73 Fraktur, slightly degraded, Fraktur, slightly degraded, Fraktur, Fraktur
+'b' => 'h' 0.0137       1      73 Antiqua slightly degraded
+'b' => 'v' 0.0137       1      73 Fraktur
+'e' => 'c' 0.0015       1     649 Fraktur
+'h' => 'l' 0.0057       1     175 Antiqua ht -> lit
+'k' => 'h' 0.0526       1      19 Antiqua
+'l' => '_' 0.0072       1     139
+'l' => 't' 0.0072       1     139 Fraktur
+'n' => '_' 0.0043       2     461
+'n' => 'm' 0.0022       1     461 Fraktur (blind + n)
+'r' => '_' 0.0038       1     264
+'r' => 'c' 0.0038       1     264 Fraktur
+'r' => 'i' 0.0038       1     264 Fraktur,
+'r' => 't' 0.0114       3     264 Fraktur, Fraktur, Fraktur  
+'r' => 'x' 0.0038       1     264 sic!
+'s' => 'S' 0.0172       1      58 Antiqua
+'s' => 'ö' 0.0172       1      58 Fraktur
+'t' => 'i' 0.0045       1     223 Antiqua
+'t' => 'l' 0.0045       1     223 Fraktur ſt -> ſl
+'u' => 'n' 0.0068       1     146 Antiqua 
+'w' => 'V' 0.0263       1      38 Antiqua
+'x' => 'z' 0.1429       1       7 Antiqua slightly
+'y' => 'p' 0.0400       1      25 Fraktur slightly degraded
+'z' => '_' 0.0213       1      47
+'ä' => 'a' 0.0357       1      28 Fraktur
+'ö' => 'o' 0.1250       1       8 Schwabacher
+'ſ' => 'f' 0.0362       5     138 Fraktur, Fraktur slightly degraded, Fraktur, Fraktur, Fraktur 
+---        ------ ------- -------
+Sum        0.0197      55    2779
+           0.0108            5074
+           
+                CER errors   chars
+Antiqua      0.0388     15     386
+Schwabacher  0.0555      4      72
+Fraktur      0.0077     36    4616
+
+
+Spelling
+
+## special names:
+
+Psychotria sychotria # taxa
+$anagram_key: 146185725832
+$ocrkey: svciioiiio
+1	0.9474	Psychotria
+2	0.8889	Dychotria
+3	0.8421	Psycothria
+ 
+similis Similis # la1m
+1	1.0000	Similis
+
+Adductores Addnctores ### not found
+
+
+Axine Azine
+$anagram_key: 74992438015
+$ocrkey: aziiic
+1	0.8000	zinie
+2	0.8000	Ainea
+3	0.8000	Aline
+4	0.8000	zinae
+5	0.7273	azines
+
+1	1.0000	Azine # de1m
+
+Eidariten Cidariten
+Cidariten de1m
+$anagram_key: 120495634907
+$ocrkey: ciooiiicii
+1	0.7778	Cnidarier
+2	0.7778	Cordaiten
+3	0.6667	Dirigaten
+
+
+Eryon Bryon
+
+Extensores Exiensores
+
+Oxymitren Oxymitten
+
+Riccia Kiccis
+$anagram_key: 78684521430
+$ocrkey: iiccis
+1	0.6667	Siccia
+2	0.6667	coicis
+3	0.6667	circis
+4	0.6667	Circis
+
+
+Sykesia Syhesia
+$anagram_key: 110191353758
+$ocrkey: sviicsio
+1	0.9333	Sychesia # taxa
+2	0.8571	Sykesia
+3	0.7143	Hylesia
+4	0.7143	hestias
+5	0.7143	synesia
+
+
+wightii Viglitii
+$anagram_key: 121218278155
+$ocrkey: vioiiiii
+1	0.6667	vigilii
+2	0.6667	viginti
+3	0.6250	tilingii
+
+wightii taxa
+1	1.0000	wightii
+
+
+schlotheimii schilotheimii
+$anagram_key: 183451411867
+$ocrkey: sciiiioiiiciiiiii
+1	0.9600	schlotheimii # taxa
+
+globata glohata
+$anagram_key: 93481229176
+$ocrkey: oioiioio
+1	0.8571	globata # taxa
+2	0.7692	aglota
+3	0.7143	lochaga
+
+
+## person names
+
+Henry      Senry
+Lindenberg Tindenberg
+Meyer      Neyer
+Schrön     Schron 
+
+
+
+## common:
+
+nachgewieſen machgewieſen
+0.9167	nachgewiesen 
+ 
+Bau  Bäu        ### ambigous
+1	4	0.8571	Bräu
+2	4	0.7500	Bräus
+3	4	0.7500	Bräue
+4	5	0.7500	Busäu
+5	4	0.7500	Bläue
+6	3	0.6667	Bau
+
+Beyträge Bepträge ### ambigous
+1	4	0.9333	Beträge
+2	6	0.8750	Beträgen
+3	5	0.8750	Beiträge
+
+Beyträge Beytrage ### ambigous
+1	5	1.0000	Beitrage 
+  
+Eyerſtock Eyerſlock
+1	5	0.8889	Eierstock
+2	5	0.8421	Eierstocks
+ 
+
+Fortſetzung Fortſetung
+1	9	0.9524	Fortsetzung
+2	8	0.8889	Forstung
+3	11	0.8696	Fortsetzungen
+
+Häkchen Bäkchen ### ambigous
+1	6	0.9333	Bäckchen
+2	7	0.9333	Bälkchen
+3	8	0.9333	Bänkchen
+4	5	0.9231	Bächen
+5	7	0.8750	Bälkchens
+6	6	0.8750	Bäckchens
+7	8	0.8750	Bänkchens
+8	6	0.8571	Bärchen
+9	7	0.8571	Häkchen
+$anagram_key: 79943695556
+$ocrkey: ioiciicii
+1	0.9333	Bälkchen
+2	0.9333	Bäckchen
+3	0.9333	Bänkchen
+4	0.9231	Bächen
+5	0.8571	Bärchen
+6	0.8571	Bäschen
+7	0.8571	Häkchen
+
+Jnnhalt Jnyhalt
+1	7	0.9231	Inhalt
+2	7	0.8571	Inhalte
+3	7	0.8571	Inhalts
+ 
+Moſchusdrüſen Moſchuödrüſen  ### missing
+1	10	0.8800	Moschusdrüse
+2	10	0.7826	Mischdüsen
+3	13	0.7692	Moschusdüften
+4	12	0.7500	Milchdrüsen
+ 
+Nerven Neiven   ### ambigous
+1	5	0.8333	Nerven
+2	6	0.8333	Neigen
+3	5	0.8333	Naiven
+
+
+Stacheln        Stachen ### ambigous
+1	7	0.9333	Stauchen
+2	6	0.9333	Stacheln
+3	4	0.9231	Sachen
+
+ 
+Theile Theite
+27	3	0.8000	Teile
+
+Unterſu- Unterfu-
+1	15	0.9167	Untersuchung
+2	17	0.8462	Untersuchungen
+ 
+aber ader       ### ambigous
+1	3	0.8889	Kader
+2	2	0.8571	der
+3	4	0.8000	anders
+4	4	0.8000	andere
+5	2	0.7500	Oder
+6	2	0.7500	aber
+
+abgebildet abgedildet
+1	7	0.9000	abgebildet
+2	7	0.8571	abgebildete
+ 
+beſchrieben deſchrieben ### ambigous
+1	8	0.9091	geschrieben
+2	8	0.9091	beschrieben
+ 
+beſteht veſteht ### ambigous
+1	5	0.9333	versteht
+2	5	0.8571	besteht
+3	5	0.8571	gesteht
+ 
+derſelben derſelden
+1	6	0.7778	derselben
+2	5	0.7059	erzielen
+3	6	0.7059	erteilen
+ 
+erreichen erteichen
+1	7	0.8889	erreichen
+2	7	0.8889	Bereichen
+3	6	0.8750	reichen 
+  
+mühſeelige mühſcelige
+1	10	0.9474	mühselige
+2	10	0.9000	mühseliges
+3	12	0.9000	mühseligen 
+ 
+welcher welchet
+1	3	0.9231	welche
+2	4	0.8571	welcher
+3	5	0.8571	welchen
+
+wir wit
+1	2	0.8571	weit
+2	2	0.7500	weite
+3	4	0.7500	wirkt
+4	3	0.7500	wiegt
+5	2	0.7500	weist
+6	4	0.7500	wirbt
+7	4	0.7500	wirft
+8	3	0.6667	fit
+9	1	0.6667	wie
+10	2	0.6667	wir
+
+überhaupt übechaupt 
+1	10	0.8889	überhaupt
+2	10	0.7778	Überhaupt
+ 
+ſind find
+1	5	0.8889	finde
+2	6	0.8000	findet
+3	7	0.8000	finden
+4	5	0.7500	Kind
+5	4	0.7500	sind 
+
+ſo fo
+1	2	0.8000	for
+2	1	0.6667	f
+3	0	0.6667	o
+ 
+ſogenannten ſogenangten 
+1	10	0.8182	sogenannten
+2	10	0.8000	genannten
+3	10	0.7826	so genannten
+4	8	0.7619	sogenannte
+
+ſowie fowie 
+1	1	0.8000	sowie
+2	1	0.7500	wie
+3	1	0.6667	sowieso
+$anagram_key: 75027842308
+$ocrkey: iovvic
+1	0.8000	sowie
+2	0.8000	Sowie
+3	0.8000	Bowie
+
+aspect of M in Schwabacher
+	OCR sample: 0.700
+	Font AlteSchwabacherOSF:       
+aspect frq   chars
+   0.6   2   = Œ
+   0.7   5   m w M W Æ
+   
+compared to HWBreitkopfFraktur
+aspect frq   chars
+   0.4   1   =
+   0.6   1   Œ
+   0.7   2   M Æ
+   0.8   2   m W
+	
+Files with Schwabacher
+
+RIDGES-Fraktur
+    1532-ArtzneyBuchleinDerKreutter-Tallat
+    1532-ContrafaytKreüterbuch-Brunfels: 
+        exotic D (00006.bin.png), 
+        exotic V instead of U (00009.bin.png), 
+        damaged H (00012.bin.png)
+    1543-NewKreüterbuch-Fuchs more common Schwabacher
+        exotic G (00049.bin.png),
+        exotic Z (00064.bin),
+        
+    

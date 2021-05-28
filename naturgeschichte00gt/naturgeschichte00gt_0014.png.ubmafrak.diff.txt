@@ -1,0 +1,96 @@
+../../ocr-measures/scripts/ocr-compare.pl Version 0.04
+
+Compare ground truth (GRT) against OCR text output:
+File 1 (GRT): naturgeschichte00gt_0014.orig.txt
+File 2 (OCR): naturgeschichte00gt_0014.png.ubmafrak.txt
+
+__
+++ 0.000
+N¶
+
+Vorbericht.¶ 1.000
+
+ben, muͤſſen es oͤfters mehr dem Zufall als ihrer¶ 1.000
+
+Geſchicklichkeit verdanken. Aber ſchon genannte¶ 1.000
+
+Naturalien genauer zu beſchreiben und zu be⸗¶ 1.000
+
+ſtimmen, als bisher geſchehen, dazu iſt mehr¶ 1.000
+
+Gelegenheit vorhanden, und auch dieſe Bemuͤ⸗¶ 1.000
+
+hung iſt nuͤtzlich und verdienſtlich.„ — Dieß¶
+|||||||||||||||||||||||||||||||||||~||||||||| 0.978
+hung iſt nuͤtzlich und verdienſtlich „ — Dieß¶
+
+hat mich bewogen, auf diejenigen meiner Auf⸗¶ 1.000
+
+ſaͤtze im Hanauiſchen Magazin, welche¶
+||||~|||||||||||||||||||||||||||||||| 0.973
+ſaͤtzz im Hanauiſchen Magazin, welche¶
+
+die Naturgeſchichte einiger Voͤgel betreffen,¶ 1.000
+
+mehrere Aufmerkſamkeit zu verwenden, und ſie¶ 1.000
+
+bisher mit allem Fleiſſe groͤſtentheils ganz aus⸗¶ 1.000
+
+zuarbeiten. Die ſeltenſten unter den hier be⸗¶ 1.000
+
+ſchriebenen Voͤgeln befinden ſich in der hieſigen¶
+|||||||||||||~||||||||||||||||||||||||||||||||||| 0.980
+ſchriebenen Vöͤgeln befinden ſich in der hieſigen¶
+
+Fuͤrſtl. Phaſanerie, wo ich ſie nach Gefallen¶ 1.000
+
+beobachten und die Beobachtungen des Phaſa⸗¶ 1.000
+
+nenwaͤrters benutzen konnte; zugleich befinden¶ 1.000
+
+ſich von dieſen und den uͤbrigen wohl erhaltene¶ 1.000
+
+Exemplare in dem von mir angelegten und unter¶ 1.000
+
+meiner Aufſicht ſtehenden Naturalienkabinete¶ 1.000
+
+der Durchlauchtigſten Prinzeſſin Marie¶ 1.000
+
+Friederike zu Heſſen. Die Schriftſteller¶ 1.000
+
+die ich dabei zu Rathe zu ziehen und zu vergleichen¶ 1.000
+
+Gelegenheit hatte, und deren eine ziemliche An⸗¶ 1.000
+
+zahl iſt, hier alle zu nennen, wuͤrde zu weitlaͤuftig¶
+|||||||||||||||||||||||||||||||||||||||||||~|||||||| 0.981
+zahl iſt, hier alle zu nennen, wuͤrde zu weiklaͤuftig¶
+
+ſein;¶ 1.000
+
+
+Character match (confusion) table:
+GRT => OCR  ratio  errors   count
+---    --- ------ ------- -------
+'.' => ' ' 0.1667       1       6
+'_' => 'N' 0.5000       1       2
+'_' => '¶' 0.5000       1       2
+'e' => 'z' 0.0058       1     172
+'oͤ' => 'öͤ' 0.2500       1       4
+'t' => 'k' 0.0208       1      48
+
+Summary:
+
+              lines   words   chars
+items ocr:       27     162    1116 matches + inserts + substitutions
+items grt:       26     160    1114 matches + deletions + substitutions
+matches:         22     156    1110 matches
+edits:            5       6       6 inserts + deletions + substitutions
+ subss:           4       4       4 substitutions
+ inserts:         1       2       2 inserts
+ deletions:       0       0       0 deletions
+precision:   0.8148  0.9630  0.9946 matches / (matches + substitutions + inserts)
+recall:      0.8462  0.9750  0.9964 matches / (matches + substitutions + deletions)
+accuracy:    0.8148  0.9630  0.9946 matches / (matches + substitutions + inserts + deletions)
+f-score:     0.8302  0.9689  0.9955 ( 2 * recall * precision ) / ( recall + precision )
+error:       0.1923  0.0375  0.0054 ( inserts + deletions + substitutions ) / (items grt )

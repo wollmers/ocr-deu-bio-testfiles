@@ -1,0 +1,585 @@
+../../ocr-measures/scripts/ocr-compare.pl Version 0.03
+
+Compare OCR text output against ground truth (GRT):
+File 1 (OCR): isis_0153.GT4Hist2M.normUmlaut.txt
+File 2 (GRT): isisvonoken00oken_0153.corr.long_s.txt
+
+249¶ 1.000
+
+8) G. Valentin, über den Verlauf und die letzten¶
+~|||||||||||||||||||||||||||||||||||||||||||||||| 0.980
+3) G. Valentin, über den Verlauf und die letzten¶
+
+Enden der Nerven, S. 51 mit 8 Tafeln.¶ 1.000
+
+Ein ſehr großer Aufſatz mit feinen Beobachtungen und¶ 1.000
+
+vielſeitigen Betrachtungen, welchet viele neue, Aufſchlüſſe über¶
+||||||||||||||||||||||||||||||||||~|||||||||||-|||||||||||||||||| 0.969
+vielſeitigen Betrachtungen, welcher viele neue_ Aufſchlüſſe über¶
+
+den Bäu und die Bedeutung der Neiven enthält. Die micro-¶
+|||||~||||||||||||||||||||||||||~|||||||||||||||||||||||| 0.965
+den Bau und die Bedeutung der Nerven enthält. Die micro-¶
+
+ſcopiſchen Abbildungen ſind fo zahlreich, daß wit nicht im Stan-¶
+||||||||||||||||||||||||||||~|||||||||||||||||||~|||||||||||||||| 0.969
+ſcopiſchen Abbildungen ſind ſo zahlreich, daß wir nicht im Stan-¶
+
+de ſind, den J_nyhalt derſelden anzuzeigen. Sie e_rteichen die¶
+||||||||||||||+|-|||||||||||~||||||||||||||||||||+|-||||||||||| 0.921
+de ſind, den Jnn_halt derſelben anzuzeigen. Sie err_eichen die¶
+
+Zahl von 86 und ſind vom Verfaſſer ſelbſt gezeichnet.¶ 1.000
+
+4_ J. F. Brandt, über den Bau der ſogena_ngten¶
+|+||||||||||||||||||||||||||||||||||||||+|-|||| 0.936
+4) J. F. Brandt, über den Bau der ſogenann_ten¶
+
+Moſchuödrüſen des Sorex moschatus, S. 241, mit einer Taf.¶
+||||||~||||||||||||||||||||||||||||||||||||||||||||||||||| 0.983
+Moſchusdrüſen des Sorex moschatus, S. 241, mit einer Taf.¶
+
+Man kannte zwar ſchon dieſe Drüſen durch die Unterfu-¶
+||||||||||||||||||||||||||||||||||||||||||||||||||~||| 0.981
+Man kannte zwar ſchon dieſe Drüſen durch die Unterſu-¶
+
+chungen von Pallas, welche jedoch nicht ſo ins Einzelne gien-¶ 1.000
+
+gen und übechaupt nicht ihre Bedeutung gehörig entwickelten,¶
+|||||||||||~||||||||||||||||||||||||||||||||||||||||||||||||| 0.984
+gen und überhaupt nicht ihre Bedeutung gehörig entwickelten,¶
+
+auch von keinen ſo einzelnen Abbildungen begleitet waren wie¶ 1.000
+
+hier. Der Verfaſſer ſtellt ſie in die Bedeutung der Afterdrü-¶ 1.000
+
+fen, obſchon ſie hinter dem After im Schwanze liegen. Er bil-¶
+~||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| 0.984
+ſen, obſchon ſie hinter dem After im Schwanze liegen. Er bil-¶
+
+det die einzelnen Bälge und ihre Oeffnungen ab.¶ 1.000
+
+5) H. von Meyer, Bepträge zu Bryon, einem Ge-¶
+|||||||||||||||||||~|||||||||~|||||||||||||||| 0.957
+5) H. von Meyer, Beyträge zu Eryon, einem Ge-¶
+
+ſchlechte foſſiler langſchwänziger Krebſe, S. 261, mit zwey¶ 1.000
+
+Tafeln.¶ 1.000
+
+Abgebildet ſind E. hartmanni, ſehr vollſtändig, et schu-¶ 1.000
+
+berti; beyde umſtändlich beſchrieben. B. cuvieri, schilotheimii.¶
+||||||||||||||||||||||||||||||||||||||~||||||||||||||-||||||||||| 0.969
+berti; beyde umſtändlich beſchrieben. E. cuvieri, sch_lotheimii.¶
+
+6) H. von Neyer, Abweichungen von der Fünfzahl¶
+||||||||||~|||||||||||||||||||||||||||||||||||| 0.979
+6) H. von Meyer, Abweichungen von der Fünfzahl¶
+
+bey Echinideen, _machgewieſen durch einen vierzähligen Cidariten¶
+||||||||||||||||+~|||||||||||||||||||||||||||||||||||||~||||||||| 0.954
+bey Echinideen, (nachgewieſen durch einen vierzähligen Eidariten¶
+
+und 6zähligen Galeriten, S. 285, mit einer Tafel;¶ 1.000
+
+ein intereſſanter Aufſatz über die von Agaſſiz angeregte¶ 1.000
+
+Symmetrie dieſer Thiere.¶ 1.000
+
+7) A. J. Corda, Anatome Hydrae fuscae pag. 297¶ 1.000
+
+cum tabulis tribus.¶ 1.000
+
+Der Verfaſſer bildet das Thier und ſeine einzelnen Theite¶
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||~|| 0.983
+Der Verfaſſer bildet das Thier und ſeine einzelnen Theile¶
+
+in ungeheurer Größe ab, und hat auch Dinge daran und darinn¶ 1.000
+
+gefunden, denen man bisher vergebens nachgegangen iſt; zuerſt¶ 1.000
+
+einen After, über den man ſich ſeit längerer Zeit geſtritten hat.¶ 1.000
+
+Der Leib ſchwillt an gewiſſen Stellen in Warzen an, welche¶ 1.000
+
+ſpiralförmig liegen und zum Taſten dienen; innwendig je 4¶ 1.000
+
+gelbliche Muſkelfaſern nach der Länge, welche die Extensores¶ 1.000
+
+tentaculi zu ſeyn ſcheinen; auch Addnctores tentaculi ſind¶
+||||||||||||||||||||||||||||||||||||~|||||||||||||||||||||| 0.983
+tentaculi zu ſeyn ſcheinen; auch Adductores tentaculi ſind¶
+
+vorhanden. Die Fühlfäden ſind hohl, ſtehen ader nicht mit der¶
+||||||||||||||||||||||||||||||||||||||||||||~||||||||||||||||| 0.984
+vorhanden. Die Fühlfäden ſind hohl, ſtehen aber nicht mit der¶
+
+Leibeshöhle in Verbindung; in ihrer eyweißartigen Maſſe liegen¶ 1.000
+
+braune Körner zerſtreut. Die Warzen auf den Exiensores¶
+||||||||||||||||||||||||||||||||||||||||||||||~|||||||| 0.982
+braune Körner zerſtreut. Die Warzen auf den Extensores¶
+
+tentaculi ſind merkwürdig gebaut. Sie ſtecken in einem Säck—¶
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||~| 0.984
+tentaculi ſind merkwürdig gebaut. Sie ſtecken in einem Säck-¶
+
+chen und endigen in eine Wimper. Dabey ſind noch andere¶ 1.000
+
+Organe, welche der Verfaſſer Hasta et Sagitta nennt und de-¶ 1.000
+
+ren Verhältniß ſich ohne Abbildung nicht begreiflich machen läßt.¶ 1.000
+
+Sie dienen zum Anfaſſen und ſcheinen ein Gift zu enthalten:¶ 1.000
+
+denn die gefangenen Thierchen ſterben ſogleich. Zwiſchen je 2¶ 1.000
+
+Fühlfäden ſteht eine Lippe. Der Leib veſteht aus 2 zelligen¶
+|||||||||||||||||||||||||||||||||||||~|||||||||||||||||||||| 0.983
+Fühlfäden ſteht eine Lippe. Der Leib beſteht aus 2 zelligen¶
+
+Hautſchichten; in der innern hat er Germina gefunden; in der¶ 1.000
+
+Darmhaut Zotten mit Oeffnungen. Sie verdauen außerordent-¶ 1.000
+
+lich ſchnell, eine Kerflarve in 4 Minuten; Körner von Vauche-¶ 1.000
+
+ria glohata gehen unverdaut fort.¶
+|||||||~|||||||||||||||||||||||||| 0.971
+ria globata gehen unverdaut fort.¶
+
+Die Abbildungen ſind ſehr ſchön.¶ 1.000
+
+8) Dieſing, helminthologiſche Beyträge, S. 805, mit¶ 1.000
+
+einer Tafel.¶ 1.000
+
+Jſis 1828. Heft 4.¶
+|||||||~||||||||||| 0.947
+Jſis 1838. Heft 4.¶
+
+250¶ 1.000
+
+Eine neue Azine, welches Wort der Verfaſſer in He—¶
+|||||||||||~|||||||||||||||||||||||||||||||||||||~| 0.961
+Eine neue Axine, welches Wort der Verfaſſer in He-¶
+
+teracanthus verwandelt. Es fand ſich auf den Kiemen von¶ 1.000
+
+Esox belone. Er ſtellt das Thier zu den Trematoden, und¶ 1.000
+
+nennt es Heteracanthus sagittatus, die frühere Axine aber¶
+||||||||||||||||||||||||||||||||||||||||||||||||~||||||||| 0.983
+nennt es Heteracanthus sagittatus, die frühere Arine aber¶
+
+IJ. pedatus. Er hat gefunden einen Darm, weibliche Theile,¶
+~-||||||||||||||||||||||||||||||||||||||||||||||||||||||||| 0.966
+H_. pedatus. Er hat gefunden einen Darm, weibliche Theile,¶
+
+Eyerſlock, männliche Theile zwitterhaft; Bäkchen und Stache_n¶
+|||||~|||||||||||||||||||||||||||||||||||~|||||||||||||||||+|| 0.952
+Eyerſtock, männliche Theile zwitterhaft; Häkchen und Stacheln¶
+
+am Schwanzende.¶ 1.000
+
+Ferner wird beſchrieben Tristoma papillosum und ab-¶ 1.000
+
+gebildet.¶ 1.000
+
+9) Walker-Arnott, Pugillus plantarum Indiae ori-¶
+|||||||||||||||||||||||||||||||||||||||||||||||~| 0.980
+9) Walker-Arnott, Pugillus plantarum Indiae ori—¶
+
+entalis p. 819 t. 1.¶
+|||||||||||~||||||||| 0.952
+entalis p. 319 t. 1.¶
+
+enthält Charactere von 126 Gattungen, und zwar dicoty-¶ 1.000
+
+ledoniſcher 30 Familien. Neue Sippen find: Rissoa (Limo-¶
+|||||||||||||||||||||||||||||||||||||~||||||||||||||||||| 0.982
+ledoniſcher 30 Familien. Neue Sippen ſind: Rissoa (Limo-¶
+
+nia); Moonia (Similis Bidenti); Syhesia (_sychotria vagi-¶
+||||||||||||||~|||||||||||||||||||~||||||+|||||||||||||||| 0.948
+nia); Moonia (similis Bidenti); Sykesia (Psychotria vagi-¶
+
+nans etc_) 857 Zuſatz von Nees de Solano Viglitii fig.¶
+||||||||+||~|||||||||||||||||||||||||||||~||~-||||||||| 0.909
+nans etc.) 357 Zuſatz von Nees de Solano wigh_tii fig.¶
+
+10_ Tindenberg, Monographie der Riccieen 361 mit¶
+||+|~|||||||||||||||||||||||||||||||||||||||||||| 0.959
+10) Lindenberg, Monographie der Riccieen 361 mit¶
+
+19 ill. Tafeln.¶ 1.000
+
+Ein ganzes Buch mit einer großen Einleitung über den¶ 1.000
+
+Bau dieſer merkwürdigen Pflanzen, fowie über ihr Wachsthum¶
+||||||||||||||||||||||||||||||||||~|||||||||||||||||||||||| 0.983
+Bau dieſer merkwürdigen Pflanzen, ſowie über ihr Wachsthum¶
+
+und ihre Fortpflanzung, reich an eigenen Beobachtungen. Die¶ 1.000
+
+Familie enthält folgende Sippen: Kiccis, Corsinia. Oxymi-¶
+|||||||||||||||||||||||||||||||||~||||~||||||||||~|||||||| 0.948
+Familie enthält folgende Sippen: Riccia, Corsinia, Oxymi-¶
+
+tra, Sphaerocarpus. Von den Riccien werden 21 Gattungen¶ 1.000
+
+deſchrieben und abgedildet; von Corſinien 1; von Oxymitten¶
+~|||||||||||||||||||~||||||||||||||||||||||||||||||||||~||| 0.949
+beſchrieben und abgebildet; von Corſinien 1; von Oxymitren¶
+
+13 von Sphärocarpen 1.¶
+|~||||||||||||||||||||| 0.957
+1; von Sphärocarpen 1.¶
+
+_1) Meyen, Beyträge zur Kenntniß der Azollen, S.¶
++|||||||||||||||||||||||||||||||||||||||||||||||| 0.980
+11) Meyen, Beyträge zur Kenntniß der Azollen, S.¶
+
+505, mit 1 Taf.¶ 1.000
+
+Ebenfalls eine ſehr genaue und microſcopiſche Unterſu-¶ 1.000
+
+chung dieſer merkwürdigen Pflanzen, mit deutlichen Abbildun-¶ 1.000
+
+gen der ſo vielfach beſtrittenen Fruchttheile.¶ 1.000
+
+12_ A. Senry, Beytrag zur Kenntniß der Laubknoſpen,¶
+||+||||~|||||||||||||||||||||||||||||||||||||||||||| 0.962
+12) A. Henry, Beytrag zur Kenntniß der Laubknoſpen,¶
+
+S. 626, mit 2 Taf.¶
+|||~|~||||||||||||| 0.895
+S. 525, mit 2 Taf.¶
+
+Sehr genaue Zeichnungen der Blätterlage von Knoſpen¶ 1.000
+
+unſers Laubholzes.¶ 1.000
+
+Dem Band iſt angehängt das meteorologiſche Jahrbuch¶ 1.000
+
+der Sternwarte zu Jena von Prof. Schron.¶
+|||||||||||||||||||||||||||||||||||||~||| 0.976
+der Sternwarte zu Jena von Prof. Schrön.¶
+
+Sehr zahlreic__________h__e,_______________________¶
+|||||||||||||++++++++++~++||+++++++++++++++++++++++| 0.308
+Sehr zahlreiche, mühſeelige, genaue und muſterhafte¶
+
+mühſcelige,¶
+------------ 0.000
+____________
+
+Beobachtungen.¶ 1.000
+
+genaue und muſterhafte¶
+----------------------- 0.000
+_______________________
+
+Waltl, Beytrage¶
+||||||||||||~||| 0.938
+Waltl, Beyträge¶
+
+zur nähern naturhiſtoriſchen Kenntniß des Unterdonaukreiſes¶ 1.000
+
+in Bayern.¶ 1.000
+
+(Erſte Fortſet_ung von 1887. S. 860.).¶
+||||||||||||||+||||||||||~|||||||||||-| 0.923
+(Erſte Fortſetzung von 1837. S. 860.)_¶
+
+Wir nähern uns nun auf dem Wege nach Kirchdorf, ei-¶ 1.000
+
+nem Dorfe, welches__ __244 Stunden vom Regen und 15 von¶
+||||||||||||||||||++|++|~-|||||||||||||||||||||||||||||| 0.893
+nem Dorfe, welches 2 1/2,_ Stunden vom Regen und 15 von¶
+
+Paſſau entfernt iſt, einer der erſten mineralogiſchen Merkwür-¶ 1.000
+
+digkeiten, dem ſogenannten Pfahl. Dieſes mächtige Quarzla-¶ 1.000
+
+ger erſtreckt ſich von Oſten gegen Nordweſten, von Kirchdorf¶ 1.000
+
+über acht Stunden weit, nach der Behauptung anderer kann¶ 1.000
+
+16*¶ 1.000
+
+
+Word mismatches:
+"(Psychotria"     1
+  "(sychotria"     1 (1.0000)
+"(nachgewieſen"     1
+  "machgewieſen"     1 (1.0000)
+"(similis"     1
+  "(Similis"     1 (1.0000)
+"1/2,"     1
+  "_"     1 (1.0000)
+"10)"     1
+  "10"     1 (1.0000)
+"11)"     1
+  "1)"     1 (1.0000)
+"12)"     1
+  "12"     1 (1.0000)
+"1837."     1
+  "1887."     1 (1.0000)
+"1838."     1
+  "1828."     1 (1.0000)
+"1;"     2
+  "13"     1 (0.5000)
+  "1;"     1 (0.5000)
+"2"     3
+  "2"     2 (0.6667)
+  "244"     1 (0.3333)
+"3)"     1
+  "8)"     1 (1.0000)
+"319"     1
+  "819"     1 (1.0000)
+"357"     1
+  "857"     1 (1.0000)
+"4)"     1
+  "4"     1 (1.0000)
+"525,"     1
+  "626,"     1 (1.0000)
+"860.)¶"     1
+  "860.).¶"     1 (1.0000)
+"Adductores"     1
+  "Addnctores"     1 (1.0000)
+"Arine"     1
+  "Axine"     1 (1.0000)
+"Axine,"     1
+  "Azine,"     1 (1.0000)
+"Bau"     3
+  "Bau"     2 (0.6667)
+  "Bäu"     1 (0.3333)
+"Beyträge"     2
+  "Bepträge"     1 (0.5000)
+  "Beyträge"     1 (0.5000)
+"Beyträge¶"     1
+  "Beytrage¶"     1 (1.0000)
+"Corsinia,"     1
+  "Corsinia."     1 (1.0000)
+"E."     2
+  "B."     1 (0.5000)
+  "E."     1 (0.5000)
+"Eidariten¶"     1
+  "Cidariten¶"     1 (1.0000)
+"Eryon,"     1
+  "Bryon,"     1 (1.0000)
+"Extensores¶"     2
+  "Exiensores¶"     1 (0.5000)
+  "Extensores¶"     1 (0.5000)
+"Eyerſtock,"     1
+  "Eyerſlock,"     1 (1.0000)
+"Fortſetzung"     1
+  "Fortſetung"     1 (1.0000)
+"H."     3
+  "H."     2 (0.6667)
+  "IJ."     1 (0.3333)
+"He-¶"     1
+  "He—¶"     1 (1.0000)
+"Henry,"     1
+  "Senry,"     1 (1.0000)
+"Häkchen"     1
+  "Bäkchen"     1 (1.0000)
+"Jnnhalt"     1
+  "Jnyhalt"     1 (1.0000)
+"Lindenberg,"     1
+  "Tindenberg,"     1 (1.0000)
+"Meyer,"     2
+  "Meyer,"     1 (0.5000)
+  "Neyer,"     1 (0.5000)
+"Moſchusdrüſen"     1
+  "Moſchuödrüſen"     1 (1.0000)
+"Nerven"     1
+  "Neiven"     1 (1.0000)
+"Oxymitren¶"     1
+  "Oxymitten¶"     1 (1.0000)
+"Riccia,"     1
+  "Kiccis,"     1 (1.0000)
+"Schrön.¶"     1
+  "Schron.¶"     1 (1.0000)
+"Stacheln¶"     1
+  "Stachen¶"     1 (1.0000)
+"Sykesia"     1
+  "Syhesia"     1 (1.0000)
+"Säck-¶"     1
+  "Säck—¶"     1 (1.0000)
+"Theile¶"     1
+  "Theite¶"     1 (1.0000)
+"Unterſu-¶"     2
+  "Unterfu-¶"     1 (0.5000)
+  "Unterſu-¶"     1 (0.5000)
+"_"     4
+  "genaue"     1 (0.2500)
+  "muſterhafte¶"     1 (0.2500)
+  "mühſcelige,¶"     1 (0.2500)
+  "und"     1 (0.2500)
+"aber"     1
+  "ader"     1 (1.0000)
+"abgebildet;"     1
+  "abgedildet;"     1 (1.0000)
+"beſchrieben"     2
+  "beſchrieben"     1 (0.5000)
+  "deſchrieben"     1 (0.5000)
+"beſteht"     1
+  "veſteht"     1 (1.0000)
+"derſelben"     1
+  "derſelden"     1 (1.0000)
+"erreichen"     1
+  "erteichen"     1 (1.0000)
+"etc.)"     1
+  "etc)"     1 (1.0000)
+"genaue"     3
+  "_"     1 (0.3333)
+  "genaue"     2 (0.6667)
+"globata"     1
+  "glohata"     1 (1.0000)
+"muſterhafte¶"     1
+  "_"     1 (1.0000)
+"mühſeelige,"     1
+  "_"     1 (1.0000)
+"neue"     2
+  "neue"     1 (0.5000)
+  "neue,"     1 (0.5000)
+"ori—¶"     1
+  "ori-¶"     1 (1.0000)
+"schlotheimii.¶"     1
+  "schilotheimii.¶"     1 (1.0000)
+"und"    21
+  "_"     1 (0.0476)
+  "und"    20 (0.9524)
+"welcher"     1
+  "welchet"     1 (1.0000)
+"wightii"     1
+  "Viglitii"     1 (1.0000)
+"wir"     1
+  "wit"     1 (1.0000)
+"zahlreiche,"     1
+  "zahlreiche,¶"     1 (1.0000)
+"überhaupt"     1
+  "übechaupt"     1 (1.0000)
+"ſen,"     1
+  "fen,"     1 (1.0000)
+"ſind:"     1
+  "find:"     1 (1.0000)
+"ſo"     4
+  "fo"     1 (0.2500)
+  "ſo"     3 (0.7500)
+"ſogenannten¶"     1
+  "ſogenangten¶"     1 (1.0000)
+"ſowie"     1
+  "fowie"     1 (1.0000)
+
+Character match (confusion) table:
+GRT => OCR  ratio  errors   count
+---    --- ------ ------- -------
+' ' => '_' 0.0076       5     660
+'(' => '_' 0.2000       1       5
+')' => '_' 0.2143       3      14
+',' => '.' 0.0154       1      65
+',' => '4' 0.0154       1      65
+',' => '_' 0.0154       1      65
+'-' => '—' 0.0833       2      24
+'.' => '_' 0.0135       1      74
+'/' => '_' 1.0000       1       1
+'1' => '_' 0.0909       2      22
+'2' => '_' 0.0667       1      15
+'3' => '2' 0.1429       1       7
+'3' => '8' 0.5714       4       7
+'5' => '6' 0.1818       2      11
+';' => '3' 0.0667       1      15
+'E' => 'B' 0.0952       2      21
+'E' => 'C' 0.0476       1      21
+'H' => 'B' 0.0909       1      11
+'H' => 'I' 0.0909       1      11
+'H' => 'S' 0.0909       1      11
+'L' => 'T' 0.1111       1       9
+'M' => 'N' 0.0909       1      11
+'P' => '_' 0.1250       1       8
+'R' => 'K' 0.2000       1       5
+'_' => ' ' 0.0455       2      44
+'_' => ',' 0.0455       2      44
+'_' => '.' 0.0227       1      44
+'_' => '4' 0.0227       1      44
+'_' => 'J' 0.0227       1      44
+'_' => 'a' 0.0455       2      44
+'_' => 'c' 0.0227       1      44
+'_' => 'd' 0.0227       1      44
+'_' => 'e' 0.1364       6      44
+'_' => 'f' 0.0227       1      44
+'_' => 'g' 0.0682       3      44
+'_' => 'h' 0.0455       2      44
+'_' => 'i' 0.0682       3      44
+'_' => 'l' 0.0227       1      44
+'_' => 'm' 0.0455       2      44
+'_' => 'n' 0.0455       2      44
+'_' => 'r' 0.0227       1      44
+'_' => 't' 0.0682       3      44
+'_' => 'u' 0.0682       3      44
+'_' => 'y' 0.0227       1      44
+'_' => '¶' 0.0455       2      44
+'_' => 'ü' 0.0227       1      44
+'_' => 'ſ' 0.0455       2      44
+'a' => '_' 0.0097       2     207
+'a' => 's' 0.0048       1     207
+'a' => 'ä' 0.0048       1     207
+'b' => 'd' 0.0548       4      73
+'b' => 'h' 0.0137       1      73
+'b' => 'v' 0.0137       1      73
+'d' => '_' 0.0061       1     163
+'e' => '_' 0.0108       7     649
+'f' => '_' 0.0161       1      62
+'g' => '_' 0.0169       2     118
+'h' => '_' 0.0171       3     175
+'h' => 'l' 0.0057       1     175
+'i' => '_' 0.0032       1     311
+'k' => 'h' 0.0526       1      19
+'l' => '_' 0.0072       1     139
+'l' => 'h' 0.0072       1     139
+'l' => 't' 0.0072       1     139
+'m' => '_' 0.0299       2      67
+'n' => '_' 0.0087       4     461
+'n' => 'm' 0.0022       1     461
+'r' => '_' 0.0076       2     264
+'r' => 'c' 0.0038       1     264
+'r' => 'i' 0.0038       1     264
+'r' => 't' 0.0114       3     264
+'r' => 'x' 0.0038       1     264
+'s' => 'S' 0.0172       1      58
+'s' => 'ö' 0.0172       1      58
+'t' => '_' 0.0090       2     223
+'t' => 'i' 0.0045       1     223
+'t' => 'l' 0.0045       1     223
+'u' => '_' 0.0205       3     146
+'u' => 'n' 0.0068       1     146
+'w' => 'V' 0.0263       1      38
+'x' => 'z' 0.1429       1       7
+'y' => 'p' 0.0400       1      25
+'z' => '_' 0.0213       1      47
+'ä' => 'a' 0.0357       1      28
+'ö' => 'o' 0.1250       1       8
+'ü' => '_' 0.0455       1      22
+'ſ' => '_' 0.0145       2     138
+'ſ' => 'f' 0.0362       5     138
+'—' => '-' 1.0000       1       1
+
+Summary:
+
+              lines   words   chars
+items ocr:      105     765    5081 matches + inserts + substitutions
+items grt:      107     764    5074 matches + deletions + substitutions
+matches:         61     693    4974 matches
+edits:           46      76     151 inserts + deletions + substitutions
+ subss:          44      67      56 substitutions
+ inserts:         0       5      51 inserts
+ deletions:       2       4      44 deletions
+precision:   0.5810  0.9059  0.9789 matches / (matches + substitutions + inserts)
+recall:      0.5701  0.9071  0.9803 matches / (matches + substitutions + deletions)
+accuracy:    0.5701  0.9012  0.9705 matches / (matches + substitutions + inserts + deletions)
+f-score:     0.5755  0.9065  0.9796 ( 2 * recall * precision ) / (recall + precision )
