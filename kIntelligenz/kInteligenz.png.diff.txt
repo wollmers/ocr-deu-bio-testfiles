@@ -1,4 +1,4 @@
-/Users/helmut/github/ocr-hw/ocr-measures/scripts/ocr-compare.pl Version 0.04
+../../ocr-measures/scripts/ocr-compare.pl Version 0.05
 
 Compare ground truth (GRT) against OCR text output:
 File 1 (GRT): kInteligenz_0000.png.gt.txt
@@ -20,41 +20,41 @@ zwölfte Tauſend dieſes Werkes. Ein erfreulicher Beweis, daß die mühſelige�
 ||||~|||||~|||||||||||||||~|||||||||||||||||||||||~||~||||||||||~~|||||||| 0.905
 zwölſte Tanſend dieſes Werles. Ein erfreulicher Bemeie, daß die nahſelige¶
 
-Arbeit des Verfaſſers keine vergebliche war, daß das We_rk ſich Bahn ge⸗¶
-||||||||||||||||-|-||||-|||||||||~|||||||||||||||||||||+~-||||-||||||||~| 0.877
-Arbeit des Verfa_ſ_rs k_ine vergetliche war, daß das Wert_ ſic_ Bahn ge.¶
+Arbeit des Verfaſſers keine vergebliche war, daß das Werk ſich Bahn ge⸗¶
+|||||||||||||||||--||||-|||||||||~||||||||||||||||||||||~||||-||||||||~| 0.903
+Arbeit des Verfaſ__rs k_ine vergetliche war, daß das Wert ſic_ Bahn ge.¶
 
 brochen und deſſen Verwendbarkeit Anklang bei dem Publikum gefunden hat.¶
 |||||||||||||||||||~|-||||||||||||||~|||||||||||~||||||||||||~||||||||||| 0.932
 brochen und deſſen Be_wendbarkeit Antlang bei den Publikum gejunden hat.¶
 
 Wie natürlich, verdanke ich dieſen günſtigen und verhältnismäßig raſchen¶
-~|||||~~||||||||||||||~|||-|||~|-|||~|-~|||||||||||||~||||~|~|||||~|-|||| 0.795
-wie nallrlich, verdankæ ic_ digſ_n gun_figen und verheltniemoßig roſ_hen¶
+~|||||~~||||||||||||||~|||-|||~|-|||~|~-|||||||||||||~||||~|~|||||~|-|||| 0.795
+wie nallrlich, verdankæ ic_ digſ_n gunf_igen und verheltniemoßig roſ_hen¶
 
 Erfolg, zum großen Teile der wohlwollenden Beurteilung, welche dem¶
-~|~|||||||||||~||||||||||||||||||||-|||||||||||||||||||||||||||||~| 0.925
-Crjolg, zum größen Teile der wohlwo_lenden Beurteilung, welche den¶
+~|~|||||||||||~|||||||||||||||||||||-||||||||||||||||||||||||||||~| 0.925
+Crjolg, zum größen Teile der wohlwol_enden Beurteilung, welche den¶
 
-„Deutſchen Wortſchatz“ ſeitens der K_ritik allgemein entgegengebracht w_urde.¶
-||||~||||||||||||||~~-||||||||||||||+~~~~-|||~||||||||||~||||||||||||||+~-||-| 0.795
-„Deulſchen Wortſchaß'_ ſeitens der Kritit_ alggemein enthegengebracht wun_de_¶
+„Deutſchen Wortſchatz“ ſeitens der Kritik allgemein entgegengebracht wurde.¶
+||||~||||||||||||||~~-||||||||||||||||||~|||~||||||||||~|||||||||||||||~||-| 0.882
+„Deulſchen Wortſchaß'_ ſeitens der Kritit alggemein enthegengebracht wunde_¶
 
-Indem ich hierfür meinen au_frichtigen Dank ausſprec_he, glaube ich einige¶
-~~|||||||||||||||||||||||||+|-||||||||||||~|||||||-|+||||~||||||||||||||~|| 0.880
-Fudem ich hierfür meinen auff_ichtigen Dant ausſpr_chhe, claube ich einihe¶
+Indem ich hierfür meinen aufrichtigen Dank ausſprech_e, glaube ich einige¶
+~~||||||||||||||||||||||||||~||||||||||||~|||||||-||+|||~||||||||||||||~|| 0.892
+Fudem ich hierfür meinen auffichtigen Dant ausſpr_chhe, claube ich einihe¶
 
-Worte der E_rklärung beifügen zu ſollen, bezüglich der hier und dort au_fge⸗¶
-|||||||||||+~-|~|||||||-|~|||||||||||||||||~~||||-|||||||||||||||||||||+~-||| 0.844
-Worte der Eri_lirung be_fagen zu ſollen, benuglic_ der hier und dort auft_e⸗¶
+Worte der Erklärung beifügen zu ſollen, bezüglich der hier und dort aufge⸗¶
+||||||||||||~|~|||||||-|~|||||||||||||||||~~||||-||||||||||||||||||||||~||| 0.893
+Worte der Erilirung be_fagen zu ſollen, benuglic_ der hier und dort aufte⸗¶
 
 tauchten Anſicht, daß behufs „Purifizierung“ der deutſchen Sprache die Fremd⸗¶
 ~~|||||||~-|||-||||||||||||||~|||||-|||||||-||||||||||||||||||||||||||||||~||| 0.885
 wuuchten Uͤ_ſic_t, daß behufs -Purif_zierung_ der deutſchen Sprache die Frend⸗¶
 
-wörter von der Aufnahme in dieſem We_rke ausgeſchloſſen ſein ſollten.¶
-||||||||||||||||||||||||||||||||~|||+~-|||||||||-|~-|||||||||||-||||-| 0.871
-wörter von der Aufnahme in dieſen Wert_e ausgeſc_la_ſen ſein ſo_lten_¶
+wörter von der Aufnahme in dieſem Werke ausgeſchloſſen ſein ſollten.¶
+||||||||||||||||||||||||||||||||~||||~|||||||||-|~|-|||||||||||-|||-| 0.899
+wörter von der Aufnahme in dieſen Werte ausgeſc_laſ_en ſein ſol_ten_¶
 
 Es iſt eine auf Erfahrung beruhende, wohlbekannte Tatſache, daß die¶
 ||||||||||||||||||||~||||||||||||||||||~|||~||||||||~|~||||||||||||| 0.926
@@ -72,45 +72,45 @@ läutert den Zweck des vorliegenden Werkes, dem Benützer die leichte Auf⸗¶
 ||||||||||||||||-|||||||||||||||||||||~||||||||||~|~-|||||||||||||||||||| 0.932
 läutert den Zwec_ des vorliegenden Werles, dem Berüb_er die leichte Auf⸗¶
 
-findung des ihm paſſenden Ausd_ruckes zu ermöglichen. — Das We_rk iſt für¶
--~~||||||||||||||||||-||||||-~+|~|-|||||||-|||||-||||-||||||||+~-|||-||||| 0.784
-_ſudung des ihm paſſe_den Au_chrnc_es zu e_mögli_hen._— Das Wert_ iſ_ für¶
+findung des ihm paſſenden Ausdruckes zu ermöglichen. — Das Werk iſt für¶
+~~-||||||||||||||||||-||||||~~|~|-|||||||-|||||-||||-|||||||||~|||-||||| 0.819
+ſu_dung des ihm paſſe_den Auchrnc_es zu e_mögli_hen._— Das Wert iſ_ für¶
 
 den Gebrauch ſowohl der Deutſchen als der Ausländer beſtimmt. Der letztere¶
-||||||||||||||||||||||||~||~||||||~|||||||~~-|~||||||||-~~||||||||||~-||||| 0.840
-den Gebrauch ſowohl der Heulſchen ols der ie_lender beſ_ünmt. Der leh_tere¶
+||||||||||||||||||||||||~||~||||||~|||||||~~-|~||||||||~~|-|||||||||~-||||| 0.840
+den Gebrauch ſowohl der Heulſchen ols der ie_lender beſünm_t. Der leh_tere¶
 
-befindet ſich nicht ſelten in der Lage, ein ihm geläu_figes Fremdwort nac_hzu⸗¶
-|||-||||||||||||||-||||||||||||||||||||||||||||||||~|+|-|||||||~|||||||||+|-||| 0.899
-bef_ndet ſich nich_ ſelten in der Lage, ein ihm gelkuff_ges Frendwort nachh_u⸗¶
+befindet ſich nicht ſelten in der Lage, ein ihm geläufiges Fremdwort nachzu⸗¶
+|||-||||||||||||||-||||||||||||||||||||||||||||||||~||~|||||||~||||||||||~||| 0.922
+bef_ndet ſich nich_ ſelten in der Lage, ein ihm gelkuffges Frendwort nachhu⸗¶
 
 ſchlagen, um den entſprechenden deutſchen Ausdruck aufzufinden.¶
-|-||||||~||||||||||||||||||||||||||~|-||||||~|~||-||||~~-~|||||| 0.828
-ſ_hlagen. um den entſprechenden deuiſ_hen Auedtuc_ aufmi_ſnden.¶
+|-||||||~||||||||||||||||||||||||||~|-||||||~|~||-||||~~~-|||||| 0.828
+ſ_hlagen. um den entſprechenden deuiſ_hen Auedtuc_ aufmiſ_nden.¶
 
-Bei der Herſtellung des We_rkes bin ich von der Anſicht ausgegangen,¶
-~|~|||||||||||-|||||||||||+~-|||||||||||||||||||||-~||||||||||||||||| 0.884
-Ver der Herſte_lung des Wert_es bin ich von der An_ſcht ausgegangen,¶
+Bei der Herſtellung des Werkes bin ich von der Anſicht ausgegangen,¶
+~|~||||||||||||-|||||||||||~||||||||||||||||||||||-||||||||||||||||| 0.926
+Ver der Herſtel_ung des Wertes bin ich von der Anſ_cht ausgegangen,¶
 
-daß der Benützer desſelben eine Er__klärung der vo_rkommenden Ausdrücke nicht¶
-||||||||~||||-|||~||||||||||||||~|++|--|||||||||||+~~-~||||||||||||~||-||||||| 0.808
-daß der Venüt_er besſelben eine Grllk__rung der vorty_nmenden Ausdräck_ nicht¶
+daß der Benützer desſelben eine Erklärung der vorkommenden Ausdrücke nicht¶
+||||||||~||||-|||~||||||||||||||~|~|~||||||||||||~~~||||||||||||~||-||||||| 0.853
+daß der Venüt_er besſelben eine Grllkrung der vortynmenden Ausdräck_ nicht¶
 
-bedürfe. Aber die Faſſung des We_rkes erforderte, daß den aufgenommenen¶
-||~~||||||||||||||||||||||||||||+~-|||||~||||~|||||||||||||||||||~|||||| 0.889
-bepurfe. Aber die Faſſung des Wert_es erſordente, daß den aufgenonmenen¶
+bedürfe. Aber die Faſſung des Werkes erforderte, daß den aufgenommenen¶
+||~~|||||||||||||||||||||||||||||~|||||~||||~|||||||||||||||||||~|||||| 0.915
+bepurfe. Aber die Faſſung des Wertes erſordente, daß den aufgenonmenen¶
 
 Fremdwörtern der entſprechende deutſche Ausdruck immer unmittelbar vorher⸗¶
-|||~||||||-~||||||||||||||||||||||~|-||||||||||-||~~|||||~||~|||||||||||||| 0.867
-Frendwörte_m der entſprechende deulſ_he Ausdruc_ inner unnitlelbar vorher⸗¶
+|||~||||||~-||||||||||||||||||||||~|-||||||||||-||~~|||||~||~|||||||||||||| 0.867
+Frendwörtem_ der entſprechende deulſ_he Ausdruc_ inner unnitlelbar vorher⸗¶
 
 gehe oder nachfolge; und gerade hiedurch iſt die Möglichkeit geboten, den¶
-||||||||||||||~||||||||||||||||||||||-~||||||||||~||||||~-|||||||||||||||| 0.919
-gehe oder nachſolge; und gerade hiedu_rh iſt die Wöglicht_it geboten, den¶
+||||||||||||||~|||||||||||||||||||||||-||||||||||~||||||~-|||||||||||||||| 0.932
+gehe oder nachſolge; und gerade hiedur_h iſt die Wöglicht_it geboten, den¶
 
-Gebrauch vie_ler, ſo häufig benützter Fremdwörter zu vermeiden und den¶
-~|||||||||||+~-|||||||~||||||||~|-|||||||~|||||||||||||-||||||||||||||| 0.873
-Cebrauch vielt_r, ſo houfig benat_ter Frendwörter zu ve_meiden und den¶
+Gebrauch vieler, ſo häufig benützter Fremdwörter zu vermeiden und den¶
+~||||||||||||~|||||||~||||||||~|-|||||||~|||||||||||||-||||||||||||||| 0.900
+Cebrauch vieltr, ſo houfig benat_ter Frendwörter zu ve_meiden und den¶
 
 „paſſenden Ausdruck“ in deutſcher Sprache zu verwenden. Dieſer Grund¶
 -|~||||||||||||||||~|||||||||||||||||||||||||||~-||||||||||||||~||||| 0.913
@@ -121,28 +121,28 @@ allein ſchon ſollte die Aufnahme von Fremdwörtern in dem_ „Deutſchen Wort�
 all_in ſchon ſoc__e die Aufnahme von Frendwörterm in dem. _Deulſ_hen Wort⸗¶
 
 ſchatz“ vollkommen berechtigt erſcheinen laſſen.¶
-||||~--|||-|||~|||||||||||||||~~~-------||||||||| 0.694
-ſchah__ vo_lkonmen berechtigt 11—_______ laſſen.¶
+||||~--||||-||~|||||||||||||||~~~-------||||||||| 0.694
+ſchah__ vol_konmen berechtigt 11—_______ laſſen.¶
 
 Indem ich nun auch für dieſe zweite Auflage eine wohlwollende Auf⸗¶
-||||~||||||||||||||||---~---|-|------|~|-||||-|||||||~|-||||||||~|| 0.687
-Inden ich nun auch fü___r___ _w______uſl_ge e_ne wohlvo_lende Auſ⸗¶
+||||~||||||||||||||||||-------|------|~|-||||-|||||||~||-|||||||~|| 0.701
+Inden ich nun auch für _______w______uſl_ge e_ne wohlvol_ende Auſ⸗¶
 
-nahme ſeitens der geehrten Kritik erhoffe__, erübrigt mir __noch auch jenen zahl⸗¶
-~~|~|||-|~-|||~|-||-||~-||||~~-~-||-|---|++|||-~||~~-|~|||++~---|-|~~|~-|||||~---| 0.476
-wohne ſ_ih_ns be_ g_ehn_en Kun_t_ e_h___eſk, e_ibrhk_ vir vng___ _urg ſ_nen z.___¶
+nahme ſeitens der geehrten Kritik erhoffe, erübrigt mir _noch auch jenen zahl⸗¶
+~~|~|||-|~-|||~|-|||-|~-||||~~|--||-|~~~-|||~-||~~-|~|||+|~--|-|~~|~-|||||~---| 0.506
+wohne ſ_ih_ns be_ ge_hn_en Kunt__ e_heſk_, ei_brhk_ vir vng__ _urg ſ_nen z.___¶
 
 reichen Benützern meines Werkes, welche mit ihren freundlichen Andeutungen¶
-|-|||||||||~~-|-~|||||||||||~||||||||||||||||||||||||||||||~||||||||||||||| 0.893
-r_ichen Benub_e_m meines Werles, welche mit ihren freundlicken Andeutungen¶
+|-|||||||||~~-|~-|||||||||||~||||||||||||||||||||||||||||||~||||||||||||||| 0.893
+r_ichen Benub_em_ meines Werles, welche mit ihren freundlicken Andeutungen¶
 
-mir be_hilflich an die Hand gegangen ſind, meinen Dank abzuſtatten und ihre¶
-||||||+~-|~|-|||~||||||||||||||||||||||||||||||||||||~|||||~|||||||||||||||| 0.895
-mir behl_lſl_ch on die Hand gegangen ſind, meinen Dant abzuftatten und ihre¶
+mir behilflich an die Hand gegangen ſind, meinen Dank abzuſtatten und ihre¶
+|||||||~|~|-|||~||||||||||||||||||||||||||||||||||||~|||||~|||||||||||||||| 0.920
+mir behllſl_ch on die Hand gegangen ſind, meinen Dant abzuftatten und ihre¶
 
-fernere Teilnahme für das We_rk zu erbitten.¶
-~|~|||||||||||||||||||||||||+~-|||||||||||||| 0.889
-‚emnere Teilnahme für das Wert_ zu erbitten.¶
+fernere Teilnahme für das Werk zu erbitten.¶
+~|~||||||||||||||||||||||||||~|||||||||||||| 0.932
+‚emnere Teilnahme für das Wert zu erbitten.¶
 
 Wien im Mai 1892.¶ 1.000
 
@@ -175,6 +175,555 @@ Per Perfaſſer.¶
 ¶ 1.000
 
 
+Word mismatches:
+"Anklang"     1
+  "Antlang"     1 (1.0000)
+"Anzahl"     1
+  "Arzahl"     1 (1.0000)
+"Anſicht"     1
+  "Anſcht"     1 (1.0000)
+"Anſicht,"     1
+  "Uͤſict,"     1 (1.0000)
+"Auflage"     2
+  "Auflage"     1 (0.5000)
+  "wohlvolende"     1 (0.5000)
+"Auflage.¶"     1
+  "Kuflage.¶"     1 (1.0000)
+"Auf⸗¶"     2
+  "Auf⸗¶"     1 (0.5000)
+  "_"     1 (0.5000)
+"Ausdruck"     2
+  "Auedtuc"     1 (0.5000)
+  "Ausdruc"     1 (0.5000)
+"Ausdruckes"     1
+  "Auchrnces"     1 (1.0000)
+"Ausdruck“"     1
+  "Ausdruck-"     1 (1.0000)
+"Ausdrücke"     1
+  "Ausdräck"     1 (1.0000)
+"Ausländer"     1
+  "ielender"     1 (1.0000)
+"Aus⸗¶"     1
+  "Aus¶"     1 (1.0000)
+"Bei"     1
+  "Ver"     1 (1.0000)
+"Benützer"     2
+  "Berüber"     1 (0.5000)
+  "Venüter"     1 (0.5000)
+"Benützern"     1
+  "Benubem"     1 (1.0000)
+"Beweis,"     1
+  "Bemeie,"     1 (1.0000)
+"Dank"     2
+  "Dant"     2 (1.0000)
+"Der"     2
+  "Der"     1 (0.5000)
+  "Per"     1 (0.5000)
+"Deutſchen"     1
+  "Heulſchen"     1 (1.0000)
+"Erfahrung"     1
+  "Erfabrung"     1 (1.0000)
+"Erfolg,"     1
+  "Crjolg,"     1 (1.0000)
+"Erklärung"     2
+  "Erilirung"     1 (0.5000)
+  "Grllkrung"     1 (0.5000)
+"Fremdwort"     1
+  "Frendwort"     1 (1.0000)
+"Fremdwörter"     1
+  "Frendwörter"     1 (1.0000)
+"Fremdwörtern"     2
+  "Frendwörtem"     1 (0.5000)
+  "Frendwörterm"     1 (0.5000)
+"Fremd⸗¶"     1
+  "Frend⸗¶"     1 (1.0000)
+"Gebrauch"     2
+  "Cebrauch"     1 (0.5000)
+  "Gebrauch"     1 (0.5000)
+"Gedanken"     1
+  "Gebanten"     1 (1.0000)
+"Grund¶"     1
+  "Orund¶"     1 (1.0000)
+"Herſtellung"     1
+  "Herſtelung"     1 (1.0000)
+"Hälfte"     1
+  "Hälſte"     1 (1.0000)
+"Indem"     2
+  "Fudem"     1 (0.5000)
+  "Inden"     1 (0.5000)
+"Inhalts"     1
+  "Irhalts"     1 (1.0000)
+"Kritik"     2
+  "Kritit"     1 (0.5000)
+  "Kunt"     1 (0.5000)
+"Menſchen"     1
+  "Wenſchen"     1 (1.0000)
+"Mit"     1
+  "Wir"     1 (1.0000)
+"Möglichkeit"     1
+  "Wöglichtit"     1 (1.0000)
+"Tatſache,"     1
+  "Talſuche,"     1 (1.0000)
+"Tauſend"     1
+  "Tanſend"     1 (1.0000)
+"Verfaſſer.¶"     1
+  "Perfaſſer.¶"     1 (1.0000)
+"Verfaſſers"     1
+  "Verfaſrs"     1 (1.0000)
+"Verwendbarkeit"     1
+  "Bewendbarkeit"     1 (1.0000)
+"Vorrede"     1
+  "Porrede"     1 (1.0000)
+"Werk"     3
+  "Wert"     3 (1.0000)
+"Werke"     1
+  "Werte"     1 (1.0000)
+"Werkes"     2
+  "Wertes"     2 (1.0000)
+"Werkes,"     2
+  "Werles,"     2 (1.0000)
+"Werkes."     1
+  "Werles."     1 (1.0000)
+"Wie"     1
+  "wie"     1 (1.0000)
+"Wortſchatzes“"     1
+  "Woriſhaßes"     1 (1.0000)
+"Wortſchatz“"     1
+  "Wortſchaß'"     1 (1.0000)
+"Zweck"     1
+  "Zwec"     1 (1.0000)
+"_"     5
+  "¶"     5 (1.0000)
+"abzuſtatten"     1
+  "abzuftatten"     1 (1.0000)
+"allein"     1
+  "allin"     1 (1.0000)
+"allgemein"     1
+  "alggemein"     1 (1.0000)
+"als"     1
+  "ols"     1 (1.0000)
+"an"     1
+  "on"     1 (1.0000)
+"auch"     2
+  "auch"     1 (0.5000)
+  "urg"     1 (0.5000)
+"aufgenommenen¶"     1
+  "aufgenonmenen¶"     1 (1.0000)
+"aufge⸗¶"     1
+  "aufte⸗¶"     1 (1.0000)
+"aufrichtigen"     1
+  "auffichtigen"     1 (1.0000)
+"aufzufinden.¶"     1
+  "aufmiſnden.¶"     1 (1.0000)
+"ausgeſchloſſen"     1
+  "ausgeſclaſen"     1 (1.0000)
+"ausſpreche,"     1
+  "ausſprchhe,"     1 (1.0000)
+"bedürfe."     1
+  "bepurfe."     1 (1.0000)
+"befindet"     1
+  "befndet"     1 (1.0000)
+"behilflich"     1
+  "behllſlch"     1 (1.0000)
+"beifügen"     1
+  "befagen"     1 (1.0000)
+"benützter"     1
+  "benatter"     1 (1.0000)
+"bezüglich"     1
+  "benuglic"     1 (1.0000)
+"beſchränkte"     1
+  "beſchrüntte"     1 (1.0000)
+"beſtimmt."     1
+  "beſünmt."     1 (1.0000)
+"dem"     3
+  "dem"     1 (0.3333)
+  "dem."     1 (0.3333)
+  "den"     1 (0.3333)
+"dem¶"     1
+  "den¶"     1 (1.0000)
+"der"    16
+  "be"     1 (0.0625)
+  "der"    15 (0.9375)
+"desſelben"     1
+  "besſelben"     1 (1.0000)
+"deutſche"     1
+  "deulſhe"     1 (1.0000)
+"deutſchen"     2
+  "deuiſhen"     1 (0.5000)
+  "deutſchen"     1 (0.5000)
+"dieſe"     1
+  "wuſlge"     1 (1.0000)
+"dieſem"     1
+  "dieſen"     1 (1.0000)
+"dieſen"     1
+  "digſn"     1 (1.0000)
+"eine"     4
+  "Auſ⸗¶"     1 (0.2500)
+  "eine"     3 (0.7500)
+"einige¶"     1
+  "einihe¶"     1 (1.0000)
+"einzukleiden."     1
+  "einhulläden."     1 (1.0000)
+"entgegengebracht"     1
+  "enthegengebracht"     1 (1.0000)
+"erforderte,"     1
+  "erſordente,"     1 (1.0000)
+"erhoffe,"     1
+  "eheſk,"     1 (1.0000)
+"ermöglichen."     1
+  "emöglihen.—"     1 (1.0000)
+"erübrigt"     1
+  "eibrhk"     1 (1.0000)
+"erſcheinen"     1
+  "11—"     1 (1.0000)
+"erſcheint"     1
+  "eſchint"     1 (1.0000)
+"fernere"     1
+  "‚emnere"     1 (1.0000)
+"findung"     1
+  "ſudung"     1 (1.0000)
+"freundlichen"     1
+  "freundlicken"     1 (1.0000)
+"gabe"     1
+  "babe"     1 (1.0000)
+"geehrten"     1
+  "gehnen"     1 (1.0000)
+"gefunden"     1
+  "gejunden"     1 (1.0000)
+"geläufiges"     1
+  "gelkuffges"     1 (1.0000)
+"ge⸗¶"     1
+  "ge.¶"     1 (1.0000)
+"glaube"     1
+  "claube"     1 (1.0000)
+"großen"     1
+  "größen"     1 (1.0000)
+"günſtigen"     1
+  "gunfigen"     1 (1.0000)
+"hiedurch"     1
+  "hiedurh"     1 (1.0000)
+"häufig"     1
+  "houfig"     1 (1.0000)
+"ich"     5
+  "ic"     1 (0.2000)
+  "ich"     4 (0.8000)
+"immer"     1
+  "inner"     1 (1.0000)
+"iſt"     3
+  "iſ"     1 (0.3333)
+  "iſt"     2 (0.6667)
+"jenen"     1
+  "ſnen"     1 (1.0000)
+"keine"     1
+  "kine"     1 (1.0000)
+"letztere¶"     1
+  "lehtere¶"     1 (1.0000)
+"meiſten"     1
+  "neiſten"     1 (1.0000)
+"mir"     2
+  "mir"     1 (0.5000)
+  "vir"     1 (0.5000)
+"mühſelige¶"     1
+  "nahſelige¶"     1 (1.0000)
+"nachfolge;"     1
+  "nachſolge;"     1 (1.0000)
+"nachzu⸗¶"     1
+  "nachhu⸗¶"     1 (1.0000)
+"nahme"     1
+  "wohne"     1 (1.0000)
+"natürlich,"     1
+  "nallrlich,"     1 (1.0000)
+"nicht"     1
+  "nich"     1 (1.0000)
+"noch"     1
+  "vng"     1 (1.0000)
+"nützen,"     1
+  "muhen,"     1 (1.0000)
+"paſſenden"     1
+  "paſſeden"     1 (1.0000)
+"raſchen¶"     1
+  "roſhen¶"     1 (1.0000)
+"reichen"     1
+  "richen"     1 (1.0000)
+"tauchten"     1
+  "wuuchten"     1 (1.0000)
+"um"     3
+  "um"     2 (0.6667)
+  "un"     1 (0.3333)
+"unmittelbar"     1
+  "unnitlelbar"     1 (1.0000)
+"verdanke"     1
+  "verdankæ"     1 (1.0000)
+"vergebliche"     1
+  "vergetliche"     1 (1.0000)
+"verhältnismäßig"     1
+  "verheltniemoßig"     1 (1.0000)
+"vermeiden"     1
+  "vemeiden"     1 (1.0000)
+"verwenden."     1
+  "vemenden."     1 (1.0000)
+"vieler,"     1
+  "vieltr,"     1 (1.0000)
+"vollkommen"     1
+  "volkonmen"     1 (1.0000)
+"vorkommenden"     1
+  "vortynmenden"     1 (1.0000)
+"wohlbekannte"     1
+  "woblbetannte"     1 (1.0000)
+"wohlwollende"     1
+  "_"     1 (1.0000)
+"wohlwollenden"     1
+  "wohlwolenden"     1 (1.0000)
+"wurde.¶"     1
+  "wunde¶"     1 (1.0000)
+"zahl⸗¶"     1
+  "z.¶"     1 (1.0000)
+"zur"     1
+  "jur"     1 (1.0000)
+"zweite"     1
+  "ene"     1 (1.0000)
+"zweiten"     2
+  "Iweiten"     1 (0.5000)
+  "zweiten"     1 (0.5000)
+"zwölfte"     1
+  "zwölſte"     1 (1.0000)
+"ſchatz“"     1
+  "ſchah"     1 (1.0000)
+"ſchlagen,"     1
+  "ſhlagen."     1 (1.0000)
+"ſeitens"     2
+  "ſeitens"     1 (0.5000)
+  "ſihns"     1 (0.5000)
+"ſich"     2
+  "ſic"     1 (0.5000)
+  "ſich"     1 (0.5000)
+"ſollte"     1
+  "ſoce"     1 (1.0000)
+"ſollten.¶"     1
+  "ſolten¶"     1 (1.0000)
+"—"     1
+  "_"     1 (1.0000)
+"„Deutſchen"     3
+  "Deulſchen"     1 (0.3333)
+  "Deulſhen"     1 (0.3333)
+  "„Deulſchen"     1 (0.3333)
+"„Purifizierung“"     1
+  "-Purifzierung"     1 (1.0000)
+"„paſſenden"     1
+  "poſſenden"     1 (1.0000)
+
+Character mismatches:
+" "   312
+  " "   309 (0.9904)
+  "_"     3 (0.0096)
+","    22
+  ","    21 (0.9545)
+  "."     1 (0.0455)
+"."    15
+  "."    13 (0.8667)
+  "_"     2 (0.1333)
+"A"    21
+  "A"    17 (0.8095)
+  "K"     1 (0.0476)
+  "Uͤ"     1 (0.0476)
+  "_"     1 (0.0476)
+  "i"     1 (0.0476)
+"B"     8
+  "B"     6 (0.7500)
+  "V"     2 (0.2500)
+"D"    11
+  "D"     9 (0.8182)
+  "H"     1 (0.0909)
+  "P"     1 (0.0909)
+"E"     6
+  "C"     1 (0.1667)
+  "E"     4 (0.6667)
+  "G"     1 (0.1667)
+"G"     4
+  "C"     1 (0.2500)
+  "G"     2 (0.5000)
+  "O"     1 (0.2500)
+"I"     3
+  "F"     1 (0.3333)
+  "I"     2 (0.6667)
+"M"     4
+  "M"     1 (0.2500)
+  "W"     3 (0.7500)
+"V"     4
+  "B"     1 (0.2500)
+  "P"     2 (0.5000)
+  "V"     1 (0.2500)
+"W"    17
+  "W"    16 (0.9412)
+  "w"     1 (0.0588)
+"_"     8
+  "."     1 (0.1250)
+  "h"     1 (0.1250)
+  "v"     1 (0.1250)
+  "¶"     5 (0.6250)
+"a"    81
+  "."     1 (0.0123)
+  "_"     2 (0.0247)
+  "a"    71 (0.8765)
+  "o"     5 (0.0617)
+  "u"     2 (0.0247)
+"b"    34
+  "b"    33 (0.9706)
+  "t"     1 (0.0294)
+"c"    70
+  "_"    10 (0.1429)
+  "c"    59 (0.8429)
+  "r"     1 (0.0143)
+"d"   114
+  "_"     1 (0.0088)
+  "b"     3 (0.0263)
+  "d"   108 (0.9474)
+  "h"     1 (0.0088)
+  "p"     1 (0.0088)
+"e"   374
+  "1"     1 (0.0027)
+  "_"    20 (0.0535)
+  "e"   349 (0.9332)
+  "g"     1 (0.0027)
+  "t"     1 (0.0027)
+  "ä"     1 (0.0027)
+  "æ"     1 (0.0027)
+"f"    40
+  "f"    26 (0.6500)
+  "j"     2 (0.0500)
+  "k"     1 (0.0250)
+  "ſ"    10 (0.2500)
+  "‚"     1 (0.0250)
+"g"    59
+  "b"     1 (0.0169)
+  "c"     1 (0.0169)
+  "g"    53 (0.8983)
+  "h"     2 (0.0339)
+  "k"     1 (0.0169)
+  "t"     1 (0.0169)
+"h"    99
+  "_"     8 (0.0808)
+  "b"     2 (0.0202)
+  "g"     1 (0.0101)
+  "h"    87 (0.8788)
+  "k"     1 (0.0101)
+"i"   129
+  "_"    12 (0.0930)
+  "f"     1 (0.0078)
+  "h"     1 (0.0078)
+  "i"   110 (0.8527)
+  "l"     1 (0.0078)
+  "n"     2 (0.0155)
+  "r"     1 (0.0078)
+  "u"     1 (0.0078)
+"j"     1
+  "ſ"     1 (1.0000)
+"k"    33
+  "_"     5 (0.1515)
+  "i"     1 (0.0303)
+  "k"     7 (0.2121)
+  "l"     5 (0.1515)
+  "t"    15 (0.4545)
+"l"    70
+  "_"     7 (0.1000)
+  "c"     1 (0.0143)
+  "g"     1 (0.0143)
+  "l"    61 (0.8714)
+"m"    47
+  "_"     1 (0.0213)
+  "m"    26 (0.5532)
+  "n"    19 (0.4043)
+  "v"     1 (0.0213)
+"n"   187
+  "_"     7 (0.0374)
+  "m"     2 (0.0107)
+  "n"   173 (0.9251)
+  "r"     3 (0.0160)
+  "u"     1 (0.0053)
+  "w"     1 (0.0053)
+"o"    42
+  "a"     1 (0.0238)
+  "e"     1 (0.0238)
+  "g"     1 (0.0238)
+  "o"    37 (0.8810)
+  "y"     1 (0.0238)
+  "ö"     1 (0.0238)
+"r"   159
+  "1"     1 (0.0063)
+  "_"     6 (0.0377)
+  "f"     1 (0.0063)
+  "i"     1 (0.0063)
+  "m"     4 (0.0252)
+  "n"     3 (0.0189)
+  "r"   141 (0.8868)
+  "t"     1 (0.0063)
+  "u"     1 (0.0063)
+"s"    41
+  "_"     1 (0.0244)
+  "c"     1 (0.0244)
+  "e"     3 (0.0732)
+  "s"    36 (0.8780)
+"t"    97
+  "_"     7 (0.0722)
+  "b"     2 (0.0206)
+  "h"     4 (0.0412)
+  "i"     2 (0.0206)
+  "l"     8 (0.0825)
+  "r"     1 (0.0103)
+  "t"    69 (0.7113)
+  "w"     1 (0.0103)
+  "ß"     2 (0.0206)
+  "ü"     1 (0.0103)
+"u"    91
+  "e"     1 (0.0110)
+  "i"     1 (0.0110)
+  "n"     2 (0.0220)
+  "u"    87 (0.9560)
+"w"    24
+  "_"     1 (0.0417)
+  "m"     1 (0.0417)
+  "v"     1 (0.0417)
+  "w"    21 (0.8750)
+"z"    29
+  "'"     1 (0.0345)
+  "I"     1 (0.0345)
+  "_"     9 (0.3103)
+  "h"     2 (0.0690)
+  "j"     1 (0.0345)
+  "m"     1 (0.0345)
+  "n"     1 (0.0345)
+  "z"    13 (0.4483)
+"ä"    10
+  "e"     2 (0.2000)
+  "i"     1 (0.1000)
+  "k"     2 (0.2000)
+  "o"     2 (0.2000)
+  "ä"     2 (0.2000)
+  "ü"     1 (0.1000)
+"ü"    17
+  "_"     1 (0.0588)
+  "a"     3 (0.1765)
+  "l"     1 (0.0588)
+  "u"     5 (0.2941)
+  "ä"     1 (0.0588)
+  "ü"     6 (0.3529)
+"ſ"    72
+  "_"     3 (0.0417)
+  "f"     2 (0.0278)
+  "ſ"    66 (0.9167)
+  "—"     1 (0.0139)
+"“"     5
+  "-"     1 (0.2000)
+  "_"     4 (0.8000)
+"„"     5
+  "-"     1 (0.2000)
+  "_"     3 (0.6000)
+  "„"     1 (0.2000)
+"⸗"    12
+  "."     1 (0.0833)
+  "_"     2 (0.1667)
+  "⸗"     9 (0.7500)
+
 Character match (confusion) table:
 GRT => OCR  ratio  errors   count
 ---    --- ------ ------- -------
@@ -197,119 +746,113 @@ GRT => OCR  ratio  errors   count
 'V' => 'B' 0.2500       1       4
 'V' => 'P' 0.5000       2       4
 'W' => 'w' 0.0588       1      17
-'_' => '.' 0.0333       1      30
-'_' => 'f' 0.1000       3      30
-'_' => 'h' 0.1333       4      30
-'_' => 'k' 0.0333       1      30
-'_' => 'l' 0.1000       3      30
-'_' => 'n' 0.0333       1      30
-'_' => 'r' 0.3000       9      30
-'_' => 'u' 0.0333       1      30
-'_' => 'v' 0.0333       1      30
-'_' => '¶' 0.1667       5      30
-'_' => 'ſ' 0.0333       1      30
+'_' => '.' 0.1250       1       8
+'_' => 'h' 0.1250       1       8
+'_' => 'v' 0.1250       1       8
+'_' => '¶' 0.6250       5       8
 'a' => '.' 0.0123       1      81
 'a' => '_' 0.0247       2      81
 'a' => 'o' 0.0617       5      81
 'a' => 'u' 0.0247       2      81
 'b' => 't' 0.0294       1      34
-'c' => '_' 0.1286       9      70
-'c' => 'r' 0.0286       2      70
+'c' => '_' 0.1429      10      70
+'c' => 'r' 0.0143       1      70
 'd' => '_' 0.0088       1     114
 'd' => 'b' 0.0263       3     114
-'d' => 'c' 0.0088       1     114
+'d' => 'h' 0.0088       1     114
 'd' => 'p' 0.0088       1     114
 'e' => '1' 0.0027       1     374
 'e' => '_' 0.0535      20     374
 'e' => 'g' 0.0027       1     374
+'e' => 't' 0.0027       1     374
 'e' => 'ä' 0.0027       1     374
 'e' => 'æ' 0.0027       1     374
-'f' => '_' 0.1000       4      40
 'f' => 'j' 0.0500       2      40
-'f' => 't' 0.0250       1      40
-'f' => 'ſ' 0.1750       7      40
+'f' => 'k' 0.0250       1      40
+'f' => 'ſ' 0.2500      10      40
 'f' => '‚' 0.0250       1      40
-'g' => '_' 0.0169       1      59
 'g' => 'b' 0.0169       1      59
 'g' => 'c' 0.0169       1      59
 'g' => 'h' 0.0339       2      59
 'g' => 'k' 0.0169       1      59
+'g' => 't' 0.0169       1      59
 'h' => '_' 0.0808       8      99
 'h' => 'b' 0.0202       2      99
 'h' => 'g' 0.0101       1      99
 'h' => 'k' 0.0101       1      99
-'h' => 'l' 0.0101       1      99
-'i' => '_' 0.0775      10     129
+'i' => '_' 0.0930      12     129
+'i' => 'f' 0.0078       1     129
 'i' => 'h' 0.0078       1     129
-'i' => 'n' 0.0078       1     129
-'i' => 'r' 0.0155       2     129
-'i' => 't' 0.0233       3     129
-'i' => 'ü' 0.0078       1     129
-'i' => 'ſ' 0.0233       3     129
+'i' => 'l' 0.0078       1     129
+'i' => 'n' 0.0155       2     129
+'i' => 'r' 0.0078       1     129
+'i' => 'u' 0.0078       1     129
 'j' => 'ſ' 1.0000       1       1
-'k' => '_' 0.3939      13      33
-'k' => 'l' 0.1212       4      33
-'k' => 't' 0.2121       7      33
-'k' => 'y' 0.0303       1      33
-'l' => '_' 0.1143       8      70
+'k' => '_' 0.1515       5      33
+'k' => 'i' 0.0303       1      33
+'k' => 'l' 0.1515       5      33
+'k' => 't' 0.4545      15      33
+'l' => '_' 0.1000       7      70
 'l' => 'c' 0.0143       1      70
 'l' => 'g' 0.0143       1      70
-'l' => 't' 0.0143       1      70
-'m' => 'n' 0.4255      20      47
+'m' => '_' 0.0213       1      47
+'m' => 'n' 0.4043      19      47
 'm' => 'v' 0.0213       1      47
-'n' => '_' 0.0214       4     187
-'n' => 'g' 0.0053       1     187
-'n' => 'm' 0.0214       4     187
+'n' => '_' 0.0374       7     187
+'n' => 'm' 0.0107       2     187
 'n' => 'r' 0.0160       3     187
-'n' => 'u' 0.0107       2     187
+'n' => 'u' 0.0053       1     187
 'n' => 'w' 0.0053       1     187
-'o' => '_' 0.0714       3      42
 'o' => 'a' 0.0238       1      42
+'o' => 'e' 0.0238       1      42
+'o' => 'g' 0.0238       1      42
+'o' => 'y' 0.0238       1      42
 'o' => 'ö' 0.0238       1      42
 'r' => '1' 0.0063       1     159
-'r' => '_' 0.0818      13     159
-'r' => 'i' 0.0126       2     159
-'r' => 'm' 0.0126       2     159
-'r' => 'n' 0.0126       2     159
-'r' => 't' 0.0503       8     159
+'r' => '_' 0.0377       6     159
+'r' => 'f' 0.0063       1     159
+'r' => 'i' 0.0063       1     159
+'r' => 'm' 0.0252       4     159
+'r' => 'n' 0.0189       3     159
+'r' => 't' 0.0063       1     159
 'r' => 'u' 0.0063       1     159
-'s' => '_' 0.0488       2      41
+'s' => '_' 0.0244       1      41
+'s' => 'c' 0.0244       1      41
 's' => 'e' 0.0732       3      41
-'t' => '_' 0.0825       8      97
+'t' => '_' 0.0722       7      97
 't' => 'b' 0.0206       2      97
-'t' => 'f' 0.0103       1      97
 't' => 'h' 0.0412       4      97
-'t' => 'i' 0.0309       3      97
+'t' => 'i' 0.0206       2      97
 't' => 'l' 0.0825       8      97
 't' => 'r' 0.0103       1      97
 't' => 'w' 0.0103       1      97
 't' => 'ß' 0.0206       2      97
+'t' => 'ü' 0.0103       1      97
 'u' => 'e' 0.0110       1      91
 'u' => 'i' 0.0110       1      91
-'u' => 'n' 0.0330       3      91
+'u' => 'n' 0.0220       2      91
 'w' => '_' 0.0417       1      24
 'w' => 'm' 0.0417       1      24
 'w' => 'v' 0.0417       1      24
 'z' => ''' 0.0345       1      29
 'z' => 'I' 0.0345       1      29
-'z' => '_' 0.3448      10      29
-'z' => 'h' 0.0345       1      29
+'z' => '_' 0.3103       9      29
+'z' => 'h' 0.0690       2      29
 'z' => 'j' 0.0345       1      29
 'z' => 'm' 0.0345       1      29
 'z' => 'n' 0.0345       1      29
-'ä' => '_' 0.1000       1      10
 'ä' => 'e' 0.2000       2      10
 'ä' => 'i' 0.1000       1      10
-'ä' => 'k' 0.1000       1      10
+'ä' => 'k' 0.2000       2      10
 'ä' => 'o' 0.2000       2      10
 'ä' => 'ü' 0.1000       1      10
+'ü' => '_' 0.0588       1      17
 'ü' => 'a' 0.1765       3      17
-'ü' => 'i' 0.0588       1      17
 'ü' => 'l' 0.0588       1      17
 'ü' => 'u' 0.2941       5      17
 'ü' => 'ä' 0.0588       1      17
-'ſ' => '_' 0.0694       5      72
-'ſ' => 'f' 0.0139       1      72
+'ſ' => '_' 0.0417       3      72
+'ſ' => 'f' 0.0278       2      72
 'ſ' => '—' 0.0139       1      72
 '“' => '-' 0.2000       1       5
 '“' => '_' 0.8000       4       5
@@ -323,13 +866,13 @@ Summary:
               lines   words   chars
 items ocr:       44     353    2365 matches + inserts + substitutions
 items grt:       39     351    2473 matches + deletions + substitutions
-matches:          3     183    2136 matches
-edits:           41     173     367 inserts + deletions + substitutions
- subss:          36     165     199 substitutions
- inserts:         5       5      30 inserts
- deletions:       0       3     138 deletions
-precision:   0.0682  0.5184  0.9032 matches / (matches + substitutions + inserts)
-recall:      0.0769  0.5214  0.8637 matches / (matches + substitutions + deletions)
-accuracy:    0.0682  0.5140  0.8534 matches / (matches + substitutions + inserts + deletions)
-f-score:     0.0723  0.5199  0.8830 ( 2 * recall * precision ) / ( recall + precision )
-error:       1.0513  0.4929  0.1484 ( inserts + deletions + substitutions ) / (items grt )
+matches:          3     183    2156 matches
+edits:           41     173     325 inserts + deletions + substitutions
+ subss:          36     165     201 substitutions
+ inserts:         5       5       8 inserts
+ deletions:       0       3     116 deletions
+precision:   0.0682  0.5184  0.9116 matches / (matches + substitutions + inserts)
+recall:      0.0769  0.5214  0.8718 matches / (matches + substitutions + deletions)
+accuracy:    0.0682  0.5140  0.8690 matches / (matches + substitutions + inserts + deletions)
+f-score:     0.0723  0.5199  0.8913 ( 2 * recall * precision ) / ( recall + precision )
+error rate:  1.0513  0.4929  0.1314 ( inserts + deletions + substitutions ) / (items grt )
